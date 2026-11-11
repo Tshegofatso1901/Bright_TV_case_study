@@ -1,0 +1,1001 @@
+Sub_ID,Sex,Ethnicity,Age_group,Regions,Email_flag,Social_media_handle_flag,RecordDate_SAST,Watch_date,Day_name,Month_name,Event_year,Event_day,Hour_of_day,Day_classification,Watch_time,Time_of_day,Duration,Duration_hours,Duration_seconds,Screen_time_bucket,Tv_channel
+903994,male,coloured,youth Adults,Western Cape,1,1,2016-01-04T20:09:00.000Z,2016-01-04,Mon,Jan,2016,4,20,01. Weekday,20:09:00,04. Evening,00:02:00,0.033333,120,04. No Usage,Trace TV
+802352,unknown,unknown,infant,Unclassified,1,1,2016-03-30T11:04:00.000Z,2016-03-30,Wed,Mar,2016,30,11,01. Weekday,11:04:00,02. Morning,00:10:06,0.168334,606,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+866125,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T19:01:00.000Z,2016-03-30,Wed,Mar,2016,30,19,01. Weekday,19:01:00,04. Evening,00:00:42,0.011667,42,04. No Usage,ICC Cricket World Cup 2011
+2425604,female,white,Elder,Gauteng,1,1,2016-03-25T17:23:00.000Z,2016-03-25,Fri,Mar,2016,25,17,01. Weekday,17:23:00,04. Evening,00:00:10,0.002778,10,04. No Usage,ICC Cricket World Cup 2011
+793571,female,white,Kids,Eastern Cape,1,1,2016-02-02T19:18:00.000Z,2016-02-02,Tue,Feb,2016,2,19,01. Weekday,19:18:00,04. Evening,00:01:33,0.025834,93,04. No Usage,SawSee
+793571,female,white,Kids,Eastern Cape,1,1,2016-03-18T18:56:00.000Z,2016-03-18,Fri,Mar,2016,18,18,01. Weekday,18:56:00,04. Evening,00:00:10,0.002778,10,04. No Usage,Boomerang
+793571,female,white,Kids,Eastern Cape,1,1,2016-03-20T06:25:00.000Z,2016-03-20,Sun,Mar,2016,20,6,02. Weekend,06:25:00,02. Morning,00:17:15,0.287500,1035,01. Low Usage (<30 min),Channel O
+793571,female,white,Kids,Eastern Cape,1,1,2016-02-03T08:43:00.000Z,2016-02-03,Wed,Feb,2016,3,8,01. Weekday,08:43:00,02. Morning,00:01:13,0.020278,73,04. No Usage,Boomerang
+819248,unknown,unknown,infant,Unclassified,1,1,2016-03-31T12:01:00.000Z,2016-03-31,Thu,Mar,2016,31,12,01. Weekday,12:01:00,03. Afternoon,00:04:45,0.079167,285,04. No Usage,Channel O
+820321,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-01-09T10:25:00.000Z,2016-01-09,Sat,Jan,2016,9,10,02. Weekend,10:25:00,02. Morning,00:00:40,0.011111,40,04. No Usage,Cartoon Network
+892453,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-24T11:09:00.000Z,2016-03-24,Thu,Mar,2016,24,11,01. Weekday,11:09:00,02. Morning,00:00:06,0.001667,6,04. No Usage,Live Events
+892453,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-26T17:33:00.000Z,2016-03-26,Sat,Mar,2016,26,17,02. Weekend,17:33:00,04. Evening,05:01:12,5.020000,18072,03. High Usage (>60 min),ICC Cricket World Cup 2011
+828799,male,unknown,Adults,Mpumalanga,1,1,2016-02-28T10:09:00.000Z,2016-02-28,Sun,Feb,2016,28,10,02. Weekend,10:09:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Channel O
+787656,male,black,youth Adults,Gauteng,1,1,2016-02-15T10:40:00.000Z,2016-02-15,Mon,Feb,2016,15,10,01. Weekday,10:40:00,02. Morning,00:11:15,0.187500,675,01. Low Usage (<30 min),Channel O
+939566,male,unknown,youth Adults,Mpumalanga,1,1,2016-01-09T17:40:00.000Z,2016-01-09,Sat,Jan,2016,9,17,02. Weekend,17:40:00,04. Evening,00:22:02,0.367223,1322,01. Low Usage (<30 min),Live Events
+771778,male,black,youth Adults,Eastern Cape,1,1,2016-02-05T15:47:00.000Z,2016-02-05,Fri,Feb,2016,5,15,01. Weekday,15:47:00,03. Afternoon,00:04:12,0.070000,252,04. No Usage,Live Events
+808915,male,black,Adults,Kwazulu Natal,1,1,2016-02-20T07:34:00.000Z,2016-02-20,Sat,Feb,2016,20,7,02. Weekend,07:34:00,02. Morning,00:01:14,0.020556,74,04. No Usage,SuperSport Blitz
+808915,male,black,Adults,Kwazulu Natal,1,1,2016-02-21T15:45:00.000Z,2016-02-21,Sun,Feb,2016,21,15,02. Weekend,15:45:00,03. Afternoon,00:00:50,0.013889,50,04. No Usage,Live Events
+808916,male,unknown,Adults,Western Cape,1,1,2016-02-19T13:03:00.000Z,2016-02-19,Fri,Feb,2016,19,13,01. Weekday,13:03:00,03. Afternoon,00:01:42,0.028334,102,04. No Usage,E! Entertainment
+808916,male,unknown,Adults,Western Cape,1,1,2016-02-19T22:15:00.000Z,2016-02-19,Fri,Feb,2016,19,22,01. Weekday,22:15:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Boomerang
+831679,male,coloured,youth Adults,Gauteng,1,1,2016-03-01T05:17:00.000Z,2016-03-01,Tue,Mar,2016,1,5,01. Weekday,05:17:00,01. Midnight,00:00:50,0.013889,50,04. No Usage,Live Events
+808917,male,black,youth Adults,Gauteng,1,1,2016-02-27T20:13:00.000Z,2016-02-27,Sat,Feb,2016,27,20,02. Weekend,20:13:00,04. Evening,00:00:26,0.007222,26,04. No Usage,Break in transmission
+808917,male,black,youth Adults,Gauteng,1,1,2016-02-28T22:20:00.000Z,2016-02-28,Sun,Feb,2016,28,22,02. Weekend,22:20:00,04. Evening,00:00:24,0.006667,24,04. No Usage,Live Events
+939570,male,unknown,youth Adults,Gauteng,1,1,2016-03-31T01:52:00.000Z,2016-03-31,Thu,Mar,2016,31,1,01. Weekday,01:52:00,01. Midnight,00:01:24,0.023334,84,04. No Usage,kykNET
+880213,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T21:13:00.000Z,2016-03-30,Wed,Mar,2016,30,21,01. Weekday,21:13:00,04. Evening,00:00:11,0.003056,11,04. No Usage,Africa Magic
+2255459,male,black,youth Adults,Mpumalanga,1,1,2016-03-09T10:51:00.000Z,2016-03-09,Wed,Mar,2016,9,10,01. Weekday,10:51:00,02. Morning,00:00:15,0.004167,15,04. No Usage,SawSee
+2255459,male,black,youth Adults,Mpumalanga,1,1,2016-03-29T04:23:00.000Z,2016-03-29,Tue,Mar,2016,29,4,01. Weekday,04:23:00,01. Midnight,00:07:54,0.131667,474,01. Low Usage (<30 min),Channel O
+808921,male,black,youth Adults,Mpumalanga,1,1,2016-03-02T08:01:00.000Z,2016-03-02,Wed,Mar,2016,2,8,01. Weekday,08:01:00,02. Morning,00:18:27,0.307500,1107,01. Low Usage (<30 min),Trace TV
+808921,male,black,youth Adults,Mpumalanga,1,1,2016-03-06T17:58:00.000Z,2016-03-06,Sun,Mar,2016,6,17,02. Weekend,17:58:00,04. Evening,00:00:48,0.013333,48,04. No Usage,Channel O
+831683,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-02-25T21:48:00.000Z,2016-02-25,Thu,Feb,2016,25,21,01. Weekday,21:48:00,04. Evening,00:00:42,0.011667,42,04. No Usage,CNN
+831683,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-02-25T17:59:00.000Z,2016-02-25,Thu,Feb,2016,25,17,01. Weekday,17:59:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Africa Magic
+831683,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-04T09:21:00.000Z,2016-03-04,Fri,Mar,2016,4,9,01. Weekday,09:21:00,02. Morning,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+761775,male,unknown,youth Adults,Gauteng,1,1,2016-02-04T16:12:00.000Z,2016-02-04,Thu,Feb,2016,4,16,01. Weekday,16:12:00,03. Afternoon,00:02:15,0.037500,135,04. No Usage,Cartoon Network
+761775,male,unknown,youth Adults,Gauteng,1,1,2016-01-25T17:59:00.000Z,2016-01-25,Mon,Jan,2016,25,17,01. Weekday,17:59:00,04. Evening,00:01:14,0.020556,74,04. No Usage,SuperSport Blitz
+866131,male,black,Adults,Western Cape,1,1,2016-03-07T19:16:00.000Z,2016-03-07,Mon,Mar,2016,7,19,01. Weekday,19:16:00,04. Evening,00:00:03,0.000833,3,04. No Usage,Boomerang
+904019,female,black,youth Adults,Gauteng,1,1,2016-03-29T18:03:00.000Z,2016-03-29,Tue,Mar,2016,29,18,01. Weekday,18:03:00,04. Evening,00:14:57,0.249166,897,01. Low Usage (<30 min),Africa Magic
+939575,male,black,youth Adults,Gauteng,1,1,2016-03-10T23:30:00.000Z,2016-03-10,Thu,Mar,2016,10,23,01. Weekday,23:30:00,04. Evening,00:01:22,0.022778,82,04. No Usage,Africa Magic
+808923,male,unknown,youth Adults,Eastern Cape,1,1,2016-02-21T20:03:00.000Z,2016-02-21,Sun,Feb,2016,21,20,02. Weekend,20:03:00,04. Evening,00:01:12,0.020000,72,04. No Usage,SuperSport Blitz
+808923,male,unknown,youth Adults,Eastern Cape,1,1,2016-02-17T20:45:00.000Z,2016-02-17,Wed,Feb,2016,17,20,01. Weekday,20:45:00,04. Evening,00:13:21,0.222500,801,01. Low Usage (<30 min),Trace TV
+933014,male,black,youth Adults,Limpopo,1,1,2016-04-01T01:24:00.000Z,2016-04-01,Fri,Apr,2016,1,1,01. Weekday,01:24:00,01. Midnight,00:00:00,0.000000,0,04. No Usage,Boomerang
+892461,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-12T10:24:00.000Z,2016-03-12,Sat,Mar,2016,12,10,02. Weekend,10:24:00,02. Morning,00:01:18,0.021667,78,04. No Usage,SawSee
+892461,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-09T05:54:00.000Z,2016-03-09,Wed,Mar,2016,9,5,01. Weekday,05:54:00,01. Midnight,00:00:00,0.000000,0,04. No Usage,SawSee
+2255463,male,black,Adults,Gauteng,1,1,2016-03-31T15:17:00.000Z,2016-03-31,Thu,Mar,2016,31,15,01. Weekday,15:17:00,03. Afternoon,00:00:54,0.015000,54,04. No Usage,Boomerang
+808926,male,coloured,youth Adults,Western Cape,1,1,2016-02-19T09:20:00.000Z,2016-02-19,Fri,Feb,2016,19,9,01. Weekday,09:20:00,02. Morning,01:29:08,1.485555,5348,03. High Usage (>60 min),Live Events
+808926,male,coloured,youth Adults,Western Cape,1,1,2016-02-21T08:27:00.000Z,2016-02-21,Sun,Feb,2016,21,8,02. Weekend,08:27:00,02. Morning,00:01:48,0.030000,108,04. No Usage,Channel O
+808926,male,coloured,youth Adults,Western Cape,1,1,2016-02-02T12:17:00.000Z,2016-02-02,Tue,Feb,2016,2,12,01. Weekday,12:17:00,03. Afternoon,00:01:06,0.018334,66,04. No Usage,Trace TV
+808926,male,coloured,youth Adults,Western Cape,1,1,2016-02-25T08:38:00.000Z,2016-02-25,Thu,Feb,2016,25,8,01. Weekday,08:38:00,02. Morning,00:03:14,0.053889,194,04. No Usage,Live Events
+808926,male,coloured,youth Adults,Western Cape,1,1,2016-02-18T14:00:00.000Z,2016-02-18,Thu,Feb,2016,18,14,01. Weekday,14:00:00,03. Afternoon,00:21:11,0.353056,1271,01. Low Usage (<30 min),Cartoon Network
+771783,male,indian_asian,youth Adults,Gauteng,1,1,2016-02-01T14:51:00.000Z,2016-02-01,Mon,Feb,2016,1,14,01. Weekday,14:51:00,03. Afternoon,00:04:45,0.079167,285,04. No Usage,Trace TV
+771783,male,indian_asian,youth Adults,Gauteng,1,1,2016-01-30T23:43:00.000Z,2016-01-30,Sat,Jan,2016,30,23,02. Weekend,23:43:00,04. Evening,00:00:13,0.003611,13,04. No Usage,SawSee
+2368357,male,black,Adults,Gauteng,1,1,2016-03-02T14:32:00.000Z,2016-03-02,Wed,Mar,2016,2,14,01. Weekday,14:32:00,03. Afternoon,00:03:52,0.064444,232,04. No Usage,SuperSport Blitz
+2368357,male,black,Adults,Gauteng,1,1,2016-03-08T12:46:00.000Z,2016-03-08,Tue,Mar,2016,8,12,01. Weekday,12:46:00,03. Afternoon,00:00:56,0.015556,56,04. No Usage,Live Events
+2368357,male,black,Adults,Gauteng,1,1,2016-03-08T17:28:00.000Z,2016-03-08,Tue,Mar,2016,8,17,01. Weekday,17:28:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Cartoon Network
+2368357,male,black,Adults,Gauteng,1,1,2016-03-08T17:28:00.000Z,2016-03-08,Tue,Mar,2016,8,17,01. Weekday,17:28:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Trace TV
+788616,female,black,Adults,Gauteng,1,1,2016-01-27T14:03:00.000Z,2016-01-27,Wed,Jan,2016,27,14,01. Weekday,14:03:00,03. Afternoon,00:00:06,0.001667,6,04. No Usage,SuperSport Blitz
+771785,male,black,Adults,Gauteng,1,1,2016-02-28T18:53:00.000Z,2016-02-28,Sun,Feb,2016,28,18,02. Weekend,18:53:00,04. Evening,00:00:46,0.012778,46,04. No Usage,ICC Cricket World Cup 2011
+630977,male,coloured,youth Adults,Gauteng,1,1,2016-01-16T11:52:00.000Z,2016-01-16,Sat,Jan,2016,16,11,02. Weekend,11:52:00,02. Morning,00:00:15,0.004167,15,04. No Usage,Trace TV
+808928,male,black,youth Adults,Gauteng,1,1,2016-02-13T21:35:00.000Z,2016-02-13,Sat,Feb,2016,13,21,02. Weekend,21:35:00,04. Evening,00:05:30,0.091666,330,01. Low Usage (<30 min),Channel O
+808928,male,black,youth Adults,Gauteng,1,1,2016-03-01T14:15:00.000Z,2016-03-01,Tue,Mar,2016,1,14,01. Weekday,14:15:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+831694,male,unknown,youth Adults,Limpopo,1,1,2016-03-02T00:07:00.000Z,2016-03-02,Wed,Mar,2016,2,0,01. Weekday,00:07:00,01. Midnight,00:00:02,0.000556,2,04. No Usage,Africa Magic
+808929,female,black,youth Adults,Eastern Cape,1,1,2016-01-11T20:18:00.000Z,2016-01-11,Mon,Jan,2016,11,20,01. Weekday,20:18:00,04. Evening,00:00:57,0.015833,57,04. No Usage,Africa Magic
+808929,female,black,youth Adults,Eastern Cape,1,1,2016-01-24T20:35:00.000Z,2016-01-24,Sun,Jan,2016,24,20,02. Weekend,20:35:00,04. Evening,01:32:32,1.542222,5552,03. High Usage (>60 min),Cartoon Network
+892465,male,black,Adults,Gauteng,1,1,2016-03-13T20:39:00.000Z,2016-03-13,Sun,Mar,2016,13,20,02. Weekend,20:39:00,04. Evening,00:02:31,0.041944,151,04. No Usage,Cartoon Network
+892465,male,black,Adults,Gauteng,1,1,2016-03-14T12:38:00.000Z,2016-03-14,Mon,Mar,2016,14,12,01. Weekday,12:38:00,03. Afternoon,00:00:36,0.010000,36,04. No Usage,Channel O
+892465,male,black,Adults,Gauteng,1,1,2016-03-18T16:04:00.000Z,2016-03-18,Fri,Mar,2016,18,16,01. Weekday,16:04:00,03. Afternoon,00:00:37,0.010278,37,04. No Usage,CNN
+892465,male,black,Adults,Gauteng,1,1,2016-03-19T09:23:00.000Z,2016-03-19,Sat,Mar,2016,19,9,02. Weekend,09:23:00,02. Morning,00:00:20,0.005556,20,04. No Usage,Vuzu
+892465,male,black,Adults,Gauteng,1,1,2016-03-31T12:45:00.000Z,2016-03-31,Thu,Mar,2016,31,12,01. Weekday,12:45:00,03. Afternoon,00:00:08,0.002222,8,04. No Usage,Africa Magic
+892465,male,black,Adults,Gauteng,1,1,2016-03-30T16:13:00.000Z,2016-03-30,Wed,Mar,2016,30,16,01. Weekday,16:13:00,03. Afternoon,00:00:26,0.007222,26,04. No Usage,Africa Magic
+820335,male,indian_asian,youth,Gauteng,1,1,2016-03-08T11:19:00.000Z,2016-03-08,Tue,Mar,2016,8,11,01. Weekday,11:19:00,02. Morning,00:22:56,0.382223,1376,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+820335,male,indian_asian,youth,Gauteng,1,1,2016-03-19T07:10:00.000Z,2016-03-19,Sat,Mar,2016,19,7,02. Weekend,07:10:00,02. Morning,00:00:06,0.001667,6,04. No Usage,Cartoon Network
+820335,male,indian_asian,youth,Gauteng,1,1,2016-03-12T11:38:00.000Z,2016-03-12,Sat,Mar,2016,12,11,02. Weekend,11:38:00,02. Morning,00:00:38,0.010556,38,04. No Usage,ICC Cricket World Cup 2011
+820335,male,indian_asian,youth,Gauteng,1,1,2016-03-12T11:48:00.000Z,2016-03-12,Sat,Mar,2016,12,11,02. Weekend,11:48:00,02. Morning,00:01:52,0.031111,112,04. No Usage,ICC Cricket World Cup 2011
+820335,male,indian_asian,youth,Gauteng,1,1,2016-03-09T15:14:00.000Z,2016-03-09,Wed,Mar,2016,9,15,01. Weekday,15:14:00,03. Afternoon,00:27:16,0.454444,1636,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+820335,male,indian_asian,youth,Gauteng,1,1,2016-03-26T14:44:00.000Z,2016-03-26,Sat,Mar,2016,26,14,02. Weekend,14:44:00,03. Afternoon,00:04:22,0.072778,262,04. No Usage,ICC Cricket World Cup 2011
+830836,male,unknown,youth Adults,Free State,1,1,2016-03-02T13:07:00.000Z,2016-03-02,Wed,Mar,2016,2,13,01. Weekday,13:07:00,03. Afternoon,00:00:07,0.001944,7,04. No Usage,Boomerang
+770963,unknown,unknown,infant,Unclassified,1,1,2016-03-24T11:45:00.000Z,2016-03-24,Thu,Mar,2016,24,11,01. Weekday,11:45:00,02. Morning,00:23:04,0.384444,1384,01. Low Usage (<30 min),Live Events
+770963,unknown,unknown,infant,Unclassified,1,1,2016-02-25T11:28:00.000Z,2016-02-25,Thu,Feb,2016,25,11,01. Weekday,11:28:00,02. Morning,00:06:10,0.102778,370,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+904035,male,black,youth Adults,Gauteng,1,1,2016-03-29T21:34:00.000Z,2016-03-29,Tue,Mar,2016,29,21,01. Weekday,21:34:00,04. Evening,00:05:42,0.095000,342,01. Low Usage (<30 min),E! Entertainment
+868888,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T13:55:00.000Z,2016-03-30,Wed,Mar,2016,30,13,01. Weekday,13:55:00,03. Afternoon,00:06:54,0.115000,414,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+808930,male,indian_asian,youth Adults,Limpopo,1,1,2016-02-22T10:29:00.000Z,2016-02-22,Mon,Feb,2016,22,10,01. Weekday,10:29:00,02. Morning,00:01:28,0.024445,88,04. No Usage,Live Events
+808930,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-02T11:38:00.000Z,2016-03-02,Wed,Mar,2016,2,11,01. Weekday,11:38:00,02. Morning,00:04:30,0.075000,270,04. No Usage,ICC Cricket World Cup 2011
+808930,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-11T10:40:00.000Z,2016-03-11,Fri,Mar,2016,11,10,01. Weekday,10:40:00,02. Morning,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+808930,male,indian_asian,youth Adults,Limpopo,1,1,2016-02-24T13:23:00.000Z,2016-02-24,Wed,Feb,2016,24,13,01. Weekday,13:23:00,03. Afternoon,00:03:56,0.065556,236,04. No Usage,ICC Cricket World Cup 2011
+808930,male,indian_asian,youth Adults,Limpopo,1,1,2016-02-24T10:33:00.000Z,2016-02-24,Wed,Feb,2016,24,10,01. Weekday,10:33:00,02. Morning,00:03:44,0.062222,224,04. No Usage,ICC Cricket World Cup 2011
+808930,male,indian_asian,youth Adults,Limpopo,1,1,2016-02-27T19:11:00.000Z,2016-02-27,Sat,Feb,2016,27,19,02. Weekend,19:11:00,04. Evening,00:00:28,0.007778,28,04. No Usage,Live Events
+808930,male,indian_asian,youth Adults,Limpopo,1,1,2016-02-23T17:26:00.000Z,2016-02-23,Tue,Feb,2016,23,17,01. Weekday,17:26:00,04. Evening,00:00:08,0.002222,8,04. No Usage,ICC Cricket World Cup 2011
+808930,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-30T14:19:00.000Z,2016-03-30,Wed,Mar,2016,30,14,01. Weekday,14:19:00,03. Afternoon,00:23:08,0.385555,1388,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+879414,male,coloured,youth Adults,Western Cape,1,1,2016-03-31T23:19:00.000Z,2016-03-31,Thu,Mar,2016,31,23,01. Weekday,23:19:00,04. Evening,00:00:52,0.014444,52,04. No Usage,CNN
+771791,male,black,youth Adults,Gauteng,1,1,2016-03-14T13:51:00.000Z,2016-03-14,Mon,Mar,2016,14,13,01. Weekday,13:51:00,03. Afternoon,00:02:54,0.048333,174,04. No Usage,Channel O
+771791,male,black,youth Adults,Gauteng,1,1,2016-03-06T07:02:00.000Z,2016-03-06,Sun,Mar,2016,6,7,02. Weekend,07:02:00,02. Morning,00:01:43,0.028611,103,04. No Usage,M-Net
+819259,female,white,Kids,Western Cape,1,1,2016-02-26T17:53:00.000Z,2016-02-26,Fri,Feb,2016,26,17,01. Weekday,17:53:00,04. Evening,00:01:44,0.028889,104,04. No Usage,Live Events
+2285528,male,unknown,youth Adults,Western Cape,1,1,2016-03-15T12:20:00.000Z,2016-03-15,Tue,Mar,2016,15,12,01. Weekday,12:20:00,03. Afternoon,00:53:50,0.897222,3230,02. Medium Usage (<60 min),ICC Cricket World Cup 2011
+868892,male,black,youth Adults,Gauteng,1,1,2016-03-12T16:47:00.000Z,2016-03-12,Sat,Mar,2016,12,16,02. Weekend,16:47:00,03. Afternoon,00:05:54,0.098333,354,01. Low Usage (<30 min),Trace TV
+808971,male,black,Adults,Gauteng,1,1,2016-02-08T12:45:00.000Z,2016-02-08,Mon,Feb,2016,8,12,01. Weekday,12:45:00,03. Afternoon,00:00:14,0.003889,14,04. No Usage,Boomerang
+868892,male,black,youth Adults,Gauteng,1,1,2016-03-10T12:50:00.000Z,2016-03-10,Thu,Mar,2016,10,12,01. Weekday,12:50:00,03. Afternoon,00:01:42,0.028334,102,04. No Usage,Channel O
+866251,male,black,youth Adults,Gauteng,1,1,2016-03-10T21:13:00.000Z,2016-03-10,Thu,Mar,2016,10,21,01. Weekday,21:13:00,04. Evening,00:04:31,0.075278,271,04. No Usage,Boomerang
+779369,male,black,Adults,Gauteng,1,1,2016-02-11T21:35:00.000Z,2016-02-11,Thu,Feb,2016,11,21,01. Weekday,21:35:00,04. Evening,00:20:39,0.344166,1239,01. Low Usage (<30 min),CNN
+779369,male,black,Adults,Gauteng,1,1,2016-01-20T07:20:00.000Z,2016-01-20,Wed,Jan,2016,20,7,01. Weekday,07:20:00,02. Morning,00:06:16,0.104444,376,01. Low Usage (<30 min),E! Entertainment
+779369,male,black,Adults,Gauteng,1,1,2016-01-18T15:06:00.000Z,2016-01-18,Mon,Jan,2016,18,15,01. Weekday,15:06:00,03. Afternoon,00:13:19,0.221945,799,01. Low Usage (<30 min),CNN
+1281997,female,coloured,youth,Free State,1,1,2016-02-20T18:51:00.000Z,2016-02-20,Sat,Feb,2016,20,18,02. Weekend,18:51:00,04. Evening,00:00:35,0.009722,35,04. No Usage,Cartoon Network
+615057,female,black,youth Adults,Limpopo,1,1,2016-01-10T09:34:00.000Z,2016-01-10,Sun,Jan,2016,10,9,02. Weekend,09:34:00,02. Morning,00:14:12,0.236666,852,01. Low Usage (<30 min),Channel O
+786055,female,white,youth Adults,Gauteng,1,1,2016-01-19T20:42:00.000Z,2016-01-19,Tue,Jan,2016,19,20,01. Weekday,20:42:00,04. Evening,00:01:03,0.017500,63,04. No Usage,Channel O
+786055,female,white,youth Adults,Gauteng,1,1,2016-01-18T19:49:00.000Z,2016-01-18,Mon,Jan,2016,18,19,01. Weekday,19:49:00,04. Evening,00:02:25,0.040277,145,04. No Usage,Live Events
+850656,male,black,youth Adults,Mpumalanga,1,1,2016-03-05T23:12:00.000Z,2016-03-05,Sat,Mar,2016,5,23,02. Weekend,23:12:00,04. Evening,00:00:16,0.004444,16,04. No Usage,Africa Magic
+850656,male,black,youth Adults,Mpumalanga,1,1,2016-03-06T07:25:00.000Z,2016-03-06,Sun,Mar,2016,6,7,02. Weekend,07:25:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Channel O
+850656,male,black,youth Adults,Mpumalanga,1,1,2016-03-06T09:09:00.000Z,2016-03-06,Sun,Mar,2016,6,9,02. Weekend,09:09:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Africa Magic
+2368365,male,coloured,youth Adults,Limpopo,1,1,2016-03-30T13:17:00.000Z,2016-03-30,Wed,Mar,2016,30,13,01. Weekday,13:17:00,03. Afternoon,00:38:12,0.636666,2292,02. Medium Usage (<60 min),ICC Cricket World Cup 2011
+764296,male,coloured,youth Adults,Western Cape,1,1,2016-02-04T10:42:00.000Z,2016-02-04,Thu,Feb,2016,4,10,01. Weekday,10:42:00,02. Morning,00:02:26,0.040555,146,04. No Usage,E! Entertainment
+764296,male,coloured,youth Adults,Western Cape,1,1,2016-02-01T22:10:00.000Z,2016-02-01,Mon,Feb,2016,1,22,01. Weekday,22:10:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Trace TV
+779373,male,black,Adults,Limpopo,1,1,2016-02-28T07:58:00.000Z,2016-02-28,Sun,Feb,2016,28,7,02. Weekend,07:58:00,02. Morning,00:06:27,0.107500,387,01. Low Usage (<30 min),CNN
+771793,female,indian_asian,Adults,Western Cape,1,1,2016-01-05T23:33:00.000Z,2016-01-05,Tue,Jan,2016,5,23,01. Weekday,23:33:00,04. Evening,00:04:56,0.082223,296,04. No Usage,Live Events
+771793,female,indian_asian,Adults,Western Cape,1,1,2016-01-10T06:43:00.000Z,2016-01-10,Sun,Jan,2016,10,6,02. Weekend,06:43:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Live Events
+771793,female,indian_asian,Adults,Western Cape,1,1,2016-02-18T22:23:00.000Z,2016-02-18,Thu,Feb,2016,18,22,01. Weekday,22:23:00,04. Evening,00:00:42,0.011667,42,04. No Usage,Trace TV
+771793,female,indian_asian,Adults,Western Cape,1,1,2016-02-12T02:38:00.000Z,2016-02-12,Fri,Feb,2016,12,2,01. Weekday,02:38:00,01. Midnight,00:02:33,0.042500,153,04. No Usage,Trace TV
+1106084,male,black,Adults,Gauteng,1,1,2016-03-22T20:50:00.000Z,2016-03-22,Tue,Mar,2016,22,20,01. Weekday,20:50:00,04. Evening,00:11:39,0.194166,699,01. Low Usage (<30 min),Channel O
+1106084,male,black,Adults,Gauteng,1,1,2016-03-05T19:30:00.000Z,2016-03-05,Sat,Mar,2016,5,19,02. Weekend,19:30:00,04. Evening,00:00:54,0.015000,54,04. No Usage,Live Events
+1106084,male,black,Adults,Gauteng,1,1,2016-03-06T11:20:00.000Z,2016-03-06,Sun,Mar,2016,6,11,02. Weekend,11:20:00,02. Morning,00:11:24,0.190000,684,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+1106084,male,black,Adults,Gauteng,1,1,2016-03-09T06:54:00.000Z,2016-03-09,Wed,Mar,2016,9,6,01. Weekday,06:54:00,02. Morning,00:03:24,0.056667,204,04. No Usage,Trace TV
+1106084,male,black,Adults,Gauteng,1,1,2016-03-09T20:00:00.000Z,2016-03-09,Wed,Mar,2016,9,20,01. Weekday,20:00:00,04. Evening,00:04:39,0.077500,279,04. No Usage,Channel O
+868895,male,coloured,youth Adults,Western Cape,1,1,2016-03-15T01:35:00.000Z,2016-03-15,Tue,Mar,2016,15,1,01. Weekday,01:35:00,01. Midnight,00:13:48,0.230000,828,01. Low Usage (<30 min),Trace TV
+868895,male,coloured,youth Adults,Western Cape,1,1,2016-03-12T14:18:00.000Z,2016-03-12,Sat,Mar,2016,12,14,02. Weekend,14:18:00,03. Afternoon,00:38:02,0.633889,2282,02. Medium Usage (<60 min),ICC Cricket World Cup 2011
+868895,male,coloured,youth Adults,Western Cape,1,1,2016-03-12T14:19:00.000Z,2016-03-12,Sat,Mar,2016,12,14,02. Weekend,14:19:00,03. Afternoon,00:01:09,0.019167,69,04. No Usage,Trace TV
+868895,male,coloured,youth Adults,Western Cape,1,1,2016-03-16T02:02:00.000Z,2016-03-16,Wed,Mar,2016,16,2,01. Weekday,02:02:00,01. Midnight,00:02:00,0.033333,120,04. No Usage,ICC Cricket World Cup 2011
+868895,male,coloured,youth Adults,Western Cape,1,1,2016-03-16T02:14:00.000Z,2016-03-16,Wed,Mar,2016,16,2,01. Weekday,02:14:00,01. Midnight,00:03:18,0.055000,198,04. No Usage,Channel O
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-24T14:17:00.000Z,2016-03-24,Thu,Mar,2016,24,14,01. Weekday,14:17:00,03. Afternoon,00:12:40,0.211111,760,01. Low Usage (<30 min),Live Events
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-11T18:58:00.000Z,2016-03-11,Fri,Mar,2016,11,18,01. Weekday,18:58:00,04. Evening,00:05:30,0.091666,330,01. Low Usage (<30 min),Boomerang
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-02-06T08:56:00.000Z,2016-02-06,Sat,Feb,2016,6,8,02. Weekend,08:56:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Live Events
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-02-06T12:38:00.000Z,2016-02-06,Sat,Feb,2016,6,12,02. Weekend,12:38:00,03. Afternoon,00:04:03,0.067500,243,04. No Usage,Trace TV
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-02-06T21:55:00.000Z,2016-02-06,Sat,Feb,2016,6,21,02. Weekend,21:55:00,04. Evening,00:03:38,0.060556,218,04. No Usage,Live Events
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-06T14:38:00.000Z,2016-03-06,Sun,Mar,2016,6,14,02. Weekend,14:38:00,03. Afternoon,00:04:57,0.082500,297,04. No Usage,Trace TV
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-02-12T19:16:00.000Z,2016-02-12,Fri,Feb,2016,12,19,01. Weekday,19:16:00,04. Evening,00:02:42,0.045000,162,04. No Usage,SuperSport Blitz
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-06T15:58:00.000Z,2016-03-06,Sun,Mar,2016,6,15,02. Weekend,15:58:00,03. Afternoon,00:01:02,0.017223,62,04. No Usage,Live Events
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-06T16:00:00.000Z,2016-03-06,Sun,Mar,2016,6,16,02. Weekend,16:00:00,03. Afternoon,00:01:38,0.027223,98,04. No Usage,Live Events
+808934,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-27T18:07:00.000Z,2016-03-27,Sun,Mar,2016,27,18,02. Weekend,18:07:00,04. Evening,00:01:30,0.025000,90,04. No Usage,Live Events
+939592,male,coloured,youth Adults,Western Cape,1,1,2016-03-27T16:51:00.000Z,2016-03-27,Sun,Mar,2016,27,16,02. Weekend,16:51:00,03. Afternoon,00:17:32,0.292222,1052,01. Low Usage (<30 min),Live Events
+771796,male,coloured,youth Adults,Western Cape,1,1,2016-02-05T17:17:00.000Z,2016-02-05,Fri,Feb,2016,5,17,01. Weekday,17:17:00,04. Evening,00:27:14,0.453889,1634,01. Low Usage (<30 min),SuperSport Blitz
+771796,male,coloured,youth Adults,Western Cape,1,1,2016-03-24T12:46:00.000Z,2016-03-24,Thu,Mar,2016,24,12,01. Weekday,12:46:00,03. Afternoon,00:02:28,0.041111,148,04. No Usage,Live Events
+771796,male,coloured,youth Adults,Western Cape,1,1,2016-02-06T18:10:00.000Z,2016-02-06,Sat,Feb,2016,6,18,02. Weekend,18:10:00,04. Evening,00:00:51,0.014167,51,04. No Usage,Channel O
+771796,male,coloured,youth Adults,Western Cape,1,1,2016-02-06T18:18:00.000Z,2016-02-06,Sat,Feb,2016,6,18,02. Weekend,18:18:00,04. Evening,00:00:18,0.005000,18,04. No Usage,Live Events
+771796,male,coloured,youth Adults,Western Cape,1,1,2016-03-27T18:58:00.000Z,2016-03-27,Sun,Mar,2016,27,18,02. Weekend,18:58:00,04. Evening,00:24:10,0.402778,1450,01. Low Usage (<30 min),Live Events
+771796,male,coloured,youth Adults,Western Cape,1,1,2016-03-26T19:00:00.000Z,2016-03-26,Sat,Mar,2016,26,19,02. Weekend,19:00:00,04. Evening,01:44:38,1.743889,6278,03. High Usage (>60 min),Live Events
+889840,male,black,youth Adults,Mpumalanga,1,1,2016-03-20T22:18:00.000Z,2016-03-20,Sun,Mar,2016,20,22,02. Weekend,22:18:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+2368371,male,coloured,Adults,Western Cape,1,1,2016-03-26T12:25:00.000Z,2016-03-26,Sat,Mar,2016,26,12,02. Weekend,12:25:00,03. Afternoon,00:08:12,0.136666,492,01. Low Usage (<30 min),Live Events
+617535,male,indian_asian,Adults,Gauteng,1,1,2016-01-11T22:08:00.000Z,2016-01-11,Mon,Jan,2016,11,22,01. Weekday,22:08:00,04. Evening,00:00:11,0.003056,11,04. No Usage,Africa Magic
+617961,male,indian_asian,youth Adults,Mpumalanga,1,1,2016-02-01T00:06:00.000Z,2016-02-01,Mon,Feb,2016,1,0,01. Weekday,00:06:00,01. Midnight,00:09:11,0.153056,551,01. Low Usage (<30 min),Boomerang
+771797,male,unknown,youth Adults,Gauteng,1,1,2016-02-03T15:31:00.000Z,2016-02-03,Wed,Feb,2016,3,15,01. Weekday,15:31:00,03. Afternoon,00:00:32,0.008889,32,04. No Usage,SuperSport Blitz
+67584,male,white,Elder,Western Cape,1,1,2016-01-18T17:04:00.000Z,2016-01-18,Mon,Jan,2016,18,17,01. Weekday,17:04:00,04. Evening,00:05:58,0.099444,358,01. Low Usage (<30 min),Live Events
+808936,male,white,youth Adults,Gauteng,1,1,2016-03-24T14:31:00.000Z,2016-03-24,Thu,Mar,2016,24,14,01. Weekday,14:31:00,03. Afternoon,00:05:50,0.097222,350,01. Low Usage (<30 min),Live Events
+808936,male,white,youth Adults,Gauteng,1,1,2016-02-18T12:25:00.000Z,2016-02-18,Thu,Feb,2016,18,12,01. Weekday,12:25:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Live Events
+590480,female,indian_asian,Kids,Western Cape,1,1,2016-01-04T18:11:00.000Z,2016-01-04,Mon,Jan,2016,4,18,01. Weekday,18:11:00,04. Evening,00:02:47,0.046389,167,04. No Usage,Africa Magic
+831713,female,black,youth Adults,North West,1,1,2016-03-14T09:08:00.000Z,2016-03-14,Mon,Mar,2016,14,9,01. Weekday,09:08:00,02. Morning,00:07:06,0.118334,426,01. Low Usage (<30 min),Trace TV
+831713,female,black,youth Adults,North West,1,1,2016-03-07T16:45:00.000Z,2016-03-07,Mon,Mar,2016,7,16,01. Weekday,16:45:00,03. Afternoon,00:15:21,0.255833,921,01. Low Usage (<30 min),Trace TV
+817216,male,white,youth Adults,Kwazulu Natal,1,1,2016-02-24T17:57:00.000Z,2016-02-24,Wed,Feb,2016,24,17,01. Weekday,17:57:00,04. Evening,00:02:56,0.048889,176,04. No Usage,ICC Cricket World Cup 2011
+817216,male,white,youth Adults,Kwazulu Natal,1,1,2016-02-25T23:13:00.000Z,2016-02-25,Thu,Feb,2016,25,23,01. Weekday,23:13:00,04. Evening,00:00:00,0.000000,0,04. No Usage,M-Net
+2406478,male,unknown,Adults,Eastern Cape,1,1,2016-03-26T15:50:00.000Z,2016-03-26,Sat,Mar,2016,26,15,02. Weekend,15:50:00,03. Afternoon,00:07:00,0.116667,420,01. Low Usage (<30 min),Live Events
+793592,unknown,unknown,infant,Unclassified,1,1,2016-03-21T14:34:00.000Z,2016-03-21,Mon,Mar,2016,21,14,01. Weekday,14:34:00,03. Afternoon,01:06:21,1.105833,3981,03. High Usage (>60 min),Channel O
+904063,male,black,youth Adults,Gauteng,1,1,2016-03-27T00:02:00.000Z,2016-03-27,Sun,Mar,2016,27,0,02. Weekend,00:02:00,01. Midnight,00:00:17,0.004722,17,04. No Usage,Cartoon Network
+904063,male,black,youth Adults,Gauteng,1,1,2016-03-26T22:09:00.000Z,2016-03-26,Sat,Mar,2016,26,22,02. Weekend,22:09:00,04. Evening,00:00:15,0.004167,15,04. No Usage,Cartoon Network
+586459,male,black,youth Adults,Free State,1,1,2016-01-02T11:49:00.000Z,2016-01-02,Sat,Jan,2016,2,11,02. Weekend,11:49:00,02. Morning,00:05:10,0.086111,310,01. Low Usage (<30 min),Cartoon Network
+791320,female,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-05T14:57:00.000Z,2016-03-05,Sat,Mar,2016,5,14,02. Weekend,14:57:00,03. Afternoon,00:00:14,0.003889,14,04. No Usage,ICC Cricket World Cup 2011
+791320,female,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-06T11:33:00.000Z,2016-03-06,Sun,Mar,2016,6,11,02. Weekend,11:33:00,02. Morning,00:13:04,0.217778,784,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+791320,female,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-06T10:32:00.000Z,2016-03-06,Sun,Mar,2016,6,10,02. Weekend,10:32:00,02. Morning,00:13:54,0.231667,834,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+771802,male,coloured,Adults,Western Cape,1,1,2016-01-02T14:42:00.000Z,2016-01-02,Sat,Jan,2016,2,14,02. Weekend,14:42:00,03. Afternoon,00:09:55,0.165278,595,01. Low Usage (<30 min),Boomerang
+771802,male,coloured,Adults,Western Cape,1,1,2016-01-30T16:11:00.000Z,2016-01-30,Sat,Jan,2016,30,16,02. Weekend,16:11:00,03. Afternoon,01:23:54,1.398333,5034,03. High Usage (>60 min),Live Events
+771802,male,coloured,Adults,Western Cape,1,1,2016-01-01T13:25:00.000Z,2016-01-01,Fri,Jan,2016,1,13,01. Weekday,13:25:00,03. Afternoon,00:00:21,0.005833,21,04. No Usage,CNN
+771802,male,coloured,Adults,Western Cape,1,1,2016-01-08T16:50:00.000Z,2016-01-08,Fri,Jan,2016,8,16,01. Weekday,16:50:00,03. Afternoon,00:06:06,0.101667,366,01. Low Usage (<30 min),Live Events
+771802,male,coloured,Adults,Western Cape,1,1,2016-01-01T04:37:00.000Z,2016-01-01,Fri,Jan,2016,1,4,01. Weekday,04:37:00,01. Midnight,00:01:06,0.018334,66,04. No Usage,CNN
+771802,male,coloured,Adults,Western Cape,1,1,2016-02-12T18:51:00.000Z,2016-02-12,Fri,Feb,2016,12,18,01. Weekday,18:51:00,04. Evening,01:19:52,1.331111,4792,03. High Usage (>60 min),Live Events
+808941,male,coloured,Adults,Western Cape,1,1,2016-03-01T02:30:00.000Z,2016-03-01,Tue,Mar,2016,1,2,01. Weekday,02:30:00,01. Midnight,00:00:32,0.008889,32,04. No Usage,SuperSport Blitz
+600713,male,black,youth Adults,Kwazulu Natal,1,1,2016-01-01T16:32:00.000Z,2016-01-01,Fri,Jan,2016,1,16,01. Weekday,16:32:00,03. Afternoon,00:47:18,0.788333,2838,02. Medium Usage (<60 min),Channel O
+600713,male,black,youth Adults,Kwazulu Natal,1,1,2016-01-13T16:27:00.000Z,2016-01-13,Wed,Jan,2016,13,16,01. Weekday,16:27:00,03. Afternoon,00:00:27,0.007500,27,04. No Usage,Channel O
+2407123,male,black,youth Adults,Mpumalanga,1,1,2016-03-14T09:40:00.000Z,2016-03-14,Mon,Mar,2016,14,9,01. Weekday,09:40:00,02. Morning,00:00:44,0.012222,44,04. No Usage,Boomerang
+2407123,male,black,youth Adults,Mpumalanga,1,1,2016-03-08T23:04:00.000Z,2016-03-08,Tue,Mar,2016,8,23,01. Weekday,23:04:00,04. Evening,00:08:40,0.144444,520,01. Low Usage (<30 min),Cartoon Network
+2407123,male,black,youth Adults,Mpumalanga,1,1,2016-03-06T11:48:00.000Z,2016-03-06,Sun,Mar,2016,6,11,02. Weekend,11:48:00,02. Morning,00:00:06,0.001667,6,04. No Usage,ICC Cricket World Cup 2011
+939600,male,black,youth Adults,Gauteng,1,1,2016-03-19T04:07:00.000Z,2016-03-19,Sat,Mar,2016,19,4,02. Weekend,04:07:00,01. Midnight,00:00:14,0.003889,14,04. No Usage,Africa Magic
+939600,male,black,youth Adults,Gauteng,1,1,2016-03-20T16:34:00.000Z,2016-03-20,Sun,Mar,2016,20,16,02. Weekend,16:34:00,03. Afternoon,00:00:42,0.011667,42,04. No Usage,ICC Cricket World Cup 2011
+939600,male,black,youth Adults,Gauteng,1,1,2016-03-20T17:36:00.000Z,2016-03-20,Sun,Mar,2016,20,17,02. Weekend,17:36:00,04. Evening,00:01:14,0.020556,74,04. No Usage,Live Events
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-22T18:45:00.000Z,2016-03-22,Tue,Mar,2016,22,18,01. Weekday,18:45:00,04. Evening,00:15:03,0.250833,903,01. Low Usage (<30 min),Channel O
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-18T22:38:00.000Z,2016-03-18,Fri,Mar,2016,18,22,01. Weekday,22:38:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Cartoon Network
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-18T10:19:00.000Z,2016-03-18,Fri,Mar,2016,18,10,01. Weekday,10:19:00,02. Morning,00:00:12,0.003333,12,04. No Usage,Live Events
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-18T22:05:00.000Z,2016-03-18,Fri,Mar,2016,18,22,01. Weekday,22:05:00,04. Evening,00:00:11,0.003056,11,04. No Usage,Cartoon Network
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-20T14:27:00.000Z,2016-03-20,Sun,Mar,2016,20,14,02. Weekend,14:27:00,03. Afternoon,00:00:49,0.013611,49,04. No Usage,Cartoon Network
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-28T15:33:00.000Z,2016-03-28,Mon,Mar,2016,28,15,01. Weekday,15:33:00,03. Afternoon,00:01:46,0.029445,106,04. No Usage,ICC Cricket World Cup 2011
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-28T15:46:00.000Z,2016-03-28,Mon,Mar,2016,28,15,01. Weekday,15:46:00,03. Afternoon,00:05:00,0.083333,300,01. Low Usage (<30 min),Channel O
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-25T06:46:00.000Z,2016-03-25,Fri,Mar,2016,25,6,01. Weekday,06:46:00,02. Morning,00:45:00,0.750000,2700,02. Medium Usage (<60 min),Channel O
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-25T06:26:00.000Z,2016-03-25,Fri,Mar,2016,25,6,01. Weekday,06:26:00,02. Morning,00:03:32,0.058889,212,04. No Usage,Africa Magic
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-29T11:28:00.000Z,2016-03-29,Tue,Mar,2016,29,11,01. Weekday,11:28:00,02. Morning,00:04:30,0.075000,270,04. No Usage,Channel O
+939602,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-21T18:36:00.000Z,2016-03-21,Mon,Mar,2016,21,18,01. Weekday,18:36:00,04. Evening,00:02:07,0.035277,127,04. No Usage,Africa Magic
+866315,male,black,youth Adults,Gauteng,1,1,2016-03-18T00:32:00.000Z,2016-03-18,Fri,Mar,2016,18,0,01. Weekday,00:32:00,01. Midnight,00:00:35,0.009722,35,04. No Usage,Boomerang
+939603,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-30T10:47:00.000Z,2016-03-30,Wed,Mar,2016,30,10,01. Weekday,10:47:00,02. Morning,00:34:22,0.572778,2062,02. Medium Usage (<60 min),ICC Cricket World Cup 2011
+808945,male,unknown,Adults,Western Cape,1,1,2016-03-01T21:19:00.000Z,2016-03-01,Tue,Mar,2016,1,21,01. Weekday,21:19:00,04. Evening,00:00:58,0.016111,58,04. No Usage,Break in transmission
+301011,male,black,Adults,North West,1,1,2016-01-08T19:03:00.000Z,2016-01-08,Fri,Jan,2016,8,19,01. Weekday,19:03:00,04. Evening,00:01:08,0.018889,68,04. No Usage,SuperSport Blitz
+831720,male,coloured,youth Adults,Western Cape,1,1,2016-03-01T17:04:00.000Z,2016-03-01,Tue,Mar,2016,1,17,01. Weekday,17:04:00,04. Evening,00:04:16,0.071111,256,04. No Usage,ICC Cricket World Cup 2011
+831720,male,coloured,youth Adults,Western Cape,1,1,2016-03-01T16:59:00.000Z,2016-03-01,Tue,Mar,2016,1,16,01. Weekday,16:59:00,03. Afternoon,00:10:10,0.169445,610,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+831721,male,black,youth Adults,Limpopo,1,1,2016-03-02T21:29:00.000Z,2016-03-02,Wed,Mar,2016,2,21,01. Weekday,21:29:00,04. Evening,00:04:39,0.077500,279,04. No Usage,Channel O
+831721,male,black,youth Adults,Limpopo,1,1,2016-03-02T21:33:00.000Z,2016-03-02,Wed,Mar,2016,2,21,01. Weekday,21:33:00,04. Evening,00:02:05,0.034722,125,04. No Usage,SawSee
+895195,male,white,youth Adults,Limpopo,1,1,2016-03-23T21:06:00.000Z,2016-03-23,Wed,Mar,2016,23,21,01. Weekday,21:06:00,04. Evening,00:07:48,0.130000,468,01. Low Usage (<30 min),Trace TV
+1289864,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-01-26T09:40:00.000Z,2016-01-26,Tue,Jan,2016,26,9,01. Weekday,09:40:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Trace TV
+808948,female,coloured,Adults,Western Cape,1,1,2016-02-11T07:04:00.000Z,2016-02-11,Thu,Feb,2016,11,7,01. Weekday,07:04:00,02. Morning,00:02:00,0.033333,120,04. No Usage,SuperSport Blitz
+808948,female,coloured,Adults,Western Cape,1,1,2016-02-18T05:26:00.000Z,2016-02-18,Thu,Feb,2016,18,5,01. Weekday,05:26:00,01. Midnight,00:00:12,0.003333,12,04. No Usage,Channel O
+808948,female,coloured,Adults,Western Cape,1,1,2016-02-18T15:46:00.000Z,2016-02-18,Thu,Feb,2016,18,15,01. Weekday,15:46:00,03. Afternoon,00:00:57,0.015833,57,04. No Usage,Channel O
+808948,female,coloured,Adults,Western Cape,1,1,2016-02-24T11:36:00.000Z,2016-02-24,Wed,Feb,2016,24,11,01. Weekday,11:36:00,02. Morning,00:01:00,0.016667,60,04. No Usage,Channel O
+808948,female,coloured,Adults,Western Cape,1,1,2016-03-18T13:42:00.000Z,2016-03-18,Fri,Mar,2016,18,13,01. Weekday,13:42:00,03. Afternoon,00:01:24,0.023334,84,04. No Usage,Trace TV
+808948,female,coloured,Adults,Western Cape,1,1,2016-03-18T13:55:00.000Z,2016-03-18,Fri,Mar,2016,18,13,01. Weekday,13:55:00,03. Afternoon,00:29:21,0.489166,1761,01. Low Usage (<30 min),Channel O
+808948,female,coloured,Adults,Western Cape,1,1,2016-02-10T21:46:00.000Z,2016-02-10,Wed,Feb,2016,10,21,01. Weekday,21:46:00,04. Evening,00:00:27,0.007500,27,04. No Usage,Channel O
+808948,female,coloured,Adults,Western Cape,1,1,2016-03-20T17:49:00.000Z,2016-03-20,Sun,Mar,2016,20,17,02. Weekend,17:49:00,04. Evening,00:00:18,0.005000,18,04. No Usage,Channel O
+808948,female,coloured,Adults,Western Cape,1,1,2016-02-23T13:18:00.000Z,2016-02-23,Tue,Feb,2016,23,13,01. Weekday,13:18:00,03. Afternoon,00:14:44,0.245555,884,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+808948,female,coloured,Adults,Western Cape,1,1,2016-02-13T03:05:00.000Z,2016-02-13,Sat,Feb,2016,13,3,02. Weekend,03:05:00,01. Midnight,00:01:42,0.028334,102,04. No Usage,Channel O
+779395,male,coloured,youth Adults,Western Cape,1,1,2016-02-14T14:01:00.000Z,2016-02-14,Sun,Feb,2016,14,14,02. Weekend,14:01:00,03. Afternoon,00:02:55,0.048611,175,04. No Usage,Cartoon Network
+779395,male,coloured,youth Adults,Western Cape,1,1,2016-02-10T16:07:00.000Z,2016-02-10,Wed,Feb,2016,10,16,01. Weekday,16:07:00,03. Afternoon,00:16:48,0.280000,1008,01. Low Usage (<30 min),Trace TV
+904090,male,unknown,youth Adults,Kwazulu Natal,1,1,2016-03-23T19:33:00.000Z,2016-03-23,Wed,Mar,2016,23,19,01. Weekday,19:33:00,04. Evening,00:00:24,0.006667,24,04. No Usage,Boomerang
+1106115,female,black,youth Adults,Western Cape,1,1,2016-01-11T18:06:00.000Z,2016-01-11,Mon,Jan,2016,11,18,01. Weekday,18:06:00,04. Evening,00:06:25,0.106944,385,01. Low Usage (<30 min),Africa Magic
+1106115,female,black,youth Adults,Western Cape,1,1,2016-01-11T17:33:00.000Z,2016-01-11,Mon,Jan,2016,11,17,01. Weekday,17:33:00,04. Evening,00:05:57,0.099166,357,01. Low Usage (<30 min),Trace TV
+820361,male,white,youth Adults,Mpumalanga,1,1,2016-03-05T19:29:00.000Z,2016-03-05,Sat,Mar,2016,5,19,02. Weekend,19:29:00,04. Evening,00:02:48,0.046666,168,04. No Usage,Live Events
+820361,male,white,youth Adults,Mpumalanga,1,1,2016-03-20T19:58:00.000Z,2016-03-20,Sun,Mar,2016,20,19,02. Weekend,19:58:00,04. Evening,00:02:12,0.036666,132,04. No Usage,Live Events
+820361,male,white,youth Adults,Mpumalanga,1,1,2016-02-27T14:54:00.000Z,2016-02-27,Sat,Feb,2016,27,14,02. Weekend,14:54:00,03. Afternoon,00:08:26,0.140555,506,01. Low Usage (<30 min),SuperSport Blitz
+820361,male,white,youth Adults,Mpumalanga,1,1,2016-02-27T15:14:00.000Z,2016-02-27,Sat,Feb,2016,27,15,02. Weekend,15:14:00,03. Afternoon,00:00:20,0.005556,20,04. No Usage,Live Events
+820361,male,white,youth Adults,Mpumalanga,1,1,2016-02-27T18:06:00.000Z,2016-02-27,Sat,Feb,2016,27,18,02. Weekend,18:06:00,04. Evening,00:00:08,0.002222,8,04. No Usage,Live Events
+820361,male,white,youth Adults,Mpumalanga,1,1,2016-03-03T08:11:00.000Z,2016-03-03,Thu,Mar,2016,3,8,01. Weekday,08:11:00,02. Morning,00:00:06,0.001667,6,04. No Usage,Cartoon Network
+771816,male,black,youth Adults,Gauteng,1,1,2016-01-01T08:59:00.000Z,2016-01-01,Fri,Jan,2016,1,8,01. Weekday,08:59:00,02. Morning,00:01:19,0.021945,79,04. No Usage,SawSee
+771816,male,black,youth Adults,Gauteng,1,1,2016-01-01T09:02:00.000Z,2016-01-01,Fri,Jan,2016,1,9,01. Weekday,09:02:00,02. Morning,00:00:39,0.010833,39,04. No Usage,Channel O
+771816,male,black,youth Adults,Gauteng,1,1,2016-01-01T19:29:00.000Z,2016-01-01,Fri,Jan,2016,1,19,01. Weekday,19:29:00,04. Evening,00:01:57,0.032500,117,04. No Usage,Trace TV
+771816,male,black,youth Adults,Gauteng,1,1,2016-03-23T13:09:00.000Z,2016-03-23,Wed,Mar,2016,23,13,01. Weekday,13:09:00,03. Afternoon,00:01:03,0.017500,63,04. No Usage,Cartoon Network
+771816,male,black,youth Adults,Gauteng,1,1,2016-02-06T21:26:00.000Z,2016-02-06,Sat,Feb,2016,6,21,02. Weekend,21:26:00,04. Evening,00:01:15,0.020834,75,04. No Usage,Trace TV
+771816,male,black,youth Adults,Gauteng,1,1,2016-02-27T11:32:00.000Z,2016-02-27,Sat,Feb,2016,27,11,02. Weekend,11:32:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Trace TV
+771816,male,black,youth Adults,Gauteng,1,1,2016-03-07T05:54:00.000Z,2016-03-07,Mon,Mar,2016,7,5,01. Weekday,05:54:00,01. Midnight,00:01:57,0.032500,117,04. No Usage,Trace TV
+771816,male,black,youth Adults,Gauteng,1,1,2016-03-01T08:27:00.000Z,2016-03-01,Tue,Mar,2016,1,8,01. Weekday,08:27:00,02. Morning,00:04:14,0.070556,254,04. No Usage,Cartoon Network
+788649,male,white,Adults,Gauteng,1,1,2016-01-15T18:12:00.000Z,2016-01-15,Fri,Jan,2016,15,18,01. Weekday,18:12:00,04. Evening,00:02:38,0.043889,158,04. No Usage,SuperSport Blitz
+939606,male,coloured,Adults,Western Cape,1,1,2016-03-30T07:53:00.000Z,2016-03-30,Wed,Mar,2016,30,7,01. Weekday,07:53:00,02. Morning,00:00:44,0.012222,44,04. No Usage,Cartoon Network
+831728,female,black,youth Adults,Eastern Cape,1,1,2016-03-12T22:45:00.000Z,2016-03-12,Sat,Mar,2016,12,22,02. Weekend,22:45:00,04. Evening,00:01:24,0.023334,84,04. No Usage,SuperSport Blitz
+939607,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-30T13:56:00.000Z,2016-03-30,Wed,Mar,2016,30,13,01. Weekday,13:56:00,03. Afternoon,00:00:46,0.012778,46,04. No Usage,ICC Cricket World Cup 2011
+808949,female,black,youth Adults,Kwazulu Natal,1,1,2016-02-20T08:53:00.000Z,2016-02-20,Sat,Feb,2016,20,8,02. Weekend,08:53:00,02. Morning,00:03:40,0.061111,220,04. No Usage,Africa Magic
+808949,female,black,youth Adults,Kwazulu Natal,1,1,2016-02-15T19:52:00.000Z,2016-02-15,Mon,Feb,2016,15,19,01. Weekday,19:52:00,04. Evening,00:00:29,0.008056,29,04. No Usage,Africa Magic
+808949,female,black,youth Adults,Kwazulu Natal,1,1,2016-03-02T12:21:00.000Z,2016-03-02,Wed,Mar,2016,2,12,01. Weekday,12:21:00,03. Afternoon,00:00:23,0.006389,23,04. No Usage,Africa Magic
+808949,female,black,youth Adults,Kwazulu Natal,1,1,2016-02-14T09:56:00.000Z,2016-02-14,Sun,Feb,2016,14,9,02. Weekend,09:56:00,02. Morning,00:00:25,0.006944,25,04. No Usage,Africa Magic
+808949,female,black,youth Adults,Kwazulu Natal,1,1,2016-03-09T10:24:00.000Z,2016-03-09,Wed,Mar,2016,9,10,01. Weekday,10:24:00,02. Morning,00:01:10,0.019445,70,04. No Usage,Boomerang
+806460,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-02-13T21:58:00.000Z,2016-02-13,Sat,Feb,2016,13,21,02. Weekend,21:58:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Boomerang
+460303,unknown,unknown,infant,Unclassified,1,1,2016-01-22T18:30:00.000Z,2016-01-22,Fri,Jan,2016,22,18,01. Weekday,18:30:00,04. Evening,00:01:15,0.020834,75,04. No Usage,Cartoon Network
+808950,male,black,youth Adults,Free State,1,1,2016-02-18T15:25:00.000Z,2016-02-18,Thu,Feb,2016,18,15,01. Weekday,15:25:00,03. Afternoon,00:02:37,0.043611,157,04. No Usage,Boomerang
+808950,male,black,youth Adults,Free State,1,1,2016-02-18T15:02:00.000Z,2016-02-18,Thu,Feb,2016,18,15,01. Weekday,15:02:00,03. Afternoon,00:01:06,0.018334,66,04. No Usage,Channel O
+808950,male,black,youth Adults,Free State,1,1,2016-02-18T07:57:00.000Z,2016-02-18,Thu,Feb,2016,18,7,01. Weekday,07:57:00,02. Morning,00:00:04,0.001111,4,04. No Usage,Boomerang
+808950,male,black,youth Adults,Free State,1,1,2016-02-20T16:29:00.000Z,2016-02-20,Sat,Feb,2016,20,16,02. Weekend,16:29:00,03. Afternoon,00:02:54,0.048333,174,04. No Usage,Live Events
+808950,male,black,youth Adults,Free State,1,1,2016-03-03T20:08:00.000Z,2016-03-03,Thu,Mar,2016,3,20,01. Weekday,20:08:00,04. Evening,00:05:38,0.093889,338,01. Low Usage (<30 min),SuperSport Blitz
+808950,male,black,youth Adults,Free State,1,1,2016-02-18T06:24:00.000Z,2016-02-18,Thu,Feb,2016,18,6,01. Weekday,06:24:00,02. Morning,00:02:15,0.037500,135,04. No Usage,Channel O
+808950,male,black,youth Adults,Free State,1,1,2016-02-18T09:37:00.000Z,2016-02-18,Thu,Feb,2016,18,9,01. Weekday,09:37:00,02. Morning,00:00:12,0.003333,12,04. No Usage,Trace TV
+808950,male,black,youth Adults,Free State,1,1,2016-02-18T16:49:00.000Z,2016-02-18,Thu,Feb,2016,18,16,01. Weekday,16:49:00,03. Afternoon,00:00:51,0.014167,51,04. No Usage,Channel O
+808950,male,black,youth Adults,Free State,1,1,2016-03-06T16:41:00.000Z,2016-03-06,Sun,Mar,2016,6,16,02. Weekend,16:41:00,03. Afternoon,00:00:16,0.004444,16,04. No Usage,Live Events
+808950,male,black,youth Adults,Free State,1,1,2016-03-03T06:23:00.000Z,2016-03-03,Thu,Mar,2016,3,6,01. Weekday,06:23:00,02. Morning,00:11:20,0.188889,680,01. Low Usage (<30 min),SuperSport Blitz
+808950,male,black,youth Adults,Free State,1,1,2016-03-27T12:37:00.000Z,2016-03-27,Sun,Mar,2016,27,12,02. Weekend,12:37:00,03. Afternoon,00:00:22,0.006111,22,04. No Usage,SuperSport Blitz
+892644,male,black,youth Adults,Gauteng,1,1,2016-03-21T09:49:00.000Z,2016-03-21,Mon,Mar,2016,21,9,01. Weekday,09:49:00,02. Morning,00:04:54,0.081667,294,04. No Usage,Boomerang
+925955,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T10:40:00.000Z,2016-03-30,Wed,Mar,2016,30,10,01. Weekday,10:40:00,02. Morning,00:06:00,0.100000,360,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+771823,male,black,youth Adults,Western Cape,1,1,2016-02-06T13:10:00.000Z,2016-02-06,Sat,Feb,2016,6,13,02. Weekend,13:10:00,03. Afternoon,00:01:15,0.020834,75,04. No Usage,Channel O
+853642,male,coloured,youth Adults,Kwazulu Natal,1,1,2016-03-06T23:22:00.000Z,2016-03-06,Sun,Mar,2016,6,23,02. Weekend,23:22:00,04. Evening,00:00:00,0.000000,0,04. No Usage,E! Entertainment
+904101,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-28T22:22:00.000Z,2016-03-28,Mon,Mar,2016,28,22,01. Weekday,22:22:00,04. Evening,00:01:06,0.018334,66,04. No Usage,Trace TV
+904101,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-25T00:59:00.000Z,2016-03-25,Fri,Mar,2016,25,0,01. Weekday,00:59:00,01. Midnight,00:00:00,0.000000,0,04. No Usage,E! Entertainment
+904101,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-26T15:21:00.000Z,2016-03-26,Sat,Mar,2016,26,15,02. Weekend,15:21:00,03. Afternoon,00:01:23,0.023056,83,04. No Usage,Africa Magic
+831732,male,coloured,youth Adults,Gauteng,1,1,2016-03-03T13:22:00.000Z,2016-03-03,Thu,Mar,2016,3,13,01. Weekday,13:22:00,03. Afternoon,00:10:45,0.179167,645,01. Low Usage (<30 min),Trace TV
+831732,male,coloured,youth Adults,Gauteng,1,1,2016-03-08T19:51:00.000Z,2016-03-08,Tue,Mar,2016,8,19,01. Weekday,19:51:00,04. Evening,00:01:23,0.023056,83,04. No Usage,Cartoon Network
+831732,male,coloured,youth Adults,Gauteng,1,1,2016-03-16T00:32:00.000Z,2016-03-16,Wed,Mar,2016,16,0,01. Weekday,00:32:00,01. Midnight,00:00:20,0.005556,20,04. No Usage,ICC Cricket World Cup 2011
+1106137,male,coloured,Adults,Western Cape,1,1,2016-01-08T23:02:00.000Z,2016-01-08,Fri,Jan,2016,8,23,01. Weekday,23:02:00,04. Evening,00:02:32,0.042222,152,04. No Usage,E! Entertainment
+1106137,male,coloured,Adults,Western Cape,1,1,2016-01-08T23:13:00.000Z,2016-01-08,Fri,Jan,2016,8,23,01. Weekday,23:13:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Cartoon Network
+865372,female,coloured,youth Adults,Kwazulu Natal,1,1,2016-03-28T08:07:00.000Z,2016-03-28,Mon,Mar,2016,28,8,01. Weekday,08:07:00,02. Morning,00:01:03,0.017500,63,04. No Usage,Boomerang
+865372,female,coloured,youth Adults,Kwazulu Natal,1,1,2016-03-27T07:10:00.000Z,2016-03-27,Sun,Mar,2016,27,7,02. Weekend,07:10:00,02. Morning,00:07:27,0.124167,447,01. Low Usage (<30 min),Boomerang
+2255518,male,black,Elder,Gauteng,1,1,2016-02-05T12:14:00.000Z,2016-02-05,Fri,Feb,2016,5,12,01. Weekday,12:14:00,03. Afternoon,00:01:06,0.018334,66,04. No Usage,Live Events
+2255518,male,black,Elder,Gauteng,1,1,2016-02-26T15:14:00.000Z,2016-02-26,Fri,Feb,2016,26,15,01. Weekday,15:14:00,03. Afternoon,00:00:36,0.010000,36,04. No Usage,CNN
+2255518,male,black,Elder,Gauteng,1,1,2016-02-15T07:24:00.000Z,2016-02-15,Mon,Feb,2016,15,7,01. Weekday,07:24:00,02. Morning,00:00:21,0.005833,21,04. No Usage,Break in transmission
+2255518,male,black,Elder,Gauteng,1,1,2016-02-24T11:54:00.000Z,2016-02-24,Wed,Feb,2016,24,11,01. Weekday,11:54:00,02. Morning,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+2255518,male,black,Elder,Gauteng,1,1,2016-01-12T17:23:00.000Z,2016-01-12,Tue,Jan,2016,12,17,01. Weekday,17:23:00,04. Evening,00:01:02,0.017223,62,04. No Usage,Live Events
+2255518,male,black,Elder,Gauteng,1,1,2016-01-28T11:45:00.000Z,2016-01-28,Thu,Jan,2016,28,11,01. Weekday,11:45:00,02. Morning,00:02:06,0.035000,126,04. No Usage,Live Events
+2255518,male,black,Elder,Gauteng,1,1,2016-01-03T16:58:00.000Z,2016-01-03,Sun,Jan,2016,3,16,02. Weekend,16:58:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Channel O
+779410,female,coloured,youth Adults,Gauteng,1,1,2016-01-21T19:19:00.000Z,2016-01-21,Thu,Jan,2016,21,19,01. Weekday,19:19:00,04. Evening,00:04:11,0.069723,251,04. No Usage,Cartoon Network
+779410,female,coloured,youth Adults,Gauteng,1,1,2016-02-03T14:04:00.000Z,2016-02-03,Wed,Feb,2016,3,14,01. Weekday,14:04:00,03. Afternoon,00:02:36,0.043333,156,04. No Usage,Trace TV
+771830,male,black,Adults,Gauteng,1,1,2016-01-01T16:43:00.000Z,2016-01-01,Fri,Jan,2016,1,16,01. Weekday,16:43:00,03. Afternoon,00:00:30,0.008333,30,04. No Usage,Trace TV
+507286,female,unknown,Kids,Eastern Cape,1,1,2016-01-02T17:59:00.000Z,2016-01-02,Sat,Jan,2016,2,17,02. Weekend,17:59:00,04. Evening,01:28:33,1.475834,5313,03. High Usage (>60 min),Trace TV
+507286,female,unknown,Kids,Eastern Cape,1,1,2016-01-04T19:01:00.000Z,2016-01-04,Mon,Jan,2016,4,19,01. Weekday,19:01:00,04. Evening,00:00:02,0.000556,2,04. No Usage,Cartoon Network
+507286,female,unknown,Kids,Eastern Cape,1,1,2016-01-04T09:31:00.000Z,2016-01-04,Mon,Jan,2016,4,9,01. Weekday,09:31:00,02. Morning,00:05:36,0.093333,336,01. Low Usage (<30 min),Boomerang
+507286,female,unknown,Kids,Eastern Cape,1,1,2016-01-04T12:21:00.000Z,2016-01-04,Mon,Jan,2016,4,12,01. Weekday,12:21:00,03. Afternoon,00:03:45,0.062500,225,04. No Usage,Cartoon Network
+507286,female,unknown,Kids,Eastern Cape,1,1,2016-01-01T07:32:00.000Z,2016-01-01,Fri,Jan,2016,1,7,01. Weekday,07:32:00,02. Morning,00:00:04,0.001111,4,04. No Usage,CNN
+507286,female,unknown,Kids,Eastern Cape,1,1,2016-01-03T17:00:00.000Z,2016-01-03,Sun,Jan,2016,3,17,02. Weekend,17:00:00,04. Evening,00:49:11,0.819723,2951,02. Medium Usage (<60 min),Boomerang
+1293309,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-23T13:03:00.000Z,2016-03-23,Wed,Mar,2016,23,13,01. Weekday,13:03:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+939619,male,coloured,Adults,Western Cape,1,1,2016-03-13T12:57:00.000Z,2016-03-13,Sun,Mar,2016,13,12,02. Weekend,12:57:00,03. Afternoon,00:00:21,0.005833,21,04. No Usage,M-Net
+939619,male,coloured,Adults,Western Cape,1,1,2016-03-13T10:55:00.000Z,2016-03-13,Sun,Mar,2016,13,10,02. Weekend,10:55:00,02. Morning,00:01:08,0.018889,68,04. No Usage,SuperSport Blitz
+988056,male,coloured,Adults,Western Cape,1,1,2016-03-31T19:35:00.000Z,2016-03-31,Thu,Mar,2016,31,19,01. Weekday,19:35:00,04. Evening,00:00:00,0.000000,0,04. No Usage,E! Entertainment
+18031,female,black,Adults,Gauteng,1,1,2016-01-28T20:49:00.000Z,2016-01-28,Thu,Jan,2016,28,20,01. Weekday,20:49:00,04. Evening,00:00:42,0.011667,42,04. No Usage,Live Events
+18031,female,black,Adults,Gauteng,1,1,2016-01-07T01:00:00.000Z,2016-01-07,Thu,Jan,2016,7,1,01. Weekday,01:00:00,01. Midnight,00:24:51,0.414167,1491,01. Low Usage (<30 min),CNN
+808958,male,black,youth Adults,Gauteng,1,1,2016-02-21T19:13:00.000Z,2016-02-21,Sun,Feb,2016,21,19,02. Weekend,19:13:00,04. Evening,00:08:36,0.143333,516,01. Low Usage (<30 min),SuperSport Blitz
+808958,male,black,youth Adults,Gauteng,1,1,2016-02-20T15:26:00.000Z,2016-02-20,Sat,Feb,2016,20,15,02. Weekend,15:26:00,03. Afternoon,00:00:39,0.010833,39,04. No Usage,Trace TV
+808958,male,black,youth Adults,Gauteng,1,1,2016-02-20T19:14:00.000Z,2016-02-20,Sat,Feb,2016,20,19,02. Weekend,19:14:00,04. Evening,00:00:27,0.007500,27,04. No Usage,Channel O
+808958,male,black,youth Adults,Gauteng,1,1,2016-03-02T11:10:00.000Z,2016-03-02,Wed,Mar,2016,2,11,01. Weekday,11:10:00,02. Morning,00:09:10,0.152778,550,01. Low Usage (<30 min),Boomerang
+808958,male,black,youth Adults,Gauteng,1,1,2016-02-21T15:56:00.000Z,2016-02-21,Sun,Feb,2016,21,15,02. Weekend,15:56:00,03. Afternoon,00:17:16,0.287777,1036,01. Low Usage (<30 min),Cartoon Network
+808958,male,black,youth Adults,Gauteng,1,1,2016-02-24T20:21:00.000Z,2016-02-24,Wed,Feb,2016,24,20,01. Weekday,20:21:00,04. Evening,00:14:51,0.247500,891,01. Low Usage (<30 min),Trace TV
+808958,male,black,youth Adults,Gauteng,1,1,2016-02-24T12:38:00.000Z,2016-02-24,Wed,Feb,2016,24,12,01. Weekday,12:38:00,03. Afternoon,00:00:12,0.003333,12,04. No Usage,Cartoon Network
+808958,male,black,youth Adults,Gauteng,1,1,2016-03-01T20:49:00.000Z,2016-03-01,Tue,Mar,2016,1,20,01. Weekday,20:49:00,04. Evening,00:00:40,0.011111,40,04. No Usage,Boomerang
+840343,male,white,Adults,Limpopo,1,1,2016-03-05T20:37:00.000Z,2016-03-05,Sat,Mar,2016,5,20,02. Weekend,20:37:00,04. Evening,00:05:18,0.088333,318,01. Low Usage (<30 min),Trace TV
+1106156,male,white,youth Adults,Mpumalanga,1,1,2016-03-31T22:16:00.000Z,2016-03-31,Thu,Mar,2016,31,22,01. Weekday,22:16:00,04. Evening,00:05:06,0.085000,306,01. Low Usage (<30 min),SuperSport Blitz
+793616,male,white,youth Adults,Gauteng,1,1,2016-01-25T06:11:00.000Z,2016-01-25,Mon,Jan,2016,25,6,01. Weekday,06:11:00,02. Morning,00:00:02,0.000556,2,04. No Usage,CNN
+793616,male,white,youth Adults,Gauteng,1,1,2016-01-24T16:16:00.000Z,2016-01-24,Sun,Jan,2016,24,16,02. Weekend,16:16:00,03. Afternoon,00:03:34,0.059444,214,04. No Usage,Africa Magic
+939622,male,white,Adults,Mpumalanga,1,1,2016-03-28T01:23:00.000Z,2016-03-28,Mon,Mar,2016,28,1,01. Weekday,01:23:00,01. Midnight,00:00:04,0.001111,4,04. No Usage,Boomerang
+939622,male,white,Adults,Mpumalanga,1,1,2016-03-28T15:14:00.000Z,2016-03-28,Mon,Mar,2016,28,15,01. Weekday,15:14:00,03. Afternoon,00:02:06,0.035000,126,04. No Usage,kykNET
+939622,male,white,Adults,Mpumalanga,1,1,2016-03-30T15:29:00.000Z,2016-03-30,Wed,Mar,2016,30,15,01. Weekday,15:29:00,03. Afternoon,00:00:19,0.005278,19,04. No Usage,CNN
+868925,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-08T12:27:00.000Z,2016-03-08,Tue,Mar,2016,8,12,01. Weekday,12:27:00,03. Afternoon,00:00:20,0.005556,20,04. No Usage,SuperSport Blitz
+764342,male,white,Adults,Eastern Cape,1,1,2016-02-02T08:11:00.000Z,2016-02-02,Tue,Feb,2016,2,8,01. Weekday,08:11:00,02. Morning,00:03:48,0.063333,228,04. No Usage,SuperSport Blitz
+808961,male,indian_asian,youth Adults,Gauteng,1,1,2016-02-20T03:51:00.000Z,2016-02-20,Sat,Feb,2016,20,3,02. Weekend,03:51:00,01. Midnight,00:24:00,0.400000,1440,01. Low Usage (<30 min),Boomerang
+808961,male,indian_asian,youth Adults,Gauteng,1,1,2016-02-22T18:24:00.000Z,2016-02-22,Mon,Feb,2016,22,18,01. Weekday,18:24:00,04. Evening,00:06:59,0.116389,419,01. Low Usage (<30 min),Boomerang
+853655,male,black,youth Adults,Gauteng,1,1,2016-02-16T17:45:00.000Z,2016-02-16,Tue,Feb,2016,16,17,01. Weekday,17:45:00,04. Evening,00:00:00,0.000000,0,04. No Usage,SawSee
+939624,male,black,youth Adults,Gauteng,1,1,2016-03-22T20:50:00.000Z,2016-03-22,Tue,Mar,2016,22,20,01. Weekday,20:50:00,04. Evening,00:01:21,0.022500,81,04. No Usage,Trace TV
+939624,male,black,youth Adults,Gauteng,1,1,2016-03-20T12:36:00.000Z,2016-03-20,Sun,Mar,2016,20,12,02. Weekend,12:36:00,03. Afternoon,00:00:53,0.014722,53,04. No Usage,Vuzu
+939624,male,black,youth Adults,Gauteng,1,1,2016-03-20T12:44:00.000Z,2016-03-20,Sun,Mar,2016,20,12,02. Weekend,12:44:00,03. Afternoon,00:02:09,0.035833,129,04. No Usage,Vuzu
+939624,male,black,youth Adults,Gauteng,1,1,2016-03-31T23:12:00.000Z,2016-03-31,Thu,Mar,2016,31,23,01. Weekday,23:12:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Boomerang
+939624,male,black,youth Adults,Gauteng,1,1,2016-03-31T23:22:00.000Z,2016-03-31,Thu,Mar,2016,31,23,01. Weekday,23:22:00,04. Evening,00:59:00,0.983333,3540,02. Medium Usage (<60 min),Trace TV
+939624,male,black,youth Adults,Gauteng,1,1,2016-03-16T19:07:00.000Z,2016-03-16,Wed,Mar,2016,16,19,01. Weekday,19:07:00,04. Evening,00:00:15,0.004167,15,04. No Usage,Vuzu
+2203312,male,coloured,Elder,Western Cape,1,1,2016-03-31T22:46:00.000Z,2016-03-31,Thu,Mar,2016,31,22,01. Weekday,22:46:00,04. Evening,00:00:22,0.006111,22,04. No Usage,Vuzu
+808965,male,coloured,Adults,Western Cape,1,1,2016-02-18T10:55:00.000Z,2016-02-18,Thu,Feb,2016,18,10,01. Weekday,10:55:00,02. Morning,00:00:10,0.002778,10,04. No Usage,SuperSport Blitz
+808965,male,coloured,Adults,Western Cape,1,1,2016-02-15T21:55:00.000Z,2016-02-15,Mon,Feb,2016,15,21,01. Weekday,21:55:00,04. Evening,00:00:30,0.008333,30,04. No Usage,Live Events
+808965,male,coloured,Adults,Western Cape,1,1,2016-02-24T14:14:00.000Z,2016-02-24,Wed,Feb,2016,24,14,01. Weekday,14:14:00,03. Afternoon,00:04:04,0.067778,244,04. No Usage,ICC Cricket World Cup 2011
+808965,male,coloured,Adults,Western Cape,1,1,2016-02-18T08:44:00.000Z,2016-02-18,Thu,Feb,2016,18,8,01. Weekday,08:44:00,02. Morning,00:01:00,0.016667,60,04. No Usage,Live Events
+808965,male,coloured,Adults,Western Cape,1,1,2016-02-06T08:42:00.000Z,2016-02-06,Sat,Feb,2016,6,8,02. Weekend,08:42:00,02. Morning,00:02:12,0.036666,132,04. No Usage,Live Events
+808965,male,coloured,Adults,Western Cape,1,1,2016-03-06T11:16:00.000Z,2016-03-06,Sun,Mar,2016,6,11,02. Weekend,11:16:00,02. Morning,00:19:10,0.319445,1150,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+808965,male,coloured,Adults,Western Cape,1,1,2016-02-09T20:54:00.000Z,2016-02-09,Tue,Feb,2016,9,20,01. Weekday,20:54:00,04. Evening,00:01:12,0.020000,72,04. No Usage,E! Entertainment
+788672,male,black,Adults,Gauteng,1,1,2016-02-11T21:21:00.000Z,2016-02-11,Thu,Feb,2016,11,21,01. Weekday,21:21:00,04. Evening,00:00:19,0.005278,19,04. No Usage,Boomerang
+788672,male,black,Adults,Gauteng,1,1,2016-01-19T17:29:00.000Z,2016-01-19,Tue,Jan,2016,19,17,01. Weekday,17:29:00,04. Evening,00:00:24,0.006667,24,04. No Usage,Africa Magic
+808966,male,black,youth Adults,Free State,1,1,2016-03-13T12:06:00.000Z,2016-03-13,Sun,Mar,2016,13,12,02. Weekend,12:06:00,03. Afternoon,00:00:38,0.010556,38,04. No Usage,Live Events
+808966,male,black,youth Adults,Free State,1,1,2016-03-13T18:22:00.000Z,2016-03-13,Sun,Mar,2016,13,18,02. Weekend,18:22:00,04. Evening,00:10:02,0.167223,602,01. Low Usage (<30 min),Live Events
+808966,male,black,youth Adults,Free State,1,1,2016-01-19T22:29:00.000Z,2016-01-19,Tue,Jan,2016,19,22,01. Weekday,22:29:00,04. Evening,00:34:06,0.568334,2046,02. Medium Usage (<60 min),Live Events
+808966,male,black,youth Adults,Free State,1,1,2016-03-23T10:40:00.000Z,2016-03-23,Wed,Mar,2016,23,10,01. Weekday,10:40:00,02. Morning,01:16:40,1.277778,4600,03. High Usage (>60 min),ICC Cricket World Cup 2011
+808966,male,black,youth Adults,Free State,1,1,2016-03-19T22:17:00.000Z,2016-03-19,Sat,Mar,2016,19,22,02. Weekend,22:17:00,04. Evening,00:37:25,0.623611,2245,02. Medium Usage (<60 min),Boomerang
+808966,male,black,youth Adults,Free State,1,1,2016-01-27T21:25:00.000Z,2016-01-27,Wed,Jan,2016,27,21,01. Weekday,21:25:00,04. Evening,00:00:23,0.006389,23,04. No Usage,Africa Magic
+808966,male,black,youth Adults,Free State,1,1,2016-03-20T15:54:00.000Z,2016-03-20,Sun,Mar,2016,20,15,02. Weekend,15:54:00,03. Afternoon,00:00:53,0.014722,53,04. No Usage,Africa Magic
+808966,male,black,youth Adults,Free State,1,1,2016-03-20T22:18:00.000Z,2016-03-20,Sun,Mar,2016,20,22,02. Weekend,22:18:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+808966,male,black,youth Adults,Free State,1,1,2016-03-20T16:40:00.000Z,2016-03-20,Sun,Mar,2016,20,16,02. Weekend,16:40:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Live Events
+808966,male,black,youth Adults,Free State,1,1,2016-02-23T06:06:00.000Z,2016-02-23,Tue,Feb,2016,23,6,01. Weekday,06:06:00,02. Morning,01:48:38,1.810556,6518,03. High Usage (>60 min),SuperSport Blitz
+808966,male,black,youth Adults,Free State,1,1,2016-03-24T06:14:00.000Z,2016-03-24,Thu,Mar,2016,24,6,01. Weekday,06:14:00,02. Morning,00:00:00,0.000000,0,04. No Usage,SuperSport Blitz
+633678,unknown,unknown,infant,Unclassified,1,1,2016-02-11T21:05:00.000Z,2016-02-11,Thu,Feb,2016,11,21,01. Weekday,21:05:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Channel O
+786099,male,black,youth Adults,Gauteng,1,1,2016-02-09T16:10:00.000Z,2016-02-09,Tue,Feb,2016,9,16,01. Weekday,16:10:00,03. Afternoon,00:00:48,0.013333,48,04. No Usage,E! Entertainment
+808969,male,black,youth Adults,Gauteng,1,1,2016-03-03T10:06:00.000Z,2016-03-03,Thu,Mar,2016,3,10,01. Weekday,10:06:00,02. Morning,00:00:42,0.011667,42,04. No Usage,Live Events
+808969,male,black,youth Adults,Gauteng,1,1,2016-03-08T12:47:00.000Z,2016-03-08,Tue,Mar,2016,8,12,01. Weekday,12:47:00,03. Afternoon,00:02:03,0.034166,123,04. No Usage,Trace TV
+808969,male,black,youth Adults,Gauteng,1,1,2016-01-12T21:58:00.000Z,2016-01-12,Tue,Jan,2016,12,21,01. Weekday,21:58:00,04. Evening,00:55:44,0.928889,3344,02. Medium Usage (<60 min),Live Events
+808969,male,black,youth Adults,Gauteng,1,1,2016-01-13T18:40:00.000Z,2016-01-13,Wed,Jan,2016,13,18,01. Weekday,18:40:00,04. Evening,00:01:24,0.023334,84,04. No Usage,Trace TV
+808969,male,black,youth Adults,Gauteng,1,1,2016-01-11T22:00:00.000Z,2016-01-11,Mon,Jan,2016,11,22,01. Weekday,22:00:00,04. Evening,00:00:32,0.008889,32,04. No Usage,Cartoon Network
+859311,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-08T21:53:00.000Z,2016-03-08,Tue,Mar,2016,8,21,01. Weekday,21:53:00,04. Evening,00:14:20,0.238889,860,01. Low Usage (<30 min),Boomerang
+859311,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-10T20:00:00.000Z,2016-03-10,Thu,Mar,2016,10,20,01. Weekday,20:00:00,04. Evening,00:24:57,0.415833,1497,01. Low Usage (<30 min),Trace TV
+859311,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-10T21:04:00.000Z,2016-03-10,Thu,Mar,2016,10,21,01. Weekday,21:04:00,04. Evening,00:23:36,0.393333,1416,01. Low Usage (<30 min),Channel O
+808971,male,black,Adults,Gauteng,1,1,2016-02-18T20:28:00.000Z,2016-02-18,Thu,Feb,2016,18,20,01. Weekday,20:28:00,04. Evening,00:00:57,0.015833,57,04. No Usage,Boomerang
+808971,male,black,Adults,Gauteng,1,1,2016-02-07T15:41:00.000Z,2016-02-07,Sun,Feb,2016,7,15,02. Weekend,15:41:00,03. Afternoon,00:01:06,0.018334,66,04. No Usage,Boomerang
+808971,male,black,Adults,Gauteng,1,1,2016-02-07T22:15:00.000Z,2016-02-07,Sun,Feb,2016,7,22,02. Weekend,22:15:00,04. Evening,00:04:53,0.081389,293,04. No Usage,Boomerang
+808971,male,black,Adults,Gauteng,1,1,2016-01-26T16:16:00.000Z,2016-01-26,Tue,Jan,2016,26,16,01. Weekday,16:16:00,03. Afternoon,00:01:36,0.026667,96,04. No Usage,Channel O
+808971,male,black,Adults,Gauteng,1,1,2016-03-30T21:19:00.000Z,2016-03-30,Wed,Mar,2016,30,21,01. Weekday,21:19:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Boomerang
+808971,male,black,Adults,Gauteng,1,1,2016-03-25T16:23:00.000Z,2016-03-25,Fri,Mar,2016,25,16,01. Weekday,16:23:00,03. Afternoon,00:07:27,0.124167,447,01. Low Usage (<30 min),Boomerang
+830980,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-17T12:13:00.000Z,2016-03-17,Thu,Mar,2016,17,12,01. Weekday,12:13:00,03. Afternoon,00:03:10,0.052778,190,04. No Usage,Boomerang
+792729,unknown,unknown,infant,Unclassified,1,1,2016-03-30T19:50:00.000Z,2016-03-30,Wed,Mar,2016,30,19,01. Weekday,19:50:00,04. Evening,00:02:00,0.033333,120,04. No Usage,Trace TV
+820387,male,black,youth,Limpopo,1,1,2016-01-27T15:54:00.000Z,2016-01-27,Wed,Jan,2016,27,15,01. Weekday,15:54:00,03. Afternoon,00:12:08,0.202222,728,01. Low Usage (<30 min),SuperSport Blitz
+820387,male,black,youth,Limpopo,1,1,2016-01-27T11:52:00.000Z,2016-01-27,Wed,Jan,2016,27,11,01. Weekday,11:52:00,02. Morning,00:01:27,0.024167,87,04. No Usage,Cartoon Network
+820387,male,black,youth,Limpopo,1,1,2016-01-25T12:07:00.000Z,2016-01-25,Mon,Jan,2016,25,12,01. Weekday,12:07:00,03. Afternoon,00:00:57,0.015833,57,04. No Usage,Channel O
+820387,male,black,youth,Limpopo,1,1,2016-01-26T21:30:00.000Z,2016-01-26,Tue,Jan,2016,26,21,01. Weekday,21:30:00,04. Evening,00:07:30,0.125000,450,01. Low Usage (<30 min),SuperSport Blitz
+892515,male,white,youth Adults,Western Cape,1,1,2016-03-23T09:31:00.000Z,2016-03-23,Wed,Mar,2016,23,9,01. Weekday,09:31:00,02. Morning,00:00:10,0.002778,10,04. No Usage,SuperSport Blitz
+892515,male,white,youth Adults,Western Cape,1,1,2016-03-18T13:13:00.000Z,2016-03-18,Fri,Mar,2016,18,13,01. Weekday,13:13:00,03. Afternoon,00:10:28,0.174445,628,01. Low Usage (<30 min),Live Events
+2203323,male,black,Adults,Free State,1,1,2016-02-24T16:56:00.000Z,2016-02-24,Wed,Feb,2016,24,16,01. Weekday,16:56:00,03. Afternoon,00:04:06,0.068334,246,04. No Usage,ICC Cricket World Cup 2011
+2203323,male,black,Adults,Free State,1,1,2016-02-24T21:43:00.000Z,2016-02-24,Wed,Feb,2016,24,21,01. Weekday,21:43:00,04. Evening,00:00:27,0.007500,27,04. No Usage,Channel O
+2203323,male,black,Adults,Free State,1,1,2016-02-27T11:07:00.000Z,2016-02-27,Sat,Feb,2016,27,11,02. Weekend,11:07:00,02. Morning,00:05:07,0.085277,307,01. Low Usage (<30 min),Africa Magic
+808976,male,black,Adults,Gauteng,1,1,2016-03-02T17:30:00.000Z,2016-03-02,Wed,Mar,2016,2,17,01. Weekday,17:30:00,04. Evening,00:18:34,0.309444,1114,01. Low Usage (<30 min),SuperSport Blitz
+866192,unknown,unknown,infant,Unclassified,1,1,2016-03-23T22:07:00.000Z,2016-03-23,Wed,Mar,2016,23,22,01. Weekday,22:07:00,04. Evening,00:00:37,0.010278,37,04. No Usage,SawSee
+866192,unknown,unknown,infant,Unclassified,1,1,2016-03-26T06:50:00.000Z,2016-03-26,Sat,Mar,2016,26,6,02. Weekend,06:50:00,02. Morning,00:04:42,0.078334,282,04. No Usage,Trace TV
+866192,unknown,unknown,infant,Unclassified,1,1,2016-03-26T22:57:00.000Z,2016-03-26,Sat,Mar,2016,26,22,02. Weekend,22:57:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Vuzu
+930014,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T15:51:00.000Z,2016-03-30,Wed,Mar,2016,30,15,01. Weekday,15:51:00,03. Afternoon,00:05:28,0.091111,328,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+930015,male,indian_asian,youth Adults,Western Cape,1,1,2016-03-31T10:09:00.000Z,2016-03-31,Thu,Mar,2016,31,10,01. Weekday,10:09:00,02. Morning,00:08:21,0.139166,501,01. Low Usage (<30 min),kykNET
+930015,male,indian_asian,youth Adults,Western Cape,1,1,2016-03-30T17:22:00.000Z,2016-03-30,Wed,Mar,2016,30,17,01. Weekday,17:22:00,04. Evening,01:25:30,1.425000,5130,03. High Usage (>60 min),ICC Cricket World Cup 2011
+930015,male,indian_asian,youth Adults,Western Cape,1,1,2016-03-29T23:33:00.000Z,2016-03-29,Tue,Mar,2016,29,23,01. Weekday,23:33:00,04. Evening,00:01:18,0.021667,78,04. No Usage,ICC Cricket World Cup 2011
+1297586,male,indian_asian,Elder,Kwazulu Natal,1,1,2016-03-09T06:51:00.000Z,2016-03-09,Wed,Mar,2016,9,6,01. Weekday,06:51:00,02. Morning,00:00:00,0.000000,0,04. No Usage,SuperSport Blitz
+866195,male,white,youth Adults,Eastern Cape,1,1,2016-03-12T02:19:00.000Z,2016-03-12,Sat,Mar,2016,12,2,02. Weekend,02:19:00,01. Midnight,00:01:11,0.019723,71,04. No Usage,MK
+820398,male,black,youth Adults,Kwazulu Natal,1,1,2016-02-26T23:25:00.000Z,2016-02-26,Fri,Feb,2016,26,23,01. Weekday,23:25:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+820398,male,black,youth Adults,Kwazulu Natal,1,1,2016-02-26T23:47:00.000Z,2016-02-26,Fri,Feb,2016,26,23,01. Weekday,23:47:00,04. Evening,00:00:52,0.014444,52,04. No Usage,Live Events
+820398,male,black,youth Adults,Kwazulu Natal,1,1,2016-03-06T00:03:00.000Z,2016-03-06,Sun,Mar,2016,6,0,02. Weekend,00:03:00,01. Midnight,00:10:58,0.182778,658,01. Low Usage (<30 min),Africa Magic
+820398,male,black,youth Adults,Kwazulu Natal,1,1,2016-03-01T07:01:00.000Z,2016-03-01,Tue,Mar,2016,1,7,01. Weekday,07:01:00,02. Morning,00:07:39,0.127500,459,01. Low Usage (<30 min),Channel O
+803542,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-31T16:52:00.000Z,2016-03-31,Thu,Mar,2016,31,16,01. Weekday,16:52:00,03. Afternoon,00:29:03,0.484166,1743,01. Low Usage (<30 min),Trace TV
+593622,female,black,youth Adults,Gauteng,1,1,2016-01-21T14:05:00.000Z,2016-01-21,Thu,Jan,2016,21,14,01. Weekday,14:05:00,03. Afternoon,00:09:00,0.150000,540,01. Low Usage (<30 min),Trace TV
+831755,male,black,youth Adults,Gauteng,1,1,2016-03-15T15:31:00.000Z,2016-03-15,Tue,Mar,2016,15,15,01. Weekday,15:31:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Cartoon Network
+831755,male,black,youth Adults,Gauteng,1,1,2016-03-01T18:03:00.000Z,2016-03-01,Tue,Mar,2016,1,18,01. Weekday,18:03:00,04. Evening,00:00:32,0.008889,32,04. No Usage,E! Entertainment
+771848,male,black,youth Adults,Gauteng,1,1,2016-02-11T13:39:00.000Z,2016-02-11,Thu,Feb,2016,11,13,01. Weekday,13:39:00,03. Afternoon,00:00:12,0.003333,12,04. No Usage,Break in transmission
+771848,male,black,youth Adults,Gauteng,1,1,2016-02-10T21:55:00.000Z,2016-02-10,Wed,Feb,2016,10,21,01. Weekday,21:55:00,04. Evening,00:09:04,0.151111,544,01. Low Usage (<30 min),Boomerang
+771848,male,black,youth Adults,Gauteng,1,1,2016-01-01T20:54:00.000Z,2016-01-01,Fri,Jan,2016,1,20,01. Weekday,20:54:00,04. Evening,00:01:50,0.030556,110,04. No Usage,Boomerang
+771848,male,black,youth Adults,Gauteng,1,1,2016-01-22T15:02:00.000Z,2016-01-22,Fri,Jan,2016,22,15,01. Weekday,15:02:00,03. Afternoon,00:02:04,0.034444,124,04. No Usage,Live Events
+771848,male,black,youth Adults,Gauteng,1,1,2016-01-18T14:43:00.000Z,2016-01-18,Mon,Jan,2016,18,14,01. Weekday,14:43:00,03. Afternoon,00:01:26,0.023889,86,04. No Usage,Live Events
+764355,male,white,youth Adults,Gauteng,1,1,2016-01-22T16:42:00.000Z,2016-01-22,Fri,Jan,2016,22,16,01. Weekday,16:42:00,03. Afternoon,00:00:09,0.002500,9,04. No Usage,Channel O
+2255559,male,indian_asian,youth Adults,Mpumalanga,1,1,2016-03-28T15:22:00.000Z,2016-03-28,Mon,Mar,2016,28,15,01. Weekday,15:22:00,03. Afternoon,00:01:08,0.018889,68,04. No Usage,Live Events
+2255559,male,indian_asian,youth Adults,Mpumalanga,1,1,2016-03-30T20:57:00.000Z,2016-03-30,Wed,Mar,2016,30,20,01. Weekday,20:57:00,04. Evening,00:00:38,0.010556,38,04. No Usage,M-Net
+919180,male,coloured,Adults,Western Cape,1,1,2016-03-26T11:08:00.000Z,2016-03-26,Sat,Mar,2016,26,11,02. Weekend,11:08:00,02. Morning,00:06:00,0.100000,360,01. Low Usage (<30 min),Live Events
+771849,male,unknown,Elder,Gauteng,1,1,2016-02-19T23:17:00.000Z,2016-02-19,Fri,Feb,2016,19,23,01. Weekday,23:17:00,04. Evening,00:07:53,0.131389,473,01. Low Usage (<30 min),Africa Magic
+771849,male,unknown,Elder,Gauteng,1,1,2016-02-19T23:22:00.000Z,2016-02-19,Fri,Feb,2016,19,23,01. Weekday,23:22:00,04. Evening,00:01:42,0.028334,102,04. No Usage,SawSee
+771849,male,unknown,Elder,Gauteng,1,1,2016-02-06T17:00:00.000Z,2016-02-06,Sat,Feb,2016,6,17,02. Weekend,17:00:00,04. Evening,00:00:24,0.006667,24,04. No Usage,Live Events
+808979,female,white,youth Adults,Free State,1,1,2016-02-22T21:30:00.000Z,2016-02-22,Mon,Feb,2016,22,21,01. Weekday,21:30:00,04. Evening,00:04:52,0.081111,292,04. No Usage,E! Entertainment
+866197,female,coloured,Kids,Kwazulu Natal,1,1,2016-03-11T19:13:00.000Z,2016-03-11,Fri,Mar,2016,11,19,01. Weekday,19:13:00,04. Evening,02:59:03,2.984166,10743,03. High Usage (>60 min),Trace TV
+777084,male,black,youth Adults,North West,1,1,2016-02-06T18:08:00.000Z,2016-02-06,Sat,Feb,2016,6,18,02. Weekend,18:08:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+621621,male,black,youth Adults,Gauteng,1,1,2016-01-17T17:21:00.000Z,2016-01-17,Sun,Jan,2016,17,17,02. Weekend,17:21:00,04. Evening,00:00:28,0.007778,28,04. No Usage,SawSee
+808983,male,coloured,Adults,Western Cape,1,1,2016-02-15T22:41:00.000Z,2016-02-15,Mon,Feb,2016,15,22,01. Weekday,22:41:00,04. Evening,00:02:01,0.033611,121,04. No Usage,CNN
+772142,male,indian_asian,youth Adults,Western Cape,1,1,2016-03-10T22:10:00.000Z,2016-03-10,Thu,Mar,2016,10,22,01. Weekday,22:10:00,04. Evening,00:01:26,0.023889,86,04. No Usage,Boomerang
+808983,male,coloured,Adults,Western Cape,1,1,2016-02-13T21:34:00.000Z,2016-02-13,Sat,Feb,2016,13,21,02. Weekend,21:34:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+771003,male,coloured,youth Adults,Western Cape,1,1,2016-02-26T13:17:00.000Z,2016-02-26,Fri,Feb,2016,26,13,01. Weekday,13:17:00,03. Afternoon,00:01:38,0.027223,98,04. No Usage,ICC Cricket World Cup 2011
+771003,male,coloured,youth Adults,Western Cape,1,1,2016-02-26T16:11:00.000Z,2016-02-26,Fri,Feb,2016,26,16,01. Weekday,16:11:00,03. Afternoon,00:01:28,0.024445,88,04. No Usage,Cartoon Network
+771003,male,coloured,youth Adults,Western Cape,1,1,2016-02-27T18:24:00.000Z,2016-02-27,Sat,Feb,2016,27,18,02. Weekend,18:24:00,04. Evening,00:00:42,0.011667,42,04. No Usage,SawSee
+808984,male,coloured,Adults,Western Cape,1,1,2016-02-19T17:58:00.000Z,2016-02-19,Fri,Feb,2016,19,17,01. Weekday,17:58:00,04. Evening,00:01:57,0.032500,117,04. No Usage,kykNET
+771855,female,black,Adults,North West,1,1,2016-02-19T03:15:00.000Z,2016-02-19,Fri,Feb,2016,19,3,01. Weekday,03:15:00,01. Midnight,00:08:34,0.142777,514,01. Low Usage (<30 min),Africa Magic
+733281,male,black,youth Adults,Gauteng,1,1,2016-01-26T18:09:00.000Z,2016-01-26,Tue,Jan,2016,26,18,01. Weekday,18:09:00,04. Evening,00:00:06,0.001667,6,04. No Usage,Trace TV
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-18T15:20:00.000Z,2016-03-18,Fri,Mar,2016,18,15,01. Weekday,15:20:00,03. Afternoon,00:00:42,0.011667,42,04. No Usage,Africa Magic
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-19T13:08:00.000Z,2016-03-19,Sat,Mar,2016,19,13,02. Weekend,13:08:00,03. Afternoon,00:00:47,0.013056,47,04. No Usage,Africa Magic
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-16T12:37:00.000Z,2016-03-16,Wed,Mar,2016,16,12,01. Weekday,12:37:00,03. Afternoon,00:01:48,0.030000,108,04. No Usage,ICC Cricket World Cup 2011
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-27T13:01:00.000Z,2016-03-27,Sun,Mar,2016,27,13,02. Weekend,13:01:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Africa Magic
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-27T22:22:00.000Z,2016-03-27,Sun,Mar,2016,27,22,02. Weekend,22:22:00,04. Evening,00:55:00,0.916667,3300,02. Medium Usage (<60 min),Trace TV
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-26T12:30:00.000Z,2016-03-26,Sat,Mar,2016,26,12,02. Weekend,12:30:00,03. Afternoon,00:01:16,0.021111,76,04. No Usage,Cartoon Network
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-21T07:30:00.000Z,2016-03-21,Mon,Mar,2016,21,7,01. Weekday,07:30:00,02. Morning,00:12:36,0.210000,756,01. Low Usage (<30 min),Trace TV
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-21T10:50:00.000Z,2016-03-21,Mon,Mar,2016,21,10,01. Weekday,10:50:00,02. Morning,00:05:36,0.093333,336,01. Low Usage (<30 min),Trace TV
+892523,male,coloured,youth Adults,Limpopo,1,1,2016-03-21T20:23:00.000Z,2016-03-21,Mon,Mar,2016,21,20,01. Weekday,20:23:00,04. Evening,00:01:27,0.024167,87,04. No Usage,Africa Magic
+771856,male,unknown,youth Adults,Kwazulu Natal,1,1,2016-02-06T11:28:00.000Z,2016-02-06,Sat,Feb,2016,6,11,02. Weekend,11:28:00,02. Morning,00:02:06,0.035000,126,04. No Usage,Trace TV
+808988,male,black,youth Adults,Gauteng,1,1,2016-02-20T15:41:00.000Z,2016-02-20,Sat,Feb,2016,20,15,02. Weekend,15:41:00,03. Afternoon,00:00:21,0.005833,21,04. No Usage,CNN
+808988,male,black,youth Adults,Gauteng,1,1,2016-02-20T17:48:00.000Z,2016-02-20,Sat,Feb,2016,20,17,02. Weekend,17:48:00,04. Evening,00:05:06,0.085000,306,01. Low Usage (<30 min),Live Events
+808988,male,black,youth Adults,Gauteng,1,1,2016-02-21T00:02:00.000Z,2016-02-21,Sun,Feb,2016,21,0,02. Weekend,00:02:00,01. Midnight,00:05:09,0.085833,309,01. Low Usage (<30 min),Channel O
+808988,male,black,youth Adults,Gauteng,1,1,2016-02-21T00:04:00.000Z,2016-02-21,Sun,Feb,2016,21,0,02. Weekend,00:04:00,01. Midnight,00:00:09,0.002500,9,04. No Usage,CNN
+730254,male,black,youth Adults,Gauteng,1,1,2016-01-21T11:02:00.000Z,2016-01-21,Thu,Jan,2016,21,11,01. Weekday,11:02:00,02. Morning,01:59:48,1.996666,7188,03. High Usage (>60 min),Channel O
+771858,male,white,youth Adults,Gauteng,1,1,2016-03-05T13:37:00.000Z,2016-03-05,Sat,Mar,2016,5,13,02. Weekend,13:37:00,03. Afternoon,00:01:46,0.029445,106,04. No Usage,Live Events
+866202,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-16T13:31:00.000Z,2016-03-16,Wed,Mar,2016,16,13,01. Weekday,13:31:00,03. Afternoon,00:02:12,0.036666,132,04. No Usage,ICC Cricket World Cup 2011
+808990,male,coloured,Adults,Western Cape,1,1,2016-02-24T10:47:00.000Z,2016-02-24,Wed,Feb,2016,24,10,01. Weekday,10:47:00,02. Morning,00:00:58,0.016111,58,04. No Usage,ICC Cricket World Cup 2011
+2090526,male,black,Elder,Mpumalanga,1,1,2016-02-21T20:18:00.000Z,2016-02-21,Sun,Feb,2016,21,20,02. Weekend,20:18:00,04. Evening,00:01:21,0.022500,81,04. No Usage,Africa Magic
+2090526,male,black,Elder,Mpumalanga,1,1,2016-02-14T13:54:00.000Z,2016-02-14,Sun,Feb,2016,14,13,02. Weekend,13:54:00,03. Afternoon,00:00:36,0.010000,36,04. No Usage,Africa Magic
+2090526,male,black,Elder,Mpumalanga,1,1,2016-03-24T03:41:00.000Z,2016-03-24,Thu,Mar,2016,24,3,01. Weekday,03:41:00,01. Midnight,00:02:21,0.039166,141,04. No Usage,Africa Magic
+2090526,male,black,Elder,Mpumalanga,1,1,2016-01-23T08:03:00.000Z,2016-01-23,Sat,Jan,2016,23,8,02. Weekend,08:03:00,02. Morning,00:49:27,0.824167,2967,02. Medium Usage (<60 min),Boomerang
+2090526,male,black,Elder,Mpumalanga,1,1,2016-03-04T23:35:00.000Z,2016-03-04,Fri,Mar,2016,4,23,01. Weekday,23:35:00,04. Evening,00:32:29,0.541389,1949,02. Medium Usage (<60 min),Africa Magic
+2090526,male,black,Elder,Mpumalanga,1,1,2016-01-30T13:41:00.000Z,2016-01-30,Sat,Jan,2016,30,13,02. Weekend,13:41:00,03. Afternoon,00:00:38,0.010556,38,04. No Usage,Africa Magic
+2090526,male,black,Elder,Mpumalanga,1,1,2016-01-28T22:21:00.000Z,2016-01-28,Thu,Jan,2016,28,22,01. Weekday,22:21:00,04. Evening,00:10:41,0.178056,641,01. Low Usage (<30 min),Africa Magic
+2090526,male,black,Elder,Mpumalanga,1,1,2016-01-17T09:44:00.000Z,2016-01-17,Sun,Jan,2016,17,9,02. Weekend,09:44:00,02. Morning,00:00:21,0.005833,21,04. No Usage,Africa Magic
+2090526,male,black,Elder,Mpumalanga,1,1,2016-03-07T12:18:00.000Z,2016-03-07,Mon,Mar,2016,7,12,01. Weekday,12:18:00,03. Afternoon,00:01:14,0.020556,74,04. No Usage,Boomerang
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-19T21:09:00.000Z,2016-03-19,Sat,Mar,2016,19,21,02. Weekend,21:09:00,04. Evening,00:02:57,0.049166,177,04. No Usage,Africa Magic
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-19T21:11:00.000Z,2016-03-19,Sat,Mar,2016,19,21,02. Weekend,21:11:00,04. Evening,00:01:08,0.018889,68,04. No Usage,SuperSport Blitz
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-31T19:51:00.000Z,2016-03-31,Thu,Mar,2016,31,19,01. Weekday,19:51:00,04. Evening,00:02:18,0.038333,138,04. No Usage,Trace TV
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-20T15:51:00.000Z,2016-03-20,Sun,Mar,2016,20,15,02. Weekend,15:51:00,03. Afternoon,00:32:21,0.539166,1941,02. Medium Usage (<60 min),Trace TV
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-20T19:23:00.000Z,2016-03-20,Sun,Mar,2016,20,19,02. Weekend,19:23:00,04. Evening,00:07:27,0.124167,447,01. Low Usage (<30 min),Cartoon Network
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-28T18:19:00.000Z,2016-03-28,Mon,Mar,2016,28,18,01. Weekday,18:19:00,04. Evening,00:01:46,0.029445,106,04. No Usage,Africa Magic
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-28T12:45:00.000Z,2016-03-28,Mon,Mar,2016,28,12,01. Weekday,12:45:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-30T13:30:00.000Z,2016-03-30,Wed,Mar,2016,30,13,01. Weekday,13:30:00,03. Afternoon,00:00:30,0.008333,30,04. No Usage,Live Events
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-24T08:57:00.000Z,2016-03-24,Thu,Mar,2016,24,8,01. Weekday,08:57:00,02. Morning,00:06:06,0.101667,366,01. Low Usage (<30 min),Channel O
+939659,male,black,youth Adults,Limpopo,1,1,2016-03-21T09:30:00.000Z,2016-03-21,Mon,Mar,2016,21,9,01. Weekday,09:30:00,02. Morning,00:07:45,0.129167,465,01. Low Usage (<30 min),Channel O
+778615,unknown,unknown,infant,Unclassified,1,1,2016-03-12T17:45:00.000Z,2016-03-12,Sat,Mar,2016,12,17,02. Weekend,17:45:00,04. Evening,00:03:45,0.062500,225,04. No Usage,Channel O
+866205,male,indian_asian,Adults,Gauteng,1,1,2016-03-14T10:49:00.000Z,2016-03-14,Mon,Mar,2016,14,10,01. Weekday,10:49:00,02. Morning,00:08:44,0.145555,524,01. Low Usage (<30 min),Live Events
+866205,male,indian_asian,Adults,Gauteng,1,1,2016-03-15T11:50:00.000Z,2016-03-15,Tue,Mar,2016,15,11,01. Weekday,11:50:00,02. Morning,00:08:08,0.135555,488,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+866205,male,indian_asian,Adults,Gauteng,1,1,2016-03-12T18:05:00.000Z,2016-03-12,Sat,Mar,2016,12,18,02. Weekend,18:05:00,04. Evening,00:42:08,0.702222,2528,02. Medium Usage (<60 min),ICC Cricket World Cup 2011
+771867,male,black,youth,Gauteng,1,1,2016-02-05T07:40:00.000Z,2016-02-05,Fri,Feb,2016,5,7,01. Weekday,07:40:00,02. Morning,00:06:15,0.104167,375,01. Low Usage (<30 min),CNN
+771867,male,black,youth,Gauteng,1,1,2016-03-02T00:04:00.000Z,2016-03-02,Wed,Mar,2016,2,0,01. Weekday,00:04:00,01. Midnight,00:19:06,0.318334,1146,01. Low Usage (<30 min),Trace TV
+771867,male,black,youth,Gauteng,1,1,2016-03-13T09:08:00.000Z,2016-03-13,Sun,Mar,2016,13,9,02. Weekend,09:08:00,02. Morning,00:05:12,0.086666,312,01. Low Usage (<30 min),M-Net
+771867,male,black,youth,Gauteng,1,1,2016-03-13T23:05:00.000Z,2016-03-13,Sun,Mar,2016,13,23,02. Weekend,23:05:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+771867,male,black,youth,Gauteng,1,1,2016-01-31T18:42:00.000Z,2016-01-31,Sun,Jan,2016,31,18,02. Weekend,18:42:00,04. Evening,00:00:22,0.006111,22,04. No Usage,SuperSport Blitz
+771867,male,black,youth,Gauteng,1,1,2016-01-17T18:56:00.000Z,2016-01-17,Sun,Jan,2016,17,18,02. Weekend,18:56:00,04. Evening,00:00:42,0.011667,42,04. No Usage,CNN
+771867,male,black,youth,Gauteng,1,1,2016-01-22T16:14:00.000Z,2016-01-22,Fri,Jan,2016,22,16,01. Weekday,16:14:00,03. Afternoon,00:01:20,0.022223,80,04. No Usage,Live Events
+771867,male,black,youth,Gauteng,1,1,2016-01-30T21:20:00.000Z,2016-01-30,Sat,Jan,2016,30,21,02. Weekend,21:20:00,04. Evening,00:01:23,0.023056,83,04. No Usage,Africa Magic
+771867,male,black,youth,Gauteng,1,1,2016-01-18T18:12:00.000Z,2016-01-18,Mon,Jan,2016,18,18,01. Weekday,18:12:00,04. Evening,00:01:58,0.032778,118,04. No Usage,Africa Magic
+771867,male,black,youth,Gauteng,1,1,2016-03-31T19:57:00.000Z,2016-03-31,Thu,Mar,2016,31,19,01. Weekday,19:57:00,04. Evening,00:00:56,0.015556,56,04. No Usage,Africa Magic
+809337,male,coloured,youth Adults,Gauteng,1,1,2016-02-13T02:19:00.000Z,2016-02-13,Sat,Feb,2016,13,2,02. Weekend,02:19:00,01. Midnight,00:04:16,0.071111,256,04. No Usage,Boomerang
+779442,female,black,youth Adults,Free State,1,1,2016-01-18T23:54:00.000Z,2016-01-18,Mon,Jan,2016,18,23,01. Weekday,23:54:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+779442,female,black,youth Adults,Free State,1,1,2016-01-19T00:04:00.000Z,2016-01-19,Tue,Jan,2016,19,0,01. Weekday,00:04:00,01. Midnight,00:00:42,0.011667,42,04. No Usage,Channel O
+779442,female,black,youth Adults,Free State,1,1,2016-01-22T16:13:00.000Z,2016-01-22,Fri,Jan,2016,22,16,01. Weekday,16:13:00,03. Afternoon,00:10:03,0.167500,603,01. Low Usage (<30 min),Channel O
+939662,male,black,youth Adults,Mpumalanga,1,1,2016-03-30T14:48:00.000Z,2016-03-30,Wed,Mar,2016,30,14,01. Weekday,14:48:00,03. Afternoon,00:02:10,0.036111,130,04. No Usage,ICC Cricket World Cup 2011
+2359724,male,coloured,Adults,Western Cape,1,1,2016-02-21T11:10:00.000Z,2016-02-21,Sun,Feb,2016,21,11,02. Weekend,11:10:00,02. Morning,00:05:38,0.093889,338,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+2359724,male,coloured,Adults,Western Cape,1,1,2016-02-26T13:53:00.000Z,2016-02-26,Fri,Feb,2016,26,13,01. Weekday,13:53:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+2359724,male,coloured,Adults,Western Cape,1,1,2016-02-26T16:01:00.000Z,2016-02-26,Fri,Feb,2016,26,16,01. Weekday,16:01:00,03. Afternoon,00:02:36,0.043333,156,04. No Usage,ICC Cricket World Cup 2011
+2359724,male,coloured,Adults,Western Cape,1,1,2016-03-24T18:51:00.000Z,2016-03-24,Thu,Mar,2016,24,18,01. Weekday,18:51:00,04. Evening,00:30:06,0.501667,1806,02. Medium Usage (<60 min),Live Events
+2359724,male,coloured,Adults,Western Cape,1,1,2016-03-19T14:05:00.000Z,2016-03-19,Sat,Mar,2016,19,14,02. Weekend,14:05:00,03. Afternoon,00:05:44,0.095555,344,01. Low Usage (<30 min),SuperSport Blitz
+2359724,male,coloured,Adults,Western Cape,1,1,2016-02-28T12:24:00.000Z,2016-02-28,Sun,Feb,2016,28,12,02. Weekend,12:24:00,03. Afternoon,00:01:50,0.030556,110,04. No Usage,ICC Cricket World Cup 2011
+2359724,male,coloured,Adults,Western Cape,1,1,2016-03-01T18:28:00.000Z,2016-03-01,Tue,Mar,2016,1,18,01. Weekday,18:28:00,04. Evening,00:00:40,0.011111,40,04. No Usage,ICC Cricket World Cup 2011
+2359724,male,coloured,Adults,Western Cape,1,1,2016-02-13T19:53:00.000Z,2016-02-13,Sat,Feb,2016,13,19,02. Weekend,19:53:00,04. Evening,00:02:24,0.040000,144,04. No Usage,Live Events
+2359724,male,coloured,Adults,Western Cape,1,1,2016-02-13T19:56:00.000Z,2016-02-13,Sat,Feb,2016,13,19,02. Weekend,19:56:00,04. Evening,00:01:22,0.022778,82,04. No Usage,Live Events
+904173,female,black,youth Adults,Mpumalanga,1,1,2016-03-25T10:20:00.000Z,2016-03-25,Fri,Mar,2016,25,10,01. Weekday,10:20:00,02. Morning,00:15:24,0.256667,924,01. Low Usage (<30 min),Live Events
+904174,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-26T14:38:00.000Z,2016-03-26,Sat,Mar,2016,26,14,02. Weekend,14:38:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Cartoon Network
+904174,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-29T18:58:00.000Z,2016-03-29,Tue,Mar,2016,29,18,01. Weekday,18:58:00,04. Evening,00:04:42,0.078334,282,04. No Usage,ICC Cricket World Cup 2011
+831766,male,black,youth Adults,Gauteng,1,1,2016-03-03T17:46:00.000Z,2016-03-03,Thu,Mar,2016,3,17,01. Weekday,17:46:00,04. Evening,00:04:21,0.072500,261,04. No Usage,Channel O
+831766,male,black,youth Adults,Gauteng,1,1,2016-03-05T21:35:00.000Z,2016-03-05,Sat,Mar,2016,5,21,02. Weekend,21:35:00,04. Evening,00:00:31,0.008611,31,04. No Usage,Africa Magic
+808997,male,black,youth Adults,Limpopo,1,1,2016-02-19T12:41:00.000Z,2016-02-19,Fri,Feb,2016,19,12,01. Weekday,12:41:00,03. Afternoon,00:02:18,0.038333,138,04. No Usage,Trace TV
+808997,male,black,youth Adults,Limpopo,1,1,2016-02-19T20:27:00.000Z,2016-02-19,Fri,Feb,2016,19,20,01. Weekday,20:27:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Channel O
+808997,male,black,youth Adults,Limpopo,1,1,2016-03-22T06:33:00.000Z,2016-03-22,Tue,Mar,2016,22,6,01. Weekday,06:33:00,02. Morning,00:06:03,0.100833,363,01. Low Usage (<30 min),Channel O
+808997,male,black,youth Adults,Limpopo,1,1,2016-02-25T07:24:00.000Z,2016-02-25,Thu,Feb,2016,25,7,01. Weekday,07:24:00,02. Morning,00:19:45,0.329167,1185,01. Low Usage (<30 min),Channel O
+808997,male,black,youth Adults,Limpopo,1,1,2016-01-27T08:12:00.000Z,2016-01-27,Wed,Jan,2016,27,8,01. Weekday,08:12:00,02. Morning,00:01:42,0.028334,102,04. No Usage,Channel O
+808997,male,black,youth Adults,Limpopo,1,1,2016-02-01T06:54:00.000Z,2016-02-01,Mon,Feb,2016,1,6,01. Weekday,06:54:00,02. Morning,00:05:57,0.099166,357,01. Low Usage (<30 min),Channel O
+892532,male,white,Adults,Gauteng,1,1,2016-03-20T22:39:00.000Z,2016-03-20,Sun,Mar,2016,20,22,02. Weekend,22:39:00,04. Evening,00:00:35,0.009722,35,04. No Usage,Cartoon Network
+816289,female,black,youth Adults,Mpumalanga,1,1,2016-03-08T14:48:00.000Z,2016-03-08,Tue,Mar,2016,8,14,01. Weekday,14:48:00,03. Afternoon,00:02:21,0.039166,141,04. No Usage,Channel O
+816289,female,black,youth Adults,Mpumalanga,1,1,2016-03-09T07:31:00.000Z,2016-03-09,Wed,Mar,2016,9,7,01. Weekday,07:31:00,02. Morning,00:00:00,0.000000,0,04. No Usage,CNN
+868961,male,black,youth Adults,Gauteng,1,1,2016-03-16T18:28:00.000Z,2016-03-16,Wed,Mar,2016,16,18,01. Weekday,18:28:00,04. Evening,00:01:08,0.018889,68,04. No Usage,Live Events
+2285609,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-02-25T23:38:00.000Z,2016-02-25,Thu,Feb,2016,25,23,01. Weekday,23:38:00,04. Evening,00:00:04,0.001111,4,04. No Usage,Cartoon Network
+2285609,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-07T23:45:00.000Z,2016-03-07,Mon,Mar,2016,7,23,01. Weekday,23:45:00,04. Evening,01:29:54,1.498333,5394,03. High Usage (>60 min),Trace TV
+793649,female,unknown,youth Adults,Limpopo,1,1,2016-03-30T09:28:00.000Z,2016-03-30,Wed,Mar,2016,30,9,01. Weekday,09:28:00,02. Morning,00:11:30,0.191666,690,01. Low Usage (<30 min),Trace TV
+793649,female,unknown,youth Adults,Limpopo,1,1,2016-03-27T23:39:00.000Z,2016-03-27,Sun,Mar,2016,27,23,02. Weekend,23:39:00,04. Evening,00:00:20,0.005556,20,04. No Usage,MK
+793649,female,unknown,youth Adults,Limpopo,1,1,2016-03-29T17:54:00.000Z,2016-03-29,Tue,Mar,2016,29,17,01. Weekday,17:54:00,04. Evening,00:01:28,0.024445,88,04. No Usage,Africa Magic
+771872,male,coloured,youth Adults,Western Cape,1,1,2016-02-07T16:10:00.000Z,2016-02-07,Sun,Feb,2016,7,16,02. Weekend,16:10:00,03. Afternoon,00:12:33,0.209167,753,01. Low Usage (<30 min),Cartoon Network
+771872,male,coloured,youth Adults,Western Cape,1,1,2016-01-31T16:20:00.000Z,2016-01-31,Sun,Jan,2016,31,16,02. Weekend,16:20:00,03. Afternoon,00:10:04,0.167778,604,01. Low Usage (<30 min),Boomerang
+771872,male,coloured,youth Adults,Western Cape,1,1,2016-01-31T19:32:00.000Z,2016-01-31,Sun,Jan,2016,31,19,02. Weekend,19:32:00,04. Evening,00:00:01,0.000278,1,04. No Usage,Boomerang
+809000,male,black,Adults,Gauteng,1,1,2016-02-19T09:18:00.000Z,2016-02-19,Fri,Feb,2016,19,9,01. Weekday,09:18:00,02. Morning,00:01:10,0.019445,70,04. No Usage,Live Events
+809000,male,black,Adults,Gauteng,1,1,2016-01-03T22:34:00.000Z,2016-01-03,Sun,Jan,2016,3,22,02. Weekend,22:34:00,04. Evening,00:02:04,0.034444,124,04. No Usage,Vuzu
+809000,male,black,Adults,Gauteng,1,1,2016-01-05T07:06:00.000Z,2016-01-05,Tue,Jan,2016,5,7,01. Weekday,07:06:00,02. Morning,00:01:06,0.018334,66,04. No Usage,Channel O
+809000,male,black,Adults,Gauteng,1,1,2016-03-04T09:17:00.000Z,2016-03-04,Fri,Mar,2016,4,9,01. Weekday,09:17:00,02. Morning,00:00:54,0.015000,54,04. No Usage,CNN
+809000,male,black,Adults,Gauteng,1,1,2016-03-12T22:20:00.000Z,2016-03-12,Sat,Mar,2016,12,22,02. Weekend,22:20:00,04. Evening,00:02:22,0.039444,142,04. No Usage,SuperSport Blitz
+809000,male,black,Adults,Gauteng,1,1,2016-03-10T04:28:00.000Z,2016-03-10,Thu,Mar,2016,10,4,01. Weekday,04:28:00,01. Midnight,00:11:23,0.189722,683,01. Low Usage (<30 min),Africa Magic
+771876,male,black,youth Adults,North West,1,1,2016-01-31T13:28:00.000Z,2016-01-31,Sun,Jan,2016,31,13,02. Weekend,13:28:00,03. Afternoon,00:04:54,0.081667,294,04. No Usage,Trace TV
+771876,male,black,youth Adults,North West,1,1,2016-02-07T19:54:00.000Z,2016-02-07,Sun,Feb,2016,7,19,02. Weekend,19:54:00,04. Evening,00:00:36,0.010000,36,04. No Usage,Boomerang
+771876,male,black,youth Adults,North West,1,1,2016-01-29T14:37:00.000Z,2016-01-29,Fri,Jan,2016,29,14,01. Weekday,14:37:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Live Events
+771876,male,black,youth Adults,North West,1,1,2016-01-31T15:03:00.000Z,2016-01-31,Sun,Jan,2016,31,15,02. Weekend,15:03:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Boomerang
+771876,male,black,youth Adults,North West,1,1,2016-02-06T08:14:00.000Z,2016-02-06,Sat,Feb,2016,6,8,02. Weekend,08:14:00,02. Morning,00:37:36,0.626667,2256,02. Medium Usage (<60 min),Trace TV
+771876,male,black,youth Adults,North West,1,1,2016-02-06T16:08:00.000Z,2016-02-06,Sat,Feb,2016,6,16,02. Weekend,16:08:00,03. Afternoon,00:03:31,0.058611,211,04. No Usage,Cartoon Network
+771877,male,black,youth Adults,Northern Cape,1,1,2016-01-29T21:43:00.000Z,2016-01-29,Fri,Jan,2016,29,21,01. Weekday,21:43:00,04. Evening,00:02:35,0.043055,155,04. No Usage,M-Net
+771877,male,black,youth Adults,Northern Cape,1,1,2016-01-31T20:38:00.000Z,2016-01-31,Sun,Jan,2016,31,20,02. Weekend,20:38:00,04. Evening,00:13:58,0.232778,838,01. Low Usage (<30 min),SawSee
+2359733,male,black,Adults,Gauteng,1,1,2016-01-26T23:50:00.000Z,2016-01-26,Tue,Jan,2016,26,23,01. Weekday,23:50:00,04. Evening,00:08:33,0.142500,513,01. Low Usage (<30 min),Channel O
+809006,male,black,youth Adults,Gauteng,1,1,2016-02-16T01:54:00.000Z,2016-02-16,Tue,Feb,2016,16,1,01. Weekday,01:54:00,01. Midnight,00:00:42,0.011667,42,04. No Usage,Live Events
+809006,male,black,youth Adults,Gauteng,1,1,2016-02-16T15:23:00.000Z,2016-02-16,Tue,Feb,2016,16,15,01. Weekday,15:23:00,03. Afternoon,00:02:00,0.033333,120,04. No Usage,Trace TV
+891747,male,coloured,Adults,Gauteng,1,1,2016-03-24T15:44:00.000Z,2016-03-24,Thu,Mar,2016,24,15,01. Weekday,15:44:00,03. Afternoon,00:28:02,0.467223,1682,01. Low Usage (<30 min),Live Events
+601422,female,unknown,Kids,Western Cape,1,1,2016-01-09T17:41:00.000Z,2016-01-09,Sat,Jan,2016,9,17,02. Weekend,17:41:00,04. Evening,00:39:48,0.663333,2388,02. Medium Usage (<60 min),Live Events
+866215,male,black,youth Adults,Kwazulu Natal,1,1,2016-03-07T18:00:00.000Z,2016-03-07,Mon,Mar,2016,7,18,01. Weekday,18:00:00,04. Evening,00:04:03,0.067500,243,04. No Usage,Trace TV
+939668,male,black,youth Adults,Mpumalanga,1,1,2016-03-11T08:29:00.000Z,2016-03-11,Fri,Mar,2016,11,8,01. Weekday,08:29:00,02. Morning,00:13:30,0.225000,810,01. Low Usage (<30 min),Channel O
+939668,male,black,youth Adults,Mpumalanga,1,1,2016-03-12T08:57:00.000Z,2016-03-12,Sat,Mar,2016,12,8,02. Weekend,08:57:00,02. Morning,00:18:34,0.309444,1114,01. Low Usage (<30 min),E! Entertainment
+939668,male,black,youth Adults,Mpumalanga,1,1,2016-03-12T19:12:00.000Z,2016-03-12,Sat,Mar,2016,12,19,02. Weekend,19:12:00,04. Evening,00:01:40,0.027778,100,04. No Usage,SuperSport Blitz
+939668,male,black,youth Adults,Mpumalanga,1,1,2016-03-12T20:50:00.000Z,2016-03-12,Sat,Mar,2016,12,20,02. Weekend,20:50:00,04. Evening,00:00:42,0.011667,42,04. No Usage,Channel O
+416232,unknown,unknown,infant,Unclassified,1,1,2016-02-13T07:15:00.000Z,2016-02-13,Sat,Feb,2016,13,7,02. Weekend,07:15:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Boomerang
+793652,male,black,youth Adults,Eastern Cape,1,1,2016-03-24T10:50:00.000Z,2016-03-24,Thu,Mar,2016,24,10,01. Weekday,10:50:00,02. Morning,00:00:20,0.005556,20,04. No Usage,Live Events
+830884,male,white,Adults,Gauteng,1,1,2016-03-11T14:26:00.000Z,2016-03-11,Fri,Mar,2016,11,14,01. Weekday,14:26:00,03. Afternoon,00:12:21,0.205833,741,01. Low Usage (<30 min),CNN
+809008,male,coloured,youth Adults,Northern Cape,1,1,2016-03-03T21:19:00.000Z,2016-03-03,Thu,Mar,2016,3,21,01. Weekday,21:19:00,04. Evening,00:01:06,0.018334,66,04. No Usage,Channel O
+809008,male,coloured,youth Adults,Northern Cape,1,1,2016-03-03T20:38:00.000Z,2016-03-03,Thu,Mar,2016,3,20,01. Weekday,20:38:00,04. Evening,00:00:21,0.005833,21,04. No Usage,MK
+809008,male,coloured,youth Adults,Northern Cape,1,1,2016-03-05T12:06:00.000Z,2016-03-05,Sat,Mar,2016,5,12,02. Weekend,12:06:00,03. Afternoon,00:22:55,0.381945,1375,01. Low Usage (<30 min),Africa Magic
+809008,male,coloured,youth Adults,Northern Cape,1,1,2016-03-05T15:47:00.000Z,2016-03-05,Sat,Mar,2016,5,15,02. Weekend,15:47:00,03. Afternoon,00:03:12,0.053333,192,04. No Usage,SuperSport Blitz
+809008,male,coloured,youth Adults,Northern Cape,1,1,2016-02-28T16:28:00.000Z,2016-02-28,Sun,Feb,2016,28,16,02. Weekend,16:28:00,03. Afternoon,00:03:57,0.065833,237,04. No Usage,Cartoon Network
+809008,male,coloured,youth Adults,Northern Cape,1,1,2016-03-09T14:11:00.000Z,2016-03-09,Wed,Mar,2016,9,14,01. Weekday,14:11:00,03. Afternoon,00:00:38,0.010556,38,04. No Usage,ICC Cricket World Cup 2011
+809008,male,coloured,youth Adults,Northern Cape,1,1,2016-03-01T21:15:00.000Z,2016-03-01,Tue,Mar,2016,1,21,01. Weekday,21:15:00,04. Evening,00:05:20,0.088889,320,01. Low Usage (<30 min),SuperSport Blitz
+771881,male,black,youth Adults,Gauteng,1,1,2016-03-22T09:26:00.000Z,2016-03-22,Tue,Mar,2016,22,9,01. Weekday,09:26:00,02. Morning,00:00:21,0.005833,21,04. No Usage,Boomerang
+771881,male,black,youth Adults,Gauteng,1,1,2016-01-18T15:54:00.000Z,2016-01-18,Mon,Jan,2016,18,15,01. Weekday,15:54:00,03. Afternoon,00:00:17,0.004722,17,04. No Usage,Africa Magic
+771881,male,black,youth Adults,Gauteng,1,1,2016-01-20T19:07:00.000Z,2016-01-20,Wed,Jan,2016,20,19,01. Weekday,19:07:00,04. Evening,00:00:07,0.001944,7,04. No Usage,Africa Magic
+771881,male,black,youth Adults,Gauteng,1,1,2016-03-20T17:52:00.000Z,2016-03-20,Sun,Mar,2016,20,17,02. Weekend,17:52:00,04. Evening,00:00:22,0.006111,22,04. No Usage,Live Events
+771882,male,black,youth Adults,Gauteng,1,1,2016-01-25T18:43:00.000Z,2016-01-25,Mon,Jan,2016,25,18,01. Weekday,18:43:00,04. Evening,00:00:19,0.005278,19,04. No Usage,Cartoon Network
+771882,male,black,youth Adults,Gauteng,1,1,2016-01-20T12:37:00.000Z,2016-01-20,Wed,Jan,2016,20,12,01. Weekday,12:37:00,03. Afternoon,00:00:44,0.012222,44,04. No Usage,Africa Magic
+771882,male,black,youth Adults,Gauteng,1,1,2016-02-18T01:09:00.000Z,2016-02-18,Thu,Feb,2016,18,1,01. Weekday,01:09:00,01. Midnight,00:01:14,0.020556,74,04. No Usage,Cartoon Network
+930047,male,indian_asian,Adults,Gauteng,1,1,2016-03-28T17:36:00.000Z,2016-03-28,Mon,Mar,2016,28,17,01. Weekday,17:36:00,04. Evening,00:00:04,0.001111,4,04. No Usage,SuperSport Blitz
+809010,male,coloured,youth Adults,Gauteng,1,1,2016-02-14T11:36:00.000Z,2016-02-14,Sun,Feb,2016,14,11,02. Weekend,11:36:00,02. Morning,00:00:05,0.001389,5,04. No Usage,Cartoon Network
+809010,male,coloured,youth Adults,Gauteng,1,1,2016-02-16T16:34:00.000Z,2016-02-16,Tue,Feb,2016,16,16,01. Weekday,16:34:00,03. Afternoon,00:07:11,0.119723,431,01. Low Usage (<30 min),Cartoon Network
+809010,male,coloured,youth Adults,Gauteng,1,1,2016-02-16T11:44:00.000Z,2016-02-16,Tue,Feb,2016,16,11,01. Weekday,11:44:00,02. Morning,00:04:30,0.075000,270,04. No Usage,Trace TV
+939673,male,black,youth Adults,Western Cape,1,1,2016-03-28T13:20:00.000Z,2016-03-28,Mon,Mar,2016,28,13,01. Weekday,13:20:00,03. Afternoon,00:04:36,0.076667,276,04. No Usage,SuperSport Blitz
+764396,male,white,Elder,Eastern Cape,1,1,2016-01-24T21:41:00.000Z,2016-01-24,Sun,Jan,2016,24,21,02. Weekend,21:41:00,04. Evening,00:04:54,0.081667,294,04. No Usage,Live Events
+764396,male,white,Elder,Eastern Cape,1,1,2016-01-25T10:39:00.000Z,2016-01-25,Mon,Jan,2016,25,10,01. Weekday,10:39:00,02. Morning,00:12:00,0.200000,720,01. Low Usage (<30 min),CNN
+764396,male,white,Elder,Eastern Cape,1,1,2016-01-08T05:51:00.000Z,2016-01-08,Fri,Jan,2016,8,5,01. Weekday,05:51:00,01. Midnight,00:14:33,0.242500,873,01. Low Usage (<30 min),Boomerang
+764396,male,white,Elder,Eastern Cape,1,1,2016-01-22T05:48:00.000Z,2016-01-22,Fri,Jan,2016,22,5,01. Weekday,05:48:00,01. Midnight,00:01:00,0.016667,60,04. No Usage,Cartoon Network
+764396,male,white,Elder,Eastern Cape,1,1,2016-01-18T07:37:00.000Z,2016-01-18,Mon,Jan,2016,18,7,01. Weekday,07:37:00,02. Morning,00:00:18,0.005000,18,04. No Usage,Cartoon Network
+809011,male,coloured,Adults,Western Cape,1,1,2016-02-20T07:28:00.000Z,2016-02-20,Sat,Feb,2016,20,7,02. Weekend,07:28:00,02. Morning,00:00:22,0.006111,22,04. No Usage,Live Events
+809011,male,coloured,Adults,Western Cape,1,1,2016-02-20T16:30:00.000Z,2016-02-20,Sat,Feb,2016,20,16,02. Weekend,16:30:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,SuperSport Blitz
+809011,male,coloured,Adults,Western Cape,1,1,2016-02-21T20:34:00.000Z,2016-02-21,Sun,Feb,2016,21,20,02. Weekend,20:34:00,04. Evening,00:01:00,0.016667,60,04. No Usage,SuperSport Blitz
+809011,male,coloured,Adults,Western Cape,1,1,2016-02-19T15:27:00.000Z,2016-02-19,Fri,Feb,2016,19,15,01. Weekday,15:27:00,03. Afternoon,00:58:30,0.975000,3510,02. Medium Usage (<60 min),Live Events
+809011,male,coloured,Adults,Western Cape,1,1,2016-02-25T12:31:00.000Z,2016-02-25,Thu,Feb,2016,25,12,01. Weekday,12:31:00,03. Afternoon,00:06:32,0.108889,392,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+809011,male,coloured,Adults,Western Cape,1,1,2016-02-25T09:54:00.000Z,2016-02-25,Thu,Feb,2016,25,9,01. Weekday,09:54:00,02. Morning,00:04:34,0.076111,274,04. No Usage,Live Events
+809011,male,coloured,Adults,Western Cape,1,1,2016-02-27T12:18:00.000Z,2016-02-27,Sat,Feb,2016,27,12,02. Weekend,12:18:00,03. Afternoon,00:01:00,0.016667,60,04. No Usage,Live Events
+875048,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-15T10:53:00.000Z,2016-03-15,Tue,Mar,2016,15,10,01. Weekday,10:53:00,02. Morning,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+721900,unknown,unknown,infant,Unclassified,1,1,2016-02-06T21:20:00.000Z,2016-02-06,Sat,Feb,2016,6,21,02. Weekend,21:20:00,04. Evening,00:00:00,0.000000,0,04. No Usage,SawSee
+831775,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-13T10:41:00.000Z,2016-03-13,Sun,Mar,2016,13,10,02. Weekend,10:41:00,02. Morning,00:00:12,0.003333,12,04. No Usage,M-Net
+831775,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-29T18:07:00.000Z,2016-03-29,Tue,Mar,2016,29,18,01. Weekday,18:07:00,04. Evening,00:00:35,0.009722,35,04. No Usage,Africa Magic
+803575,male,indian_asian,youth Adults,Eastern Cape,1,1,2016-02-19T11:08:00.000Z,2016-02-19,Fri,Feb,2016,19,11,01. Weekday,11:08:00,02. Morning,00:00:22,0.006111,22,04. No Usage,Live Events
+803575,male,indian_asian,youth Adults,Eastern Cape,1,1,2016-01-31T11:46:00.000Z,2016-01-31,Sun,Jan,2016,31,11,02. Weekend,11:46:00,02. Morning,00:27:16,0.454444,1636,01. Low Usage (<30 min),Live Events
+803575,male,indian_asian,youth Adults,Eastern Cape,1,1,2016-01-23T12:34:00.000Z,2016-01-23,Sat,Jan,2016,23,12,02. Weekend,12:34:00,03. Afternoon,00:39:16,0.654444,2356,02. Medium Usage (<60 min),Live Events
+939679,male,coloured,Adults,Western Cape,1,1,2016-03-28T17:34:00.000Z,2016-03-28,Mon,Mar,2016,28,17,01. Weekday,17:34:00,04. Evening,00:00:07,0.001944,7,04. No Usage,Boomerang
+939679,male,coloured,Adults,Western Cape,1,1,2016-03-28T18:27:00.000Z,2016-03-28,Mon,Mar,2016,28,18,01. Weekday,18:27:00,04. Evening,00:00:10,0.002778,10,04. No Usage,Boomerang
+939679,male,coloured,Adults,Western Cape,1,1,2016-03-25T00:49:00.000Z,2016-03-25,Fri,Mar,2016,25,0,01. Weekday,00:49:00,01. Midnight,00:00:07,0.001944,7,04. No Usage,Cartoon Network
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-02-20T06:16:00.000Z,2016-02-20,Sat,Feb,2016,20,6,02. Weekend,06:16:00,02. Morning,00:00:01,0.000278,1,04. No Usage,Boomerang
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-02-19T06:30:00.000Z,2016-02-19,Fri,Feb,2016,19,6,01. Weekday,06:30:00,02. Morning,00:38:48,0.646666,2328,02. Medium Usage (<60 min),Channel O
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-02-05T08:49:00.000Z,2016-02-05,Fri,Feb,2016,5,8,01. Weekday,08:49:00,02. Morning,00:00:15,0.004167,15,04. No Usage,Cartoon Network
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-02-19T06:30:00.000Z,2016-02-19,Fri,Feb,2016,19,6,01. Weekday,06:30:00,02. Morning,00:38:48,0.646666,2328,02. Medium Usage (<60 min),Channel O
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-02-24T10:37:00.000Z,2016-02-24,Wed,Feb,2016,24,10,01. Weekday,10:37:00,02. Morning,00:02:00,0.033333,120,04. No Usage,Channel O
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-01-30T18:54:00.000Z,2016-01-30,Sat,Jan,2016,30,18,02. Weekend,18:54:00,04. Evening,00:00:08,0.002222,8,04. No Usage,Cartoon Network
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-01-29T21:48:00.000Z,2016-01-29,Fri,Jan,2016,29,21,01. Weekday,21:48:00,04. Evening,00:00:28,0.007778,28,04. No Usage,Cartoon Network
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-01-28T18:26:00.000Z,2016-01-28,Thu,Jan,2016,28,18,01. Weekday,18:26:00,04. Evening,00:09:28,0.157778,568,01. Low Usage (<30 min),SuperSport Blitz
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-02-06T13:34:00.000Z,2016-02-06,Sat,Feb,2016,6,13,02. Weekend,13:34:00,03. Afternoon,00:00:15,0.004167,15,04. No Usage,Channel O
+809015,female,coloured,youth Adults,Eastern Cape,1,1,2016-02-23T18:55:00.000Z,2016-02-23,Tue,Feb,2016,23,18,01. Weekday,18:55:00,04. Evening,00:00:29,0.008056,29,04. No Usage,Cartoon Network
+939680,male,white,youth Adults,Gauteng,1,1,2016-03-24T18:59:00.000Z,2016-03-24,Thu,Mar,2016,24,18,01. Weekday,18:59:00,04. Evening,00:03:10,0.052778,190,04. No Usage,Live Events
+939680,male,white,youth Adults,Gauteng,1,1,2016-03-24T08:36:00.000Z,2016-03-24,Thu,Mar,2016,24,8,01. Weekday,08:36:00,02. Morning,00:01:45,0.029167,105,04. No Usage,Cartoon Network
+939680,male,white,youth Adults,Gauteng,1,1,2016-03-28T12:53:00.000Z,2016-03-28,Mon,Mar,2016,28,12,01. Weekday,12:53:00,03. Afternoon,00:06:21,0.105833,381,01. Low Usage (<30 min),Boomerang
+939680,male,white,youth Adults,Gauteng,1,1,2016-03-27T18:06:00.000Z,2016-03-27,Sun,Mar,2016,27,18,02. Weekend,18:06:00,04. Evening,00:10:27,0.174167,627,01. Low Usage (<30 min),Trace TV
+939680,male,white,youth Adults,Gauteng,1,1,2016-03-27T22:20:00.000Z,2016-03-27,Sun,Mar,2016,27,22,02. Weekend,22:20:00,04. Evening,00:01:11,0.019723,71,04. No Usage,Boomerang
+939680,male,white,youth Adults,Gauteng,1,1,2016-03-24T10:53:00.000Z,2016-03-24,Thu,Mar,2016,24,10,01. Weekday,10:53:00,02. Morning,00:01:49,0.030278,109,04. No Usage,Boomerang
+800825,male,black,youth Adults,Kwazulu Natal,1,1,2016-02-16T14:42:00.000Z,2016-02-16,Tue,Feb,2016,16,14,01. Weekday,14:42:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Trace TV
+788725,male,black,youth Adults,Free State,1,1,2016-02-15T19:17:00.000Z,2016-02-15,Mon,Feb,2016,15,19,01. Weekday,19:17:00,04. Evening,00:00:33,0.009167,33,04. No Usage,Channel O
+788725,male,black,youth Adults,Free State,1,1,2016-02-19T21:41:00.000Z,2016-02-19,Fri,Feb,2016,19,21,01. Weekday,21:41:00,04. Evening,00:00:17,0.004722,17,04. No Usage,Africa Magic
+788725,male,black,youth Adults,Free State,1,1,2016-02-12T15:38:00.000Z,2016-02-12,Fri,Feb,2016,12,15,01. Weekday,15:38:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Trace TV
+2090538,male,indian_asian,Adults,Gauteng,1,1,2016-03-30T16:58:00.000Z,2016-03-30,Wed,Mar,2016,30,16,01. Weekday,16:58:00,03. Afternoon,00:29:56,0.498889,1796,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+809018,male,black,youth Adults,Kwazulu Natal,1,1,2016-02-18T00:03:00.000Z,2016-02-18,Thu,Feb,2016,18,0,01. Weekday,00:03:00,01. Midnight,00:02:09,0.035833,129,04. No Usage,Cartoon Network
+764405,male,black,Adults,Gauteng,1,1,2016-02-12T19:37:00.000Z,2016-02-12,Fri,Feb,2016,12,19,01. Weekday,19:37:00,04. Evening,00:00:00,0.000000,0,04. No Usage,E! Entertainment
+788727,male,coloured,Adults,Western Cape,1,1,2016-01-05T21:31:00.000Z,2016-01-05,Tue,Jan,2016,5,21,01. Weekday,21:31:00,04. Evening,00:11:16,0.187777,676,01. Low Usage (<30 min),SuperSport Blitz
+788727,male,coloured,Adults,Western Cape,1,1,2016-01-10T19:51:00.000Z,2016-01-10,Sun,Jan,2016,10,19,02. Weekend,19:51:00,04. Evening,00:00:31,0.008611,31,04. No Usage,Cartoon Network
+788727,male,coloured,Adults,Western Cape,1,1,2016-01-14T12:03:00.000Z,2016-01-14,Thu,Jan,2016,14,12,01. Weekday,12:03:00,03. Afternoon,00:05:06,0.085000,306,01. Low Usage (<30 min),Live Events
+788727,male,coloured,Adults,Western Cape,1,1,2016-01-23T12:07:00.000Z,2016-01-23,Sat,Jan,2016,23,12,02. Weekend,12:07:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Live Events
+771888,male,coloured,Adults,Eastern Cape,1,1,2016-02-25T18:11:00.000Z,2016-02-25,Thu,Feb,2016,25,18,01. Weekday,18:11:00,04. Evening,00:01:21,0.022500,81,04. No Usage,Channel O
+788728,male,black,youth Adults,Gauteng,1,1,2016-03-15T10:58:00.000Z,2016-03-15,Tue,Mar,2016,15,10,01. Weekday,10:58:00,02. Morning,00:00:18,0.005000,18,04. No Usage,ICC Cricket World Cup 2011
+779471,male,black,youth Adults,Eastern Cape,1,1,2016-02-10T08:38:00.000Z,2016-02-10,Wed,Feb,2016,10,8,01. Weekday,08:38:00,02. Morning,00:11:09,0.185833,669,01. Low Usage (<30 min),Boomerang
+809021,male,black,Adults,Gauteng,1,1,2016-02-19T23:28:00.000Z,2016-02-19,Fri,Feb,2016,19,23,01. Weekday,23:28:00,04. Evening,00:00:36,0.010000,36,04. No Usage,Live Events
+820442,male,white,Elder,Gauteng,1,1,2016-02-27T11:56:00.000Z,2016-02-27,Sat,Feb,2016,27,11,02. Weekend,11:56:00,02. Morning,00:00:46,0.012778,46,04. No Usage,SuperSport Blitz
+2425739,male,coloured,Elder,Gauteng,1,1,2016-03-26T06:45:00.000Z,2016-03-26,Sat,Mar,2016,26,6,02. Weekend,06:45:00,02. Morning,00:03:26,0.057222,206,04. No Usage,SuperSport Blitz
+771889,male,black,Adults,Eastern Cape,1,1,2016-01-27T17:43:00.000Z,2016-01-27,Wed,Jan,2016,27,17,01. Weekday,17:43:00,04. Evening,00:00:16,0.004444,16,04. No Usage,Africa Magic
+771889,male,black,Adults,Eastern Cape,1,1,2016-01-21T16:52:00.000Z,2016-01-21,Thu,Jan,2016,21,16,01. Weekday,16:52:00,03. Afternoon,00:07:59,0.133056,479,01. Low Usage (<30 min),Africa Magic
+793662,male,coloured,youth Adults,Western Cape,1,1,2016-01-31T12:54:00.000Z,2016-01-31,Sun,Jan,2016,31,12,02. Weekend,12:54:00,03. Afternoon,00:08:52,0.147777,532,01. Low Usage (<30 min),E! Entertainment
+793662,male,coloured,youth Adults,Western Cape,1,1,2016-01-29T17:31:00.000Z,2016-01-29,Fri,Jan,2016,29,17,01. Weekday,17:31:00,04. Evening,00:00:12,0.003333,12,04. No Usage,Channel O
+793662,male,coloured,youth Adults,Western Cape,1,1,2016-03-31T22:49:00.000Z,2016-03-31,Thu,Mar,2016,31,22,01. Weekday,22:49:00,04. Evening,00:28:51,0.480834,1731,01. Low Usage (<30 min),Trace TV
+892554,male,coloured,youth Adults,Western Cape,1,1,2016-03-22T08:04:00.000Z,2016-03-22,Tue,Mar,2016,22,8,01. Weekday,08:04:00,02. Morning,00:03:04,0.051111,184,04. No Usage,E! Entertainment
+820443,male,black,youth Adults,North West,1,1,2016-03-05T18:01:00.000Z,2016-03-05,Sat,Mar,2016,5,18,02. Weekend,18:01:00,04. Evening,01:04:03,1.067500,3843,03. High Usage (>60 min),Channel O
+820443,male,black,youth Adults,North West,1,1,2016-02-27T11:08:00.000Z,2016-02-27,Sat,Feb,2016,27,11,02. Weekend,11:08:00,02. Morning,00:04:06,0.068334,246,04. No Usage,Cartoon Network
+820443,male,black,youth Adults,North West,1,1,2016-02-28T13:57:00.000Z,2016-02-28,Sun,Feb,2016,28,13,02. Weekend,13:57:00,03. Afternoon,00:00:45,0.012500,45,04. No Usage,Channel O
+919220,male,coloured,youth Adults,Western Cape,1,1,2016-03-28T11:58:00.000Z,2016-03-28,Mon,Mar,2016,28,11,01. Weekday,11:58:00,02. Morning,00:00:40,0.011111,40,04. No Usage,ICC Cricket World Cup 2011
+919222,male,black,youth Adults,Limpopo,1,1,2016-03-26T19:25:00.000Z,2016-03-26,Sat,Mar,2016,26,19,02. Weekend,19:25:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Cartoon Network
+831788,male,coloured,Adults,Western Cape,1,1,2016-03-06T21:42:00.000Z,2016-03-06,Sun,Mar,2016,6,21,02. Weekend,21:42:00,04. Evening,00:00:04,0.001111,4,04. No Usage,SuperSport Blitz
+831788,male,coloured,Adults,Western Cape,1,1,2016-03-06T22:14:00.000Z,2016-03-06,Sun,Mar,2016,6,22,02. Weekend,22:14:00,04. Evening,00:00:06,0.001667,6,04. No Usage,Live Events
+831788,male,coloured,Adults,Western Cape,1,1,2016-03-06T22:37:00.000Z,2016-03-06,Sun,Mar,2016,6,22,02. Weekend,22:37:00,04. Evening,00:00:04,0.001111,4,04. No Usage,Live Events
+866231,male,coloured,youth Adults,Western Cape,1,1,2016-03-05T11:28:00.000Z,2016-03-05,Sat,Mar,2016,5,11,02. Weekend,11:28:00,02. Morning,00:08:38,0.143889,518,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+866231,male,coloured,youth Adults,Western Cape,1,1,2016-03-15T17:13:00.000Z,2016-03-15,Tue,Mar,2016,15,17,01. Weekday,17:13:00,04. Evening,00:00:44,0.012222,44,04. No Usage,ICC Cricket World Cup 2011
+930066,male,indian_asian,youth Adults,Eastern Cape,1,1,2016-03-29T17:41:00.000Z,2016-03-29,Tue,Mar,2016,29,17,01. Weekday,17:41:00,04. Evening,00:00:08,0.002222,8,04. No Usage,ICC Cricket World Cup 2011
+892557,male,black,youth Adults,Gauteng,1,1,2016-03-09T15:36:00.000Z,2016-03-09,Wed,Mar,2016,9,15,01. Weekday,15:36:00,03. Afternoon,00:09:13,0.153611,553,01. Low Usage (<30 min),Cartoon Network
+831789,male,coloured,youth Adults,Western Cape,1,1,2016-03-03T21:55:00.000Z,2016-03-03,Thu,Mar,2016,3,21,01. Weekday,21:55:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+831789,male,coloured,youth Adults,Western Cape,1,1,2016-03-04T00:58:00.000Z,2016-03-04,Fri,Mar,2016,4,0,01. Weekday,00:58:00,01. Midnight,00:22:24,0.373334,1344,01. Low Usage (<30 min),Trace TV
+831789,male,coloured,youth Adults,Western Cape,1,1,2016-03-04T10:23:00.000Z,2016-03-04,Fri,Mar,2016,4,10,01. Weekday,10:23:00,02. Morning,00:00:50,0.013889,50,04. No Usage,ICC Cricket World Cup 2011
+831789,male,coloured,youth Adults,Western Cape,1,1,2016-03-04T23:31:00.000Z,2016-03-04,Fri,Mar,2016,4,23,01. Weekday,23:31:00,04. Evening,00:04:48,0.080000,288,04. No Usage,Channel O
+831789,male,coloured,youth Adults,Western Cape,1,1,2016-03-05T22:20:00.000Z,2016-03-05,Sat,Mar,2016,5,22,02. Weekend,22:20:00,04. Evening,00:01:51,0.030834,111,04. No Usage,Boomerang
+892558,female,black,youth Adults,Gauteng,1,1,2016-03-24T19:03:00.000Z,2016-03-24,Thu,Mar,2016,24,19,01. Weekday,19:03:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Cartoon Network
+892558,female,black,youth Adults,Gauteng,1,1,2016-03-20T17:27:00.000Z,2016-03-20,Sun,Mar,2016,20,17,02. Weekend,17:27:00,04. Evening,00:00:50,0.013889,50,04. No Usage,SawSee
+930067,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-30T10:49:00.000Z,2016-03-30,Wed,Mar,2016,30,10,01. Weekday,10:49:00,02. Morning,00:00:22,0.006111,22,04. No Usage,ICC Cricket World Cup 2011
+868982,male,black,youth Adults,Gauteng,1,1,2016-03-12T10:50:00.000Z,2016-03-12,Sat,Mar,2016,12,10,02. Weekend,10:50:00,02. Morning,00:00:28,0.007778,28,04. No Usage,SuperSport Blitz
+809028,male,white,youth Adults,Kwazulu Natal,1,1,2016-02-14T05:14:00.000Z,2016-02-14,Sun,Feb,2016,14,5,02. Weekend,05:14:00,01. Midnight,00:00:16,0.004444,16,04. No Usage,Break in transmission
+809028,male,white,youth Adults,Kwazulu Natal,1,1,2016-02-18T11:20:00.000Z,2016-02-18,Thu,Feb,2016,18,11,01. Weekday,11:20:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Live Events
+1445,male,coloured,youth,Northern Cape,1,1,2016-02-25T12:37:00.000Z,2016-02-25,Thu,Feb,2016,25,12,01. Weekday,12:37:00,03. Afternoon,00:05:38,0.093889,338,01. Low Usage (<30 min),SuperSport Blitz
+1445,male,coloured,youth,Northern Cape,1,1,2016-03-06T17:47:00.000Z,2016-03-06,Sun,Mar,2016,6,17,02. Weekend,17:47:00,04. Evening,00:00:33,0.009167,33,04. No Usage,CNN
+2023963,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-04T21:34:00.000Z,2016-03-04,Fri,Mar,2016,4,21,01. Weekday,21:34:00,04. Evening,00:00:00,0.000000,0,04. No Usage,SuperSport Blitz
+880319,unknown,unknown,infant,Unclassified,1,1,2016-03-30T13:07:00.000Z,2016-03-30,Wed,Mar,2016,30,13,01. Weekday,13:07:00,03. Afternoon,02:09:56,2.165556,7796,03. High Usage (>60 min),ICC Cricket World Cup 2011
+868986,male,white,Adults,Limpopo,1,1,2016-03-15T09:30:00.000Z,2016-03-15,Tue,Mar,2016,15,9,01. Weekday,09:30:00,02. Morning,00:00:00,0.000000,0,04. No Usage,CNN
+868986,male,white,Adults,Limpopo,1,1,2016-03-15T15:53:00.000Z,2016-03-15,Tue,Mar,2016,15,15,01. Weekday,15:53:00,03. Afternoon,00:07:34,0.126111,454,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+939694,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-23T20:55:00.000Z,2016-03-23,Wed,Mar,2016,23,20,01. Weekday,20:55:00,04. Evening,00:00:19,0.005278,19,04. No Usage,CNN
+939694,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-27T14:24:00.000Z,2016-03-27,Sun,Mar,2016,27,14,02. Weekend,14:24:00,03. Afternoon,00:04:54,0.081667,294,04. No Usage,SuperSport Blitz
+370637,male,coloured,youth Adults,Western Cape,1,1,2016-01-18T15:58:00.000Z,2016-01-18,Mon,Jan,2016,18,15,01. Weekday,15:58:00,03. Afternoon,00:31:06,0.518334,1866,02. Medium Usage (<60 min),Live Events
+808003,male,white,youth,Gauteng,1,1,2016-02-28T10:25:00.000Z,2016-02-28,Sun,Feb,2016,28,10,02. Weekend,10:25:00,02. Morning,00:00:09,0.002500,9,04. No Usage,Channel O
+805455,female,black,youth Adults,Limpopo,1,1,2016-02-23T14:09:00.000Z,2016-02-23,Tue,Feb,2016,23,14,01. Weekday,14:09:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Trace TV
+939695,female,black,youth Adults,Gauteng,1,1,2016-01-01T16:03:00.000Z,2016-01-01,Fri,Jan,2016,1,16,01. Weekday,16:03:00,03. Afternoon,00:28:28,0.474445,1708,01. Low Usage (<30 min),Cartoon Network
+939695,female,black,youth Adults,Gauteng,1,1,2016-01-09T20:03:00.000Z,2016-01-09,Sat,Jan,2016,9,20,02. Weekend,20:03:00,04. Evening,00:01:06,0.018334,66,04. No Usage,Channel O
+939695,female,black,youth Adults,Gauteng,1,1,2016-01-14T18:16:00.000Z,2016-01-14,Thu,Jan,2016,14,18,01. Weekday,18:16:00,04. Evening,00:12:51,0.214167,771,01. Low Usage (<30 min),CNN
+919229,male,unknown,youth Adults,Limpopo,1,1,2016-03-29T10:55:00.000Z,2016-03-29,Tue,Mar,2016,29,10,01. Weekday,10:55:00,02. Morning,00:19:34,0.326111,1174,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+919229,male,unknown,youth Adults,Limpopo,1,1,2016-03-29T12:42:00.000Z,2016-03-29,Tue,Mar,2016,29,12,01. Weekday,12:42:00,03. Afternoon,00:10:10,0.169445,610,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+793670,male,coloured,Adults,Western Cape,1,1,2016-01-17T21:43:00.000Z,2016-01-17,Sun,Jan,2016,17,21,02. Weekend,21:43:00,04. Evening,00:03:41,0.061389,221,04. No Usage,Cartoon Network
+793670,male,coloured,Adults,Western Cape,1,1,2016-01-29T18:37:00.000Z,2016-01-29,Fri,Jan,2016,29,18,01. Weekday,18:37:00,04. Evening,00:31:10,0.519445,1870,02. Medium Usage (<60 min),SuperSport Blitz
+793670,male,coloured,Adults,Western Cape,1,1,2016-01-18T17:16:00.000Z,2016-01-18,Mon,Jan,2016,18,17,01. Weekday,17:16:00,04. Evening,00:00:14,0.003889,14,04. No Usage,CNN
+793670,male,coloured,Adults,Western Cape,1,1,2016-01-15T13:02:00.000Z,2016-01-15,Fri,Jan,2016,15,13,01. Weekday,13:02:00,03. Afternoon,00:12:53,0.214722,773,01. Low Usage (<30 min),Boomerang
+2359771,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-01-16T09:57:00.000Z,2016-01-16,Sat,Jan,2016,16,9,02. Weekend,09:57:00,02. Morning,00:01:28,0.024445,88,04. No Usage,Live Events
+2359771,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-01-22T12:21:00.000Z,2016-01-22,Fri,Jan,2016,22,12,01. Weekday,12:21:00,03. Afternoon,00:35:27,0.590833,2127,02. Medium Usage (<60 min),Trace TV
+2359771,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-01-20T09:52:00.000Z,2016-01-20,Wed,Jan,2016,20,9,01. Weekday,09:52:00,02. Morning,00:01:54,0.031667,114,04. No Usage,Trace TV
+2359771,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-01-16T17:42:00.000Z,2016-01-16,Sat,Jan,2016,16,17,02. Weekend,17:42:00,04. Evening,00:20:42,0.345000,1242,01. Low Usage (<30 min),Live Events
+809034,male,black,Pensioner,Gauteng,1,1,2016-03-03T07:39:00.000Z,2016-03-03,Thu,Mar,2016,3,7,01. Weekday,07:39:00,02. Morning,00:07:50,0.130556,470,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+809034,male,black,Pensioner,Gauteng,1,1,2016-03-01T06:22:00.000Z,2016-03-01,Tue,Mar,2016,1,6,01. Weekday,06:22:00,02. Morning,00:17:30,0.291666,1050,01. Low Usage (<30 min),Channel O
+793672,female,black,youth Adults,Kwazulu Natal,1,1,2016-01-21T18:30:00.000Z,2016-01-21,Thu,Jan,2016,21,18,01. Weekday,18:30:00,04. Evening,00:00:01,0.000278,1,04. No Usage,Africa Magic
+2090555,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-13T19:39:00.000Z,2016-03-13,Sun,Mar,2016,13,19,02. Weekend,19:39:00,04. Evening,00:00:38,0.010556,38,04. No Usage,E! Entertainment
+2090555,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-14T17:47:00.000Z,2016-03-14,Mon,Mar,2016,14,17,01. Weekday,17:47:00,04. Evening,00:04:14,0.070556,254,04. No Usage,ICC Cricket World Cup 2011
+2090555,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-19T12:54:00.000Z,2016-03-19,Sat,Mar,2016,19,12,02. Weekend,12:54:00,03. Afternoon,00:00:58,0.016111,58,04. No Usage,ICC Cricket World Cup 2011
+2090555,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T10:49:00.000Z,2016-03-30,Wed,Mar,2016,30,10,01. Weekday,10:49:00,02. Morning,00:03:32,0.058889,212,04. No Usage,ICC Cricket World Cup 2011
+809035,male,indian_asian,Adults,Gauteng,1,1,2016-02-22T18:43:00.000Z,2016-02-22,Mon,Feb,2016,22,18,01. Weekday,18:43:00,04. Evening,00:01:38,0.027223,98,04. No Usage,ICC Cricket World Cup 2011
+809035,male,indian_asian,Adults,Gauteng,1,1,2016-01-08T05:47:00.000Z,2016-01-08,Fri,Jan,2016,8,5,01. Weekday,05:47:00,01. Midnight,00:23:48,0.396666,1428,01. Low Usage (<30 min),Live Events
+809035,male,indian_asian,Adults,Gauteng,1,1,2016-01-29T21:46:00.000Z,2016-01-29,Fri,Jan,2016,29,21,01. Weekday,21:46:00,04. Evening,00:01:02,0.017223,62,04. No Usage,SuperSport Blitz
+809035,male,indian_asian,Adults,Gauteng,1,1,2016-03-03T06:41:00.000Z,2016-03-03,Thu,Mar,2016,3,6,01. Weekday,06:41:00,02. Morning,00:07:30,0.125000,450,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+939699,male,unknown,Adults,Western Cape,1,1,2016-03-01T14:55:00.000Z,2016-03-01,Tue,Mar,2016,1,14,01. Weekday,14:55:00,03. Afternoon,00:02:54,0.048333,174,04. No Usage,Channel O
+597268,male,black,youth Adults,Eastern Cape,1,1,2016-01-06T08:28:00.000Z,2016-01-06,Wed,Jan,2016,6,8,01. Weekday,08:28:00,02. Morning,00:15:12,0.253333,912,01. Low Usage (<30 min),Trace TV
+597268,male,black,youth Adults,Eastern Cape,1,1,2016-01-08T14:44:00.000Z,2016-01-08,Fri,Jan,2016,8,14,01. Weekday,14:44:00,03. Afternoon,00:00:50,0.013889,50,04. No Usage,SuperSport Blitz
+597268,male,black,youth Adults,Eastern Cape,1,1,2016-01-06T10:33:00.000Z,2016-01-06,Wed,Jan,2016,6,10,01. Weekday,10:33:00,02. Morning,00:01:30,0.025000,90,04. No Usage,Channel O
+597268,male,black,youth Adults,Eastern Cape,1,1,2016-01-08T14:46:00.000Z,2016-01-08,Fri,Jan,2016,8,14,01. Weekday,14:46:00,03. Afternoon,00:01:27,0.024167,87,04. No Usage,Channel O
+597268,male,black,youth Adults,Eastern Cape,1,1,2016-01-08T20:59:00.000Z,2016-01-08,Fri,Jan,2016,8,20,01. Weekday,20:59:00,04. Evening,00:05:45,0.095833,345,01. Low Usage (<30 min),Live Events
+597268,male,black,youth Adults,Eastern Cape,1,1,2016-01-10T17:02:00.000Z,2016-01-10,Sun,Jan,2016,10,17,02. Weekend,17:02:00,04. Evening,00:09:06,0.151667,546,01. Low Usage (<30 min),Channel O
+597268,male,black,youth Adults,Eastern Cape,1,1,2016-01-05T22:13:00.000Z,2016-01-05,Tue,Jan,2016,5,22,01. Weekday,22:13:00,04. Evening,00:13:12,0.220000,792,01. Low Usage (<30 min),Trace TV
+597268,male,black,youth Adults,Eastern Cape,1,1,2016-01-08T09:26:00.000Z,2016-01-08,Fri,Jan,2016,8,9,01. Weekday,09:26:00,02. Morning,00:00:50,0.013889,50,04. No Usage,Live Events
+882376,male,white,Elder,Gauteng,1,1,2016-03-19T16:14:00.000Z,2016-03-19,Sat,Mar,2016,19,16,02. Weekend,16:14:00,03. Afternoon,00:01:12,0.020000,72,04. No Usage,Live Events
+866244,male,black,youth Adults,Western Cape,1,1,2016-02-21T08:31:00.000Z,2016-02-21,Sun,Feb,2016,21,8,02. Weekend,08:31:00,02. Morning,00:02:15,0.037500,135,04. No Usage,Channel O
+866244,male,black,youth Adults,Western Cape,1,1,2016-02-20T15:02:00.000Z,2016-02-20,Sat,Feb,2016,20,15,02. Weekend,15:02:00,03. Afternoon,00:00:58,0.016111,58,04. No Usage,SuperSport Blitz
+866244,male,black,youth Adults,Western Cape,1,1,2016-02-20T15:03:00.000Z,2016-02-20,Sat,Feb,2016,20,15,02. Weekend,15:03:00,03. Afternoon,00:00:54,0.015000,54,04. No Usage,Live Events
+866244,male,black,youth Adults,Western Cape,1,1,2016-02-21T09:20:00.000Z,2016-02-21,Sun,Feb,2016,21,9,02. Weekend,09:20:00,02. Morning,00:09:06,0.151667,546,01. Low Usage (<30 min),Channel O
+866244,male,black,youth Adults,Western Cape,1,1,2016-03-25T21:36:00.000Z,2016-03-25,Fri,Mar,2016,25,21,01. Weekday,21:36:00,04. Evening,00:00:00,0.000000,0,04. No Usage,SuperSport Blitz
+866244,male,black,youth Adults,Western Cape,1,1,2016-03-24T12:02:00.000Z,2016-03-24,Thu,Mar,2016,24,12,01. Weekday,12:02:00,03. Afternoon,00:03:00,0.050000,180,04. No Usage,Live Events
+788744,male,coloured,youth Adults,Western Cape,1,1,2016-01-15T01:09:00.000Z,2016-01-15,Fri,Jan,2016,15,1,01. Weekday,01:09:00,01. Midnight,00:02:30,0.041666,150,04. No Usage,SuperSport Blitz
+788744,male,coloured,youth Adults,Western Cape,1,1,2016-01-18T11:35:00.000Z,2016-01-18,Mon,Jan,2016,18,11,01. Weekday,11:35:00,02. Morning,00:00:52,0.014444,52,04. No Usage,Live Events
+771902,male,black,youth Adults,Gauteng,1,1,2016-01-15T20:35:00.000Z,2016-01-15,Fri,Jan,2016,15,20,01. Weekday,20:35:00,04. Evening,00:01:11,0.019723,71,04. No Usage,Africa Magic
+771903,male,unknown,youth Adults,Gauteng,1,1,2016-03-27T17:12:00.000Z,2016-03-27,Sun,Mar,2016,27,17,02. Weekend,17:12:00,04. Evening,00:01:16,0.021111,76,04. No Usage,Live Events
+747690,female,black,youth Adults,Gauteng,1,1,2016-01-16T20:49:00.000Z,2016-01-16,Sat,Jan,2016,16,20,02. Weekend,20:49:00,04. Evening,00:00:15,0.004167,15,04. No Usage,Trace TV
+779485,male,black,youth Adults,North West,1,1,2016-02-02T11:23:00.000Z,2016-02-02,Tue,Feb,2016,2,11,01. Weekday,11:23:00,02. Morning,00:01:18,0.021667,78,04. No Usage,Boomerang
+779485,male,black,youth Adults,North West,1,1,2016-02-02T17:20:00.000Z,2016-02-02,Tue,Feb,2016,2,17,01. Weekday,17:20:00,04. Evening,00:43:48,0.730000,2628,02. Medium Usage (<60 min),Trace TV
+779485,male,black,youth Adults,North West,1,1,2016-02-04T23:35:00.000Z,2016-02-04,Thu,Feb,2016,4,23,01. Weekday,23:35:00,04. Evening,00:00:18,0.005000,18,04. No Usage,M-Net
+779485,male,black,youth Adults,North West,1,1,2016-01-06T11:34:00.000Z,2016-01-06,Wed,Jan,2016,6,11,01. Weekday,11:34:00,02. Morning,00:12:33,0.209167,753,01. Low Usage (<30 min),Boomerang
+779485,male,black,youth Adults,North West,1,1,2016-01-02T08:46:00.000Z,2016-01-02,Sat,Jan,2016,2,8,02. Weekend,08:46:00,02. Morning,00:01:27,0.024167,87,04. No Usage,Channel O
+779485,male,black,youth Adults,North West,1,1,2016-01-30T12:38:00.000Z,2016-01-30,Sat,Jan,2016,30,12,02. Weekend,12:38:00,03. Afternoon,02:02:57,2.049166,7377,03. High Usage (>60 min),Channel O
+779485,male,black,youth Adults,North West,1,1,2016-01-29T13:29:00.000Z,2016-01-29,Fri,Jan,2016,29,13,01. Weekday,13:29:00,03. Afternoon,00:17:40,0.294444,1060,01. Low Usage (<30 min),SuperSport Blitz
+736517,male,black,Adults,Mpumalanga,1,1,2016-01-24T12:04:00.000Z,2016-01-24,Sun,Jan,2016,24,12,02. Weekend,12:04:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,Africa Magic
+736517,male,black,Adults,Mpumalanga,1,1,2016-01-24T10:15:00.000Z,2016-01-24,Sun,Jan,2016,24,10,02. Weekend,10:15:00,02. Morning,00:06:19,0.105278,379,01. Low Usage (<30 min),Africa Magic
+779486,male,black,Adults,Gauteng,1,1,2016-01-09T05:28:00.000Z,2016-01-09,Sat,Jan,2016,9,5,02. Weekend,05:28:00,01. Midnight,00:00:20,0.005556,20,04. No Usage,SuperSport Blitz
+939702,male,unknown,Adults,Western Cape,1,1,2016-03-04T21:02:00.000Z,2016-03-04,Fri,Mar,2016,4,21,01. Weekday,21:02:00,04. Evening,00:07:46,0.129445,466,01. Low Usage (<30 min),Boomerang
+764429,male,white,youth Adults,Western Cape,1,1,2016-01-06T21:23:00.000Z,2016-01-06,Wed,Jan,2016,6,21,01. Weekday,21:23:00,04. Evening,00:04:15,0.070834,255,04. No Usage,Trace TV
+764429,male,white,youth Adults,Western Cape,1,1,2016-02-27T21:44:00.000Z,2016-02-27,Sat,Feb,2016,27,21,02. Weekend,21:44:00,04. Evening,00:02:31,0.041944,151,04. No Usage,M-Net
+742848,male,black,youth Adults,Eastern Cape,1,1,2016-02-03T06:59:00.000Z,2016-02-03,Wed,Feb,2016,3,6,01. Weekday,06:59:00,02. Morning,00:00:31,0.008611,31,04. No Usage,CNN
+742848,male,black,youth Adults,Eastern Cape,1,1,2016-01-27T06:15:00.000Z,2016-01-27,Wed,Jan,2016,27,6,01. Weekday,06:15:00,02. Morning,00:06:54,0.115000,414,01. Low Usage (<30 min),Channel O
+742848,male,black,youth Adults,Eastern Cape,1,1,2016-02-09T21:10:00.000Z,2016-02-09,Tue,Feb,2016,9,21,01. Weekday,21:10:00,04. Evening,00:00:40,0.011111,40,04. No Usage,SuperSport Blitz
+859379,male,coloured,youth Adults,Gauteng,1,1,2016-03-11T09:38:00.000Z,2016-03-11,Fri,Mar,2016,11,9,01. Weekday,09:38:00,02. Morning,00:47:42,0.795000,2862,02. Medium Usage (<60 min),Live Events
+2285664,male,indian_asian,youth Adults,Mpumalanga,1,1,2016-03-25T09:26:00.000Z,2016-03-25,Fri,Mar,2016,25,9,01. Weekday,09:26:00,02. Morning,00:00:00,0.000000,0,04. No Usage,SuperSport Blitz
+2285664,male,indian_asian,youth Adults,Mpumalanga,1,1,2016-03-26T12:02:00.000Z,2016-03-26,Sat,Mar,2016,26,12,02. Weekend,12:02:00,03. Afternoon,01:06:24,1.106667,3984,03. High Usage (>60 min),ICC Cricket World Cup 2011
+777129,male,white,youth Adults,North West,1,1,2016-01-10T21:09:00.000Z,2016-01-10,Sun,Jan,2016,10,21,02. Weekend,21:09:00,04. Evening,00:01:12,0.020000,72,04. No Usage,Trace TV
+771907,male,black,Adults,Kwazulu Natal,1,1,2016-02-09T19:45:00.000Z,2016-02-09,Tue,Feb,2016,9,19,01. Weekday,19:45:00,04. Evening,00:15:42,0.261667,942,01. Low Usage (<30 min),Trace TV
+720398,female,coloured,youth Adults,Gauteng,1,1,2016-01-20T19:22:00.000Z,2016-01-20,Wed,Jan,2016,20,19,01. Weekday,19:22:00,04. Evening,00:01:05,0.018056,65,04. No Usage,Live Events
+819332,male,white,Pensioner,Gauteng,1,1,2016-03-06T22:44:00.000Z,2016-03-06,Sun,Mar,2016,6,22,02. Weekend,22:44:00,04. Evening,00:00:58,0.016111,58,04. No Usage,Boomerang
+771048,male,unknown,youth Adults,Gauteng,1,1,2016-02-05T23:58:00.000Z,2016-02-05,Fri,Feb,2016,5,23,01. Weekday,23:58:00,04. Evening,00:00:53,0.014722,53,04. No Usage,Cartoon Network
+771048,male,unknown,youth Adults,Gauteng,1,1,2016-02-06T22:34:00.000Z,2016-02-06,Sat,Feb,2016,6,22,02. Weekend,22:34:00,04. Evening,00:08:34,0.142777,514,01. Low Usage (<30 min),SuperSport Blitz
+820456,male,black,Adults,Gauteng,1,1,2016-01-27T17:30:00.000Z,2016-01-27,Wed,Jan,2016,27,17,01. Weekday,17:30:00,04. Evening,00:01:46,0.029445,106,04. No Usage,SuperSport Blitz
+809039,male,white,Adults,Mpumalanga,1,1,2016-02-19T19:25:00.000Z,2016-02-19,Fri,Feb,2016,19,19,01. Weekday,19:25:00,04. Evening,00:00:04,0.001111,4,04. No Usage,Boomerang
+809039,male,white,Adults,Mpumalanga,1,1,2016-02-19T19:26:00.000Z,2016-02-19,Fri,Feb,2016,19,19,01. Weekday,19:26:00,04. Evening,00:01:48,0.030000,108,04. No Usage,Live Events
+809039,male,white,Adults,Mpumalanga,1,1,2016-02-19T19:57:00.000Z,2016-02-19,Fri,Feb,2016,19,19,01. Weekday,19:57:00,04. Evening,00:00:26,0.007222,26,04. No Usage,Live Events
+865408,male,black,Adults,North West,1,1,2016-03-16T19:59:00.000Z,2016-03-16,Wed,Mar,2016,16,19,01. Weekday,19:59:00,04. Evening,00:00:40,0.011111,40,04. No Usage,SuperSport Blitz
+831810,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-02T14:01:00.000Z,2016-03-02,Wed,Mar,2016,2,14,01. Weekday,14:01:00,03. Afternoon,00:00:51,0.014167,51,04. No Usage,Trace TV
+831810,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-06T14:12:00.000Z,2016-03-06,Sun,Mar,2016,6,14,02. Weekend,14:12:00,03. Afternoon,00:07:09,0.119167,429,01. Low Usage (<30 min),Boomerang
+904273,male,white,youth Adults,Gauteng,1,1,2016-03-24T07:45:00.000Z,2016-03-24,Thu,Mar,2016,24,7,01. Weekday,07:45:00,02. Morning,00:00:57,0.015833,57,04. No Usage,Boomerang
+904274,male,unknown,youth Adults,Gauteng,1,1,2016-03-31T10:04:00.000Z,2016-03-31,Thu,Mar,2016,31,10,01. Weekday,10:04:00,02. Morning,00:00:44,0.012222,44,04. No Usage,Africa Magic
+904274,male,unknown,youth Adults,Gauteng,1,1,2016-03-30T14:06:00.000Z,2016-03-30,Wed,Mar,2016,30,14,01. Weekday,14:06:00,03. Afternoon,00:08:58,0.149444,538,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+904274,male,unknown,youth Adults,Gauteng,1,1,2016-03-30T13:57:00.000Z,2016-03-30,Wed,Mar,2016,30,13,01. Weekday,13:57:00,03. Afternoon,00:30:52,0.514444,1852,02. Medium Usage (<60 min),ICC Cricket World Cup 2011
+866251,male,black,youth Adults,Gauteng,1,1,2016-03-03T20:32:00.000Z,2016-03-03,Thu,Mar,2016,3,20,01. Weekday,20:32:00,04. Evening,00:28:42,0.478334,1722,01. Low Usage (<30 min),Trace TV
+2420980,male,black,Adults,Kwazulu Natal,1,1,2016-03-21T11:48:00.000Z,2016-03-21,Mon,Mar,2016,21,11,01. Weekday,11:48:00,02. Morning,00:01:11,0.019723,71,04. No Usage,Boomerang
+788751,male,coloured,youth Adults,Western Cape,1,1,2016-02-01T23:35:00.000Z,2016-02-01,Mon,Feb,2016,1,23,01. Weekday,23:35:00,04. Evening,00:04:20,0.072223,260,04. No Usage,SuperSport Blitz
+892573,male,unknown,Adults,Mpumalanga,1,1,2016-03-19T18:53:00.000Z,2016-03-19,Sat,Mar,2016,19,18,02. Weekend,18:53:00,04. Evening,00:00:04,0.001111,4,04. No Usage,SuperSport Blitz
+809043,male,black,youth Adults,Gauteng,1,1,2016-02-19T06:10:00.000Z,2016-02-19,Fri,Feb,2016,19,6,01. Weekday,06:10:00,02. Morning,00:20:24,0.340000,1224,01. Low Usage (<30 min),Trace TV
+809043,male,black,youth Adults,Gauteng,1,1,2016-02-21T21:50:00.000Z,2016-02-21,Sun,Feb,2016,21,21,02. Weekend,21:50:00,04. Evening,00:14:58,0.249444,898,01. Low Usage (<30 min),Live Events
+809043,male,black,youth Adults,Gauteng,1,1,2016-03-06T14:46:00.000Z,2016-03-06,Sun,Mar,2016,6,14,02. Weekend,14:46:00,03. Afternoon,00:02:00,0.033333,120,04. No Usage,Live Events
+939712,male,black,Adults,Western Cape,1,1,2016-03-23T08:16:00.000Z,2016-03-23,Wed,Mar,2016,23,8,01. Weekday,08:16:00,02. Morning,00:00:49,0.013611,49,04. No Usage,Africa Magic
+939712,male,black,Adults,Western Cape,1,1,2016-03-20T14:59:00.000Z,2016-03-20,Sun,Mar,2016,20,14,02. Weekend,14:59:00,03. Afternoon,00:00:48,0.013333,48,04. No Usage,Live Events
+817317,male,coloured,Elder,Western Cape,1,1,2016-03-04T16:06:00.000Z,2016-03-04,Fri,Mar,2016,4,16,01. Weekday,16:06:00,03. Afternoon,00:00:14,0.003889,14,04. No Usage,SawSee
+817317,male,coloured,Elder,Western Cape,1,1,2016-03-04T16:09:00.000Z,2016-03-04,Fri,Mar,2016,4,16,01. Weekday,16:09:00,03. Afternoon,00:00:10,0.002778,10,04. No Usage,M-Net
+817317,male,coloured,Elder,Western Cape,1,1,2016-02-06T14:43:00.000Z,2016-02-06,Sat,Feb,2016,6,14,02. Weekend,14:43:00,03. Afternoon,00:00:08,0.002222,8,04. No Usage,Boomerang
+817317,male,coloured,Elder,Western Cape,1,1,2016-02-23T18:03:00.000Z,2016-02-23,Tue,Feb,2016,23,18,01. Weekday,18:03:00,04. Evening,00:01:54,0.031667,114,04. No Usage,ICC Cricket World Cup 2011
+817317,male,coloured,Elder,Western Cape,1,1,2016-02-23T18:11:00.000Z,2016-02-23,Tue,Feb,2016,23,18,01. Weekday,18:11:00,04. Evening,00:00:54,0.015000,54,04. No Usage,kykNET
+817317,male,coloured,Elder,Western Cape,1,1,2016-03-25T15:54:00.000Z,2016-03-25,Fri,Mar,2016,25,15,01. Weekday,15:54:00,03. Afternoon,00:00:21,0.005833,21,04. No Usage,Channel O
+771911,male,black,youth Adults,North West,1,1,2016-02-14T21:34:00.000Z,2016-02-14,Sun,Feb,2016,14,21,02. Weekend,21:34:00,04. Evening,00:01:06,0.018334,66,04. No Usage,Live Events
+771911,male,black,youth Adults,North West,1,1,2016-02-02T19:35:00.000Z,2016-02-02,Tue,Feb,2016,2,19,01. Weekday,19:35:00,04. Evening,00:08:44,0.145555,524,01. Low Usage (<30 min),Live Events
+771911,male,black,youth Adults,North West,1,1,2016-02-02T02:50:00.000Z,2016-02-02,Tue,Feb,2016,2,2,01. Weekday,02:50:00,01. Midnight,00:00:05,0.001389,5,04. No Usage,SawSee
+771911,male,black,youth Adults,North West,1,1,2016-02-02T02:33:00.000Z,2016-02-02,Tue,Feb,2016,2,2,01. Weekday,02:33:00,01. Midnight,00:03:00,0.050000,180,04. No Usage,SuperSport Blitz
+771911,male,black,youth Adults,North West,1,1,2016-03-08T12:23:00.000Z,2016-03-08,Tue,Mar,2016,8,12,01. Weekday,12:23:00,03. Afternoon,00:03:09,0.052500,189,04. No Usage,Trace TV
+771911,male,black,youth Adults,North West,1,1,2016-03-06T14:26:00.000Z,2016-03-06,Sun,Mar,2016,6,14,02. Weekend,14:26:00,03. Afternoon,00:10:06,0.168334,606,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+916065,male,white,youth,North West,1,1,2016-03-26T11:01:00.000Z,2016-03-26,Sat,Mar,2016,26,11,02. Weekend,11:01:00,02. Morning,00:06:50,0.113889,410,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+2360384,male,black,Adults,Mpumalanga,1,1,2016-02-08T14:09:00.000Z,2016-02-08,Mon,Feb,2016,8,14,01. Weekday,14:09:00,03. Afternoon,00:04:44,0.078889,284,04. No Usage,Boomerang
+809045,male,coloured,Adults,Western Cape,1,1,2016-02-18T23:13:00.000Z,2016-02-18,Thu,Feb,2016,18,23,01. Weekday,23:13:00,04. Evening,00:00:10,0.002778,10,04. No Usage,Cartoon Network
+809045,male,coloured,Adults,Western Cape,1,1,2016-02-27T21:56:00.000Z,2016-02-27,Sat,Feb,2016,27,21,02. Weekend,21:56:00,04. Evening,00:01:08,0.018889,68,04. No Usage,Boomerang
+859389,male,white,Adults,Mpumalanga,1,1,2016-03-26T18:15:00.000Z,2016-03-26,Sat,Mar,2016,26,18,02. Weekend,18:15:00,04. Evening,00:03:26,0.057222,206,04. No Usage,Live Events
+866255,male,white,youth Adults,North West,1,1,2016-03-05T14:04:00.000Z,2016-03-05,Sat,Mar,2016,5,14,02. Weekend,14:04:00,03. Afternoon,00:08:24,0.140000,504,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+939713,male,coloured,youth Adults,Free State,1,1,2016-03-04T23:06:00.000Z,2016-03-04,Fri,Mar,2016,4,23,01. Weekday,23:06:00,04. Evening,00:01:06,0.018334,66,04. No Usage,E! Entertainment
+892577,male,black,youth Adults,Mpumalanga,1,1,2016-03-20T15:03:00.000Z,2016-03-20,Sun,Mar,2016,20,15,02. Weekend,15:03:00,03. Afternoon,00:07:14,0.120556,434,01. Low Usage (<30 min),SuperSport Blitz
+893061,male,black,youth Adults,Gauteng,1,1,2016-03-17T15:48:00.000Z,2016-03-17,Thu,Mar,2016,17,15,01. Weekday,15:48:00,03. Afternoon,00:01:05,0.018056,65,04. No Usage,Boomerang
+779489,male,black,Adults,Kwazulu Natal,1,1,2016-03-03T04:28:00.000Z,2016-03-03,Thu,Mar,2016,3,4,01. Weekday,04:28:00,01. Midnight,00:02:47,0.046389,167,04. No Usage,M-Net
+865413,male,unknown,youth Adults,Mpumalanga,1,1,2016-03-19T13:40:00.000Z,2016-03-19,Sat,Mar,2016,19,13,02. Weekend,13:40:00,03. Afternoon,00:00:28,0.007778,28,04. No Usage,Live Events
+865413,male,unknown,youth Adults,Mpumalanga,1,1,2016-03-19T11:14:00.000Z,2016-03-19,Sat,Mar,2016,19,11,02. Weekend,11:14:00,02. Morning,00:03:20,0.055556,200,04. No Usage,Live Events
+809047,female,unknown,Adults,Western Cape,1,1,2016-03-31T23:42:00.000Z,2016-03-31,Thu,Mar,2016,31,23,01. Weekday,23:42:00,04. Evening,00:02:45,0.045833,165,04. No Usage,Trace TV
+809047,female,unknown,Adults,Western Cape,1,1,2016-03-07T20:36:00.000Z,2016-03-07,Mon,Mar,2016,7,20,01. Weekday,20:36:00,04. Evening,00:06:00,0.100000,360,01. Low Usage (<30 min),Trace TV
+737179,male,unknown,youth Adults,Gauteng,1,1,2016-01-24T13:40:00.000Z,2016-01-24,Sun,Jan,2016,24,13,02. Weekend,13:40:00,03. Afternoon,00:01:33,0.025834,93,04. No Usage,Trace TV
+930093,male,indian_asian,Adults,Gauteng,1,1,2016-03-30T21:40:00.000Z,2016-03-30,Wed,Mar,2016,30,21,01. Weekday,21:40:00,04. Evening,00:04:50,0.080556,290,04. No Usage,SawSee
+922283,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-28T17:12:00.000Z,2016-03-28,Mon,Mar,2016,28,17,01. Weekday,17:12:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Cartoon Network
+850779,male,coloured,youth Adults,Gauteng,1,1,2016-03-03T17:42:00.000Z,2016-03-03,Thu,Mar,2016,3,17,01. Weekday,17:42:00,04. Evening,00:00:12,0.003333,12,04. No Usage,Cartoon Network
+930094,male,unknown,youth Adults,Free State,1,1,2016-03-29T12:17:00.000Z,2016-03-29,Tue,Mar,2016,29,12,01. Weekday,12:17:00,03. Afternoon,00:01:24,0.023334,84,04. No Usage,ICC Cricket World Cup 2011
+930094,male,unknown,youth Adults,Free State,1,1,2016-03-29T17:32:00.000Z,2016-03-29,Tue,Mar,2016,29,17,01. Weekday,17:32:00,04. Evening,00:01:00,0.016667,60,04. No Usage,Trace TV
+2285675,male,unknown,youth Adults,Gauteng,1,1,2016-03-25T13:53:00.000Z,2016-03-25,Fri,Mar,2016,25,13,01. Weekday,13:53:00,03. Afternoon,00:00:32,0.008889,32,04. No Usage,ICC Cricket World Cup 2011
+831815,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-03T14:41:00.000Z,2016-03-03,Thu,Mar,2016,3,14,01. Weekday,14:41:00,03. Afternoon,00:11:42,0.195000,702,01. Low Usage (<30 min),Live Events
+642504,unknown,unknown,infant,Unclassified,1,1,2016-03-30T08:07:00.000Z,2016-03-30,Wed,Mar,2016,30,8,01. Weekday,08:07:00,02. Morning,00:01:25,0.023611,85,04. No Usage,Live Events
+809048,male,indian_asian,Adults,Limpopo,1,1,2016-02-19T13:51:00.000Z,2016-02-19,Fri,Feb,2016,19,13,01. Weekday,13:51:00,03. Afternoon,00:00:52,0.014444,52,04. No Usage,Live Events
+809048,male,indian_asian,Adults,Limpopo,1,1,2016-02-24T16:59:00.000Z,2016-02-24,Wed,Feb,2016,24,16,01. Weekday,16:59:00,03. Afternoon,00:04:00,0.066667,240,04. No Usage,ICC Cricket World Cup 2011
+809048,male,indian_asian,Adults,Limpopo,1,1,2016-02-03T11:55:00.000Z,2016-02-03,Wed,Feb,2016,3,11,01. Weekday,11:55:00,02. Morning,00:00:23,0.006389,23,04. No Usage,Africa Magic
+809048,male,indian_asian,Adults,Limpopo,1,1,2016-02-03T12:05:00.000Z,2016-02-03,Wed,Feb,2016,3,12,01. Weekday,12:05:00,03. Afternoon,00:27:00,0.450000,1620,01. Low Usage (<30 min),Channel O
+809048,male,indian_asian,Adults,Limpopo,1,1,2016-03-09T15:18:00.000Z,2016-03-09,Wed,Mar,2016,9,15,01. Weekday,15:18:00,03. Afternoon,00:16:38,0.277223,998,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+904295,male,indian_asian,Adults,Western Cape,1,1,2016-03-24T18:44:00.000Z,2016-03-24,Thu,Mar,2016,24,18,01. Weekday,18:44:00,04. Evening,01:11:12,1.186666,4272,03. High Usage (>60 min),Live Events
+930097,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T17:04:00.000Z,2016-03-30,Wed,Mar,2016,30,17,01. Weekday,17:04:00,04. Evening,01:22:02,1.367223,4922,03. High Usage (>60 min),ICC Cricket World Cup 2011
+939717,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T10:10:00.000Z,2016-03-30,Wed,Mar,2016,30,10,01. Weekday,10:10:00,02. Morning,00:00:46,0.012778,46,04. No Usage,E! Entertainment
+939717,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-29T22:22:00.000Z,2016-03-29,Tue,Mar,2016,29,22,01. Weekday,22:22:00,04. Evening,00:02:06,0.035000,126,04. No Usage,Trace TV
+904299,male,indian_asian,Kids,Free State,1,1,2016-03-30T14:04:00.000Z,2016-03-30,Wed,Mar,2016,30,14,01. Weekday,14:04:00,03. Afternoon,01:47:28,1.791111,6448,03. High Usage (>60 min),ICC Cricket World Cup 2011
+904299,male,indian_asian,Kids,Free State,1,1,2016-03-25T17:32:00.000Z,2016-03-25,Fri,Mar,2016,25,17,01. Weekday,17:32:00,04. Evening,01:30:26,1.507222,5426,03. High Usage (>60 min),ICC Cricket World Cup 2011
+904299,male,indian_asian,Kids,Free State,1,1,2016-03-29T15:01:00.000Z,2016-03-29,Tue,Mar,2016,29,15,01. Weekday,15:01:00,03. Afternoon,01:31:36,1.526667,5496,03. High Usage (>60 min),ICC Cricket World Cup 2011
+531053,male,coloured,youth Adults,Western Cape,1,1,2016-01-11T09:09:00.000Z,2016-01-11,Mon,Jan,2016,11,9,01. Weekday,09:09:00,02. Morning,00:02:17,0.038055,137,04. No Usage,Cartoon Network
+2368559,male,black,Adults,Gauteng,1,1,2016-02-19T21:26:00.000Z,2016-02-19,Fri,Feb,2016,19,21,01. Weekday,21:26:00,04. Evening,00:45:42,0.761667,2742,02. Medium Usage (<60 min),Live Events
+2368559,male,black,Adults,Gauteng,1,1,2016-02-04T21:46:00.000Z,2016-02-04,Thu,Feb,2016,4,21,01. Weekday,21:46:00,04. Evening,00:13:28,0.224445,808,01. Low Usage (<30 min),Live Events
+2368559,male,black,Adults,Gauteng,1,1,2016-01-25T22:50:00.000Z,2016-01-25,Mon,Jan,2016,25,22,01. Weekday,22:50:00,04. Evening,00:13:24,0.223334,804,01. Low Usage (<30 min),Live Events
+2368559,male,black,Adults,Gauteng,1,1,2016-01-07T19:42:00.000Z,2016-01-07,Thu,Jan,2016,7,19,01. Weekday,19:42:00,04. Evening,00:04:10,0.069445,250,04. No Usage,Live Events
+2368559,male,black,Adults,Gauteng,1,1,2016-01-08T12:34:00.000Z,2016-01-08,Fri,Jan,2016,8,12,01. Weekday,12:34:00,03. Afternoon,00:00:26,0.007222,26,04. No Usage,Africa Magic
+779500,male,white,youth Adults,Western Cape,1,1,2016-02-14T08:00:00.000Z,2016-02-14,Sun,Feb,2016,14,8,02. Weekend,08:00:00,02. Morning,00:00:16,0.004444,16,04. No Usage,Break in transmission
+779500,male,white,youth Adults,Western Cape,1,1,2016-02-02T17:55:00.000Z,2016-02-02,Tue,Feb,2016,2,17,01. Weekday,17:55:00,04. Evening,00:09:32,0.158889,572,01. Low Usage (<30 min),Boomerang
+2425806,male,black,Adults,Gauteng,1,1,2016-01-31T18:01:00.000Z,2016-01-31,Sun,Jan,2016,31,18,02. Weekend,18:01:00,04. Evening,00:00:30,0.008333,30,04. No Usage,CNN
+2425806,male,black,Adults,Gauteng,1,1,2016-02-03T17:38:00.000Z,2016-02-03,Wed,Feb,2016,3,17,01. Weekday,17:38:00,04. Evening,00:00:09,0.002500,9,04. No Usage,Boomerang
+831820,male,coloured,youth Adults,Kwazulu Natal,1,1,2016-03-13T16:35:00.000Z,2016-03-13,Sun,Mar,2016,13,16,02. Weekend,16:35:00,03. Afternoon,00:13:22,0.222778,802,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+831820,male,coloured,youth Adults,Kwazulu Natal,1,1,2016-03-06T20:51:00.000Z,2016-03-06,Sun,Mar,2016,6,20,02. Weekend,20:51:00,04. Evening,00:00:57,0.015833,57,04. No Usage,Cartoon Network
+831820,male,coloured,youth Adults,Kwazulu Natal,1,1,2016-02-27T20:02:00.000Z,2016-02-27,Sat,Feb,2016,27,20,02. Weekend,20:02:00,04. Evening,00:11:56,0.198889,716,01. Low Usage (<30 min),Cartoon Network
+521247,male,black,youth Adults,Mpumalanga,1,1,2016-01-03T22:51:00.000Z,2016-01-03,Sun,Jan,2016,3,22,02. Weekend,22:51:00,04. Evening,00:07:06,0.118334,426,01. Low Usage (<30 min),Africa Magic
+521247,male,black,youth Adults,Mpumalanga,1,1,2016-01-08T14:25:00.000Z,2016-01-08,Fri,Jan,2016,8,14,01. Weekday,14:25:00,03. Afternoon,00:04:48,0.080000,288,04. No Usage,Channel O
+621328,male,unknown,youth Adults,Western Cape,1,1,2016-01-13T22:02:00.000Z,2016-01-13,Wed,Jan,2016,13,22,01. Weekday,22:02:00,04. Evening,00:01:35,0.026389,95,04. No Usage,Live Events
+892587,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-11T20:07:00.000Z,2016-03-11,Fri,Mar,2016,11,20,01. Weekday,20:07:00,04. Evening,00:01:10,0.019445,70,04. No Usage,ICC Cricket World Cup 2011
+892587,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-20T18:37:00.000Z,2016-03-20,Sun,Mar,2016,20,18,02. Weekend,18:37:00,04. Evening,01:04:12,1.070000,3852,03. High Usage (>60 min),ICC Cricket World Cup 2011
+939719,male,white,youth Adults,Kwazulu Natal,1,1,2016-03-31T21:33:00.000Z,2016-03-31,Thu,Mar,2016,31,21,01. Weekday,21:33:00,04. Evening,00:02:18,0.038333,138,04. No Usage,Channel O
+939719,male,white,youth Adults,Kwazulu Natal,1,1,2016-03-31T18:36:00.000Z,2016-03-31,Thu,Mar,2016,31,18,01. Weekday,18:36:00,04. Evening,00:02:11,0.036389,131,04. No Usage,Vuzu
+930104,male,indian_asian,youth Adults,Limpopo,1,1,2016-03-29T23:49:00.000Z,2016-03-29,Tue,Mar,2016,29,23,01. Weekday,23:49:00,04. Evening,00:04:24,0.073334,264,04. No Usage,SuperSport Blitz
+866270,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-13T14:07:00.000Z,2016-03-13,Sun,Mar,2016,13,14,02. Weekend,14:07:00,03. Afternoon,00:59:14,0.987222,3554,02. Medium Usage (<60 min),ICC Cricket World Cup 2011
+866270,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-19T11:27:00.000Z,2016-03-19,Sat,Mar,2016,19,11,02. Weekend,11:27:00,02. Morning,00:20:19,0.338611,1219,01. Low Usage (<30 min),Cartoon Network
+858517,unknown,unknown,infant,Unclassified,1,1,2016-03-25T18:17:00.000Z,2016-03-25,Fri,Mar,2016,25,18,01. Weekday,18:17:00,04. Evening,00:02:24,0.040000,144,04. No Usage,Channel O
+858517,unknown,unknown,infant,Unclassified,1,1,2016-03-25T12:44:00.000Z,2016-03-25,Fri,Mar,2016,25,12,01. Weekday,12:44:00,03. Afternoon,00:01:00,0.016667,60,04. No Usage,Channel O
+789241,male,coloured,youth Adults,Northern Cape,1,1,2016-02-13T10:22:00.000Z,2016-02-13,Sat,Feb,2016,13,10,02. Weekend,10:22:00,02. Morning,00:01:58,0.032778,118,04. No Usage,Boomerang
+1106301,male,indian_asian,Adults,Gauteng,1,1,2016-03-26T08:05:00.000Z,2016-03-26,Sat,Mar,2016,26,8,02. Weekend,08:05:00,02. Morning,00:00:50,0.013889,50,04. No Usage,SuperSport Blitz
+1106301,male,indian_asian,Adults,Gauteng,1,1,2016-03-26T10:23:00.000Z,2016-03-26,Sat,Mar,2016,26,10,02. Weekend,10:23:00,02. Morning,00:01:54,0.031667,114,04. No Usage,SuperSport Blitz
+817331,male,black,youth,Gauteng,1,1,2016-02-25T14:36:00.000Z,2016-02-25,Thu,Feb,2016,25,14,01. Weekday,14:36:00,03. Afternoon,00:16:00,0.266667,960,01. Low Usage (<30 min),Channel O
+2368568,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-18T09:14:00.000Z,2016-03-18,Fri,Mar,2016,18,9,01. Weekday,09:14:00,02. Morning,00:07:50,0.130556,470,01. Low Usage (<30 min),CNN
+2368568,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-19T20:36:00.000Z,2016-03-19,Sat,Mar,2016,19,20,02. Weekend,20:36:00,04. Evening,00:02:01,0.033611,121,04. No Usage,CNN
+2368568,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-20T18:29:00.000Z,2016-03-20,Sun,Mar,2016,20,18,02. Weekend,18:29:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+2368568,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-16T07:38:00.000Z,2016-03-16,Wed,Mar,2016,16,7,01. Weekday,07:38:00,02. Morning,00:00:44,0.012222,44,04. No Usage,Africa Magic
+2368568,male,indian_asian,Adults,Kwazulu Natal,1,1,2016-03-15T23:31:00.000Z,2016-03-15,Tue,Mar,2016,15,23,01. Weekday,23:31:00,04. Evening,00:24:39,0.410833,1479,01. Low Usage (<30 min),Channel O
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-05T16:31:00.000Z,2016-02-05,Fri,Feb,2016,5,16,01. Weekday,16:31:00,03. Afternoon,00:03:27,0.057500,207,04. No Usage,Channel O
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-26T13:02:00.000Z,2016-02-26,Fri,Feb,2016,26,13,01. Weekday,13:02:00,03. Afternoon,00:03:30,0.058333,210,04. No Usage,ICC Cricket World Cup 2011
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-15T17:50:00.000Z,2016-02-15,Mon,Feb,2016,15,17,01. Weekday,17:50:00,04. Evening,00:01:54,0.031667,114,04. No Usage,E! Entertainment
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-20T11:29:00.000Z,2016-02-20,Sat,Feb,2016,20,11,02. Weekend,11:29:00,02. Morning,00:04:15,0.070834,255,04. No Usage,Trace TV
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-20T11:31:00.000Z,2016-02-20,Sat,Feb,2016,20,11,02. Weekend,11:31:00,02. Morning,00:01:28,0.024445,88,04. No Usage,SuperSport Blitz
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-14T13:27:00.000Z,2016-02-14,Sun,Feb,2016,14,13,02. Weekend,13:27:00,03. Afternoon,00:04:24,0.073334,264,04. No Usage,Channel O
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-21T17:17:00.000Z,2016-02-21,Sun,Feb,2016,21,17,02. Weekend,17:17:00,04. Evening,00:23:48,0.396666,1428,01. Low Usage (<30 min),Trace TV
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-02T20:18:00.000Z,2016-02-02,Tue,Feb,2016,2,20,01. Weekday,20:18:00,04. Evening,00:00:53,0.014722,53,04. No Usage,Africa Magic
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-25T09:45:00.000Z,2016-02-25,Thu,Feb,2016,25,9,01. Weekday,09:45:00,02. Morning,00:04:32,0.075556,272,04. No Usage,ICC Cricket World Cup 2011
+809056,male,coloured,Adults,Western Cape,1,1,2016-03-08T10:42:00.000Z,2016-03-08,Tue,Mar,2016,8,10,01. Weekday,10:42:00,02. Morning,00:09:48,0.163333,588,01. Low Usage (<30 min),Trace TV
+809056,male,coloured,Adults,Western Cape,1,1,2016-01-01T21:19:00.000Z,2016-01-01,Fri,Jan,2016,1,21,01. Weekday,21:19:00,04. Evening,00:01:00,0.016667,60,04. No Usage,Trace TV
+809056,male,coloured,Adults,Western Cape,1,1,2016-01-27T23:45:00.000Z,2016-01-27,Wed,Jan,2016,27,23,01. Weekday,23:45:00,04. Evening,00:07:39,0.127500,459,01. Low Usage (<30 min),Trace TV
+809056,male,coloured,Adults,Western Cape,1,1,2016-01-12T14:21:00.000Z,2016-01-12,Tue,Jan,2016,12,14,01. Weekday,14:21:00,03. Afternoon,00:00:58,0.016111,58,04. No Usage,Live Events
+809056,male,coloured,Adults,Western Cape,1,1,2016-01-06T21:27:00.000Z,2016-01-06,Wed,Jan,2016,6,21,01. Weekday,21:27:00,04. Evening,00:23:06,0.385000,1386,01. Low Usage (<30 min),Trace TV
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-12T23:59:00.000Z,2016-02-12,Fri,Feb,2016,12,23,01. Weekday,23:59:00,04. Evening,00:00:14,0.003889,14,04. No Usage,Cartoon Network
+809056,male,coloured,Adults,Western Cape,1,1,2016-01-02T20:57:00.000Z,2016-01-02,Sat,Jan,2016,2,20,02. Weekend,20:57:00,04. Evening,00:15:16,0.254444,916,01. Low Usage (<30 min),Boomerang
+809056,male,coloured,Adults,Western Cape,1,1,2016-01-01T08:26:00.000Z,2016-01-01,Fri,Jan,2016,1,8,01. Weekday,08:26:00,02. Morning,00:02:48,0.046666,168,04. No Usage,Trace TV
+809056,male,coloured,Adults,Western Cape,1,1,2016-03-05T01:03:00.000Z,2016-03-05,Sat,Mar,2016,5,1,02. Weekend,01:03:00,01. Midnight,00:16:21,0.272500,981,01. Low Usage (<30 min),Trace TV
+809056,male,coloured,Adults,Western Cape,1,1,2016-03-05T15:25:00.000Z,2016-03-05,Sat,Mar,2016,5,15,02. Weekend,15:25:00,03. Afternoon,00:01:48,0.030000,108,04. No Usage,ICC Cricket World Cup 2011
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-19T00:58:00.000Z,2016-02-19,Fri,Feb,2016,19,0,01. Weekday,00:58:00,01. Midnight,00:00:27,0.007500,27,04. No Usage,Vuzu
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-12T19:32:00.000Z,2016-02-12,Fri,Feb,2016,12,19,01. Weekday,19:32:00,04. Evening,00:00:42,0.011667,42,04. No Usage,Channel O
+809056,male,coloured,Adults,Western Cape,1,1,2016-03-31T18:33:00.000Z,2016-03-31,Thu,Mar,2016,31,18,01. Weekday,18:33:00,04. Evening,00:01:10,0.019445,70,04. No Usage,Boomerang
+809056,male,coloured,Adults,Western Cape,1,1,2016-03-30T13:17:00.000Z,2016-03-30,Wed,Mar,2016,30,13,01. Weekday,13:17:00,03. Afternoon,00:01:12,0.020000,72,04. No Usage,Channel O
+809056,male,coloured,Adults,Western Cape,1,1,2016-03-27T00:47:00.000Z,2016-03-27,Sun,Mar,2016,27,0,02. Weekend,00:47:00,01. Midnight,00:01:15,0.020834,75,04. No Usage,Live Events
+809056,male,coloured,Adults,Western Cape,1,1,2016-03-01T11:14:00.000Z,2016-03-01,Tue,Mar,2016,1,11,01. Weekday,11:14:00,02. Morning,00:03:44,0.062222,224,04. No Usage,ICC Cricket World Cup 2011
+809056,male,coloured,Adults,Western Cape,1,1,2016-03-29T18:00:00.000Z,2016-03-29,Tue,Mar,2016,29,18,01. Weekday,18:00:00,04. Evening,00:24:42,0.411667,1482,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+809056,male,coloured,Adults,Western Cape,1,1,2016-02-13T02:00:00.000Z,2016-02-13,Sat,Feb,2016,13,2,02. Weekend,02:00:00,01. Midnight,00:00:17,0.004722,17,04. No Usage,CNN
+779505,male,black,youth Adults,Gauteng,1,1,2016-02-06T20:53:00.000Z,2016-02-06,Sat,Feb,2016,6,20,02. Weekend,20:53:00,04. Evening,00:04:06,0.068334,246,04. No Usage,Channel O
+831826,male,indian_asian,youth Adults,Eastern Cape,1,1,2016-02-28T09:48:00.000Z,2016-02-28,Sun,Feb,2016,28,9,02. Weekend,09:48:00,02. Morning,00:05:36,0.093333,336,01. Low Usage (<30 min),SawSee
+831826,male,indian_asian,youth Adults,Eastern Cape,1,1,2016-02-28T14:29:00.000Z,2016-02-28,Sun,Feb,2016,28,14,02. Weekend,14:29:00,03. Afternoon,01:56:32,1.942222,6992,03. High Usage (>60 min),ICC Cricket World Cup 2011
+939723,male,black,youth Adults,Gauteng,1,1,2016-03-30T18:43:00.000Z,2016-03-30,Wed,Mar,2016,30,18,01. Weekday,18:43:00,04. Evening,00:12:24,0.206667,744,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+764451,female,indian_asian,youth Adults,Gauteng,1,1,2016-01-11T15:11:00.000Z,2016-01-11,Mon,Jan,2016,11,15,01. Weekday,15:11:00,03. Afternoon,00:03:06,0.051667,186,04. No Usage,Trace TV
+930111,male,black,youth Adults,Gauteng,1,1,2016-03-30T23:03:00.000Z,2016-03-30,Wed,Mar,2016,30,23,01. Weekday,23:03:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Boomerang
+793693,male,black,youth Adults,Gauteng,1,1,2016-02-15T08:37:00.000Z,2016-02-15,Mon,Feb,2016,15,8,01. Weekday,08:37:00,02. Morning,00:01:13,0.020278,73,04. No Usage,SawSee
+793693,male,black,youth Adults,Gauteng,1,1,2016-02-15T09:11:00.000Z,2016-02-15,Mon,Feb,2016,15,9,01. Weekday,09:11:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Africa Magic
+793693,male,black,youth Adults,Gauteng,1,1,2016-02-19T10:42:00.000Z,2016-02-19,Fri,Feb,2016,19,10,01. Weekday,10:42:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Channel O
+793693,male,black,youth Adults,Gauteng,1,1,2016-02-14T10:18:00.000Z,2016-02-14,Sun,Feb,2016,14,10,02. Weekend,10:18:00,02. Morning,00:00:40,0.011111,40,04. No Usage,Africa Magic
+549032,male,black,Adults,Gauteng,1,1,2016-01-12T22:32:00.000Z,2016-01-12,Tue,Jan,2016,12,22,01. Weekday,22:32:00,04. Evening,00:01:34,0.026111,94,04. No Usage,SuperSport Blitz
+549032,male,black,Adults,Gauteng,1,1,2016-01-12T23:33:00.000Z,2016-01-12,Tue,Jan,2016,12,23,01. Weekday,23:33:00,04. Evening,00:10:15,0.170834,615,01. Low Usage (<30 min),Boomerang
+597265,male,black,youth Adults,Gauteng,1,1,2016-01-09T12:30:00.000Z,2016-01-09,Sat,Jan,2016,9,12,02. Weekend,12:30:00,03. Afternoon,00:08:13,0.136944,493,01. Low Usage (<30 min),Cartoon Network
+597265,male,black,youth Adults,Gauteng,1,1,2016-01-17T18:15:00.000Z,2016-01-17,Sun,Jan,2016,17,18,02. Weekend,18:15:00,04. Evening,02:03:12,2.053333,7392,03. High Usage (>60 min),Trace TV
+597265,male,black,youth Adults,Gauteng,1,1,2016-01-08T15:31:00.000Z,2016-01-08,Fri,Jan,2016,8,15,01. Weekday,15:31:00,03. Afternoon,00:24:06,0.401667,1446,01. Low Usage (<30 min),Channel O
+806431,male,black,Adults,Eastern Cape,1,1,2016-02-02T20:34:00.000Z,2016-02-02,Tue,Feb,2016,2,20,01. Weekday,20:34:00,04. Evening,00:04:48,0.080000,288,04. No Usage,SuperSport Blitz
+771924,female,black,youth Adults,Gauteng,1,1,2016-02-09T11:55:00.000Z,2016-02-09,Tue,Feb,2016,9,11,01. Weekday,11:55:00,02. Morning,00:01:11,0.019723,71,04. No Usage,Africa Magic
+869019,male,white,Adults,Gauteng,1,1,2016-03-15T12:43:00.000Z,2016-03-15,Tue,Mar,2016,15,12,01. Weekday,12:43:00,03. Afternoon,00:03:06,0.051667,186,04. No Usage,ICC Cricket World Cup 2011
+869019,male,white,Adults,Gauteng,1,1,2016-03-26T08:32:00.000Z,2016-03-26,Sat,Mar,2016,26,8,02. Weekend,08:32:00,02. Morning,00:00:33,0.009167,33,04. No Usage,Boomerang
+789265,male,white,youth Adults,North West,1,1,2016-02-09T01:09:00.000Z,2016-02-09,Tue,Feb,2016,9,1,01. Weekday,01:09:00,01. Midnight,00:19:48,0.330000,1188,01. Low Usage (<30 min),Boomerang
+882400,male,white,youth Adults,Gauteng,1,1,2016-03-19T20:41:00.000Z,2016-03-19,Sat,Mar,2016,19,20,02. Weekend,20:41:00,04. Evening,00:02:38,0.043889,158,04. No Usage,Live Events
+918332,female,indian_asian,youth Adults,Gauteng,1,1,2016-03-28T22:41:00.000Z,2016-03-28,Mon,Mar,2016,28,22,01. Weekday,22:41:00,04. Evening,00:01:44,0.028889,104,04. No Usage,Live Events
+918332,female,indian_asian,youth Adults,Gauteng,1,1,2016-03-30T16:25:00.000Z,2016-03-30,Wed,Mar,2016,30,16,01. Weekday,16:25:00,03. Afternoon,00:02:00,0.033333,120,04. No Usage,ICC Cricket World Cup 2011
+918332,female,indian_asian,youth Adults,Gauteng,1,1,2016-03-29T10:47:00.000Z,2016-03-29,Tue,Mar,2016,29,10,01. Weekday,10:47:00,02. Morning,01:23:04,1.384444,4984,03. High Usage (>60 min),SuperSport Blitz
+809063,male,black,youth Adults,Gauteng,1,1,2016-02-20T14:58:00.000Z,2016-02-20,Sat,Feb,2016,20,14,02. Weekend,14:58:00,03. Afternoon,00:03:48,0.063333,228,04. No Usage,Trace TV
+809063,male,black,youth Adults,Gauteng,1,1,2016-02-20T13:15:00.000Z,2016-02-20,Sat,Feb,2016,20,13,02. Weekend,13:15:00,03. Afternoon,00:00:08,0.002222,8,04. No Usage,SuperSport Blitz
+809063,male,black,youth Adults,Gauteng,1,1,2016-02-24T09:00:00.000Z,2016-02-24,Wed,Feb,2016,24,9,01. Weekday,09:00:00,02. Morning,00:03:58,0.066111,238,04. No Usage,SuperSport Blitz
+2368583,male,indian_asian,youth Adults,Limpopo,1,1,2016-02-26T18:27:00.000Z,2016-02-26,Fri,Feb,2016,26,18,01. Weekday,18:27:00,04. Evening,00:01:32,0.025556,92,04. No Usage,ICC Cricket World Cup 2011
+2368583,male,indian_asian,youth Adults,Limpopo,1,1,2016-02-19T11:13:00.000Z,2016-02-19,Fri,Feb,2016,19,11,01. Weekday,11:13:00,02. Morning,00:01:30,0.025000,90,04. No Usage,Live Events
+786181,male,black,youth Adults,Gauteng,1,1,2016-03-05T21:14:00.000Z,2016-03-05,Sat,Mar,2016,5,21,02. Weekend,21:14:00,04. Evening,00:02:48,0.046666,168,04. No Usage,SuperSport Blitz
+2285716,male,white,youth Adults,Gauteng,1,1,2016-03-24T16:48:00.000Z,2016-03-24,Thu,Mar,2016,24,16,01. Weekday,16:48:00,03. Afternoon,00:00:04,0.001111,4,04. No Usage,Live Events
+2285716,male,white,youth Adults,Gauteng,1,1,2016-03-29T19:47:00.000Z,2016-03-29,Tue,Mar,2016,29,19,01. Weekday,19:47:00,04. Evening,00:00:26,0.007222,26,04. No Usage,SuperSport Blitz
+793697,male,unknown,Elder,Kwazulu Natal,1,1,2016-02-25T16:08:00.000Z,2016-02-25,Thu,Feb,2016,25,16,01. Weekday,16:08:00,03. Afternoon,00:01:16,0.021111,76,04. No Usage,SuperSport Blitz
+939729,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-05T10:51:00.000Z,2016-03-05,Sat,Mar,2016,5,10,02. Weekend,10:51:00,02. Morning,00:13:44,0.228889,824,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+939729,male,coloured,youth Adults,Eastern Cape,1,1,2016-03-12T22:22:00.000Z,2016-03-12,Sat,Mar,2016,12,22,02. Weekend,22:22:00,04. Evening,00:05:46,0.096111,346,01. Low Usage (<30 min),CNN
+939732,male,black,youth Adults,Gauteng,1,1,2016-03-24T21:10:00.000Z,2016-03-24,Thu,Mar,2016,24,21,01. Weekday,21:10:00,04. Evening,00:05:52,0.097777,352,01. Low Usage (<30 min),CNN
+939732,male,black,youth Adults,Gauteng,1,1,2016-03-31T00:38:00.000Z,2016-03-31,Thu,Mar,2016,31,0,01. Weekday,00:38:00,01. Midnight,01:04:59,1.083056,3899,03. High Usage (>60 min),CNN
+771927,female,unknown,Adults,Western Cape,1,1,2016-01-31T11:08:00.000Z,2016-01-31,Sun,Jan,2016,31,11,02. Weekend,11:08:00,02. Morning,00:18:14,0.303889,1094,01. Low Usage (<30 min),Live Events
+771927,female,unknown,Adults,Western Cape,1,1,2016-01-29T18:32:00.000Z,2016-01-29,Fri,Jan,2016,29,18,01. Weekday,18:32:00,04. Evening,00:00:58,0.016111,58,04. No Usage,CNN
+771927,female,unknown,Adults,Western Cape,1,1,2016-01-28T15:00:00.000Z,2016-01-28,Thu,Jan,2016,28,15,01. Weekday,15:00:00,03. Afternoon,00:17:14,0.287222,1034,01. Low Usage (<30 min),SuperSport Blitz
+771927,female,unknown,Adults,Western Cape,1,1,2016-02-01T10:12:00.000Z,2016-02-01,Mon,Feb,2016,1,10,01. Weekday,10:12:00,02. Morning,04:49:00,4.816667,17340,03. High Usage (>60 min),Live Events
+771927,female,unknown,Adults,Western Cape,1,1,2016-01-27T16:14:00.000Z,2016-01-27,Wed,Jan,2016,27,16,01. Weekday,16:14:00,03. Afternoon,00:01:18,0.021667,78,04. No Usage,Live Events
+771927,female,unknown,Adults,Western Cape,1,1,2016-01-27T07:55:00.000Z,2016-01-27,Wed,Jan,2016,27,7,01. Weekday,07:55:00,02. Morning,00:02:26,0.040555,146,04. No Usage,SuperSport Blitz
+771927,female,unknown,Adults,Western Cape,1,1,2016-01-30T18:39:00.000Z,2016-01-30,Sat,Jan,2016,30,18,02. Weekend,18:39:00,04. Evening,00:01:38,0.027223,98,04. No Usage,Cartoon Network
+432894,female,black,youth Adults,Mpumalanga,1,1,2016-01-08T05:10:00.000Z,2016-01-08,Fri,Jan,2016,8,5,01. Weekday,05:10:00,01. Midnight,00:00:00,0.000000,0,04. No Usage,SuperSport Blitz
+492897,male,coloured,youth Adults,Mpumalanga,1,1,2016-01-20T16:11:00.000Z,2016-01-20,Wed,Jan,2016,20,16,01. Weekday,16:11:00,03. Afternoon,00:14:06,0.235000,846,01. Low Usage (<30 min),Channel O
+492897,male,coloured,youth Adults,Mpumalanga,1,1,2016-01-19T01:01:00.000Z,2016-01-19,Tue,Jan,2016,19,1,01. Weekday,01:01:00,01. Midnight,00:02:18,0.038333,138,04. No Usage,Trace TV
+894339,male,indian_asian,youth Adults,Kwazulu Natal,1,1,2016-03-23T14:18:00.000Z,2016-03-23,Wed,Mar,2016,23,14,01. Weekday,14:18:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+930123,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-31T11:49:00.000Z,2016-03-31,Thu,Mar,2016,31,11,01. Weekday,11:49:00,02. Morning,00:00:57,0.015833,57,04. No Usage,CNN
+930123,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-31T21:52:00.000Z,2016-03-31,Thu,Mar,2016,31,21,01. Weekday,21:52:00,04. Evening,00:21:32,0.358889,1292,01. Low Usage (<30 min),SuperSport Blitz
+592732,male,black,Adults,Limpopo,1,1,2016-01-13T07:04:00.000Z,2016-01-13,Wed,Jan,2016,13,7,01. Weekday,07:04:00,02. Morning,00:15:05,0.251389,905,01. Low Usage (<30 min),Africa Magic
+904340,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-27T19:38:00.000Z,2016-03-27,Sun,Mar,2016,27,19,02. Weekend,19:38:00,04. Evening,00:00:42,0.011667,42,04. No Usage,E! Entertainment
+904340,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-27T19:45:00.000Z,2016-03-27,Sun,Mar,2016,27,19,02. Weekend,19:45:00,04. Evening,00:00:22,0.006111,22,04. No Usage,Vuzu
+904340,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-26T23:29:00.000Z,2016-03-26,Sat,Mar,2016,26,23,02. Weekend,23:29:00,04. Evening,00:00:00,0.000000,0,04. No Usage,E! Entertainment
+820491,male,black,Adults,Gauteng,1,1,2016-03-01T06:12:00.000Z,2016-03-01,Tue,Mar,2016,1,6,01. Weekday,06:12:00,02. Morning,00:00:28,0.007778,28,04. No Usage,Live Events
+859431,male,black,Adults,Western Cape,1,1,2016-01-07T14:55:00.000Z,2016-01-07,Thu,Jan,2016,7,14,01. Weekday,14:55:00,03. Afternoon,00:00:28,0.007778,28,04. No Usage,SawSee
+820492,male,black,Elder,Limpopo,1,1,2016-01-11T07:47:00.000Z,2016-01-11,Mon,Jan,2016,11,7,01. Weekday,07:47:00,02. Morning,00:09:51,0.164167,591,01. Low Usage (<30 min),Trace TV
+820492,male,black,Elder,Limpopo,1,1,2016-03-12T16:30:00.000Z,2016-03-12,Sat,Mar,2016,12,16,02. Weekend,16:30:00,03. Afternoon,00:00:00,0.000000,0,04. No Usage,CNN
+820492,male,black,Elder,Limpopo,1,1,2016-03-09T17:32:00.000Z,2016-03-09,Wed,Mar,2016,9,17,01. Weekday,17:32:00,04. Evening,00:02:38,0.043889,158,04. No Usage,Africa Magic
+71489,male,black,youth Adults,Kwazulu Natal,1,1,2016-03-20T17:40:00.000Z,2016-03-20,Sun,Mar,2016,20,17,02. Weekend,17:40:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+892603,male,black,Adults,Eastern Cape,1,1,2016-03-22T22:00:00.000Z,2016-03-22,Tue,Mar,2016,22,22,01. Weekday,22:00:00,04. Evening,00:01:38,0.027223,98,04. No Usage,SuperSport Blitz
+809071,male,black,youth Adults,Gauteng,1,1,2016-03-05T08:19:00.000Z,2016-03-05,Sat,Mar,2016,5,8,02. Weekend,08:19:00,02. Morning,00:01:40,0.027778,100,04. No Usage,Vuzu
+809072,male,black,youth Adults,Kwazulu Natal,1,1,2016-02-22T10:15:00.000Z,2016-02-22,Mon,Feb,2016,22,10,01. Weekday,10:15:00,02. Morning,00:00:43,0.011944,43,04. No Usage,Boomerang
+809072,male,black,youth Adults,Kwazulu Natal,1,1,2016-02-21T17:47:00.000Z,2016-02-21,Sun,Feb,2016,21,17,02. Weekend,17:47:00,04. Evening,00:00:27,0.007500,27,04. No Usage,Boomerang
+809072,male,black,youth Adults,Kwazulu Natal,1,1,2016-02-12T08:24:00.000Z,2016-02-12,Fri,Feb,2016,12,8,01. Weekday,08:24:00,02. Morning,00:25:45,0.429167,1545,01. Low Usage (<30 min),Channel O
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-20T00:48:00.000Z,2016-02-20,Sat,Feb,2016,20,0,02. Weekend,00:48:00,01. Midnight,00:04:43,0.078611,283,04. No Usage,Cartoon Network
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-19T18:47:00.000Z,2016-02-19,Fri,Feb,2016,19,18,01. Weekday,18:47:00,04. Evening,00:00:30,0.008333,30,04. No Usage,Channel O
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-20T09:16:00.000Z,2016-02-20,Sat,Feb,2016,20,9,02. Weekend,09:16:00,02. Morning,00:01:42,0.028334,102,04. No Usage,ICC Cricket World Cup 2011
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-20T09:20:00.000Z,2016-02-20,Sat,Feb,2016,20,9,02. Weekend,09:20:00,02. Morning,00:03:00,0.050000,180,04. No Usage,Live Events
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-19T07:55:00.000Z,2016-02-19,Fri,Feb,2016,19,7,01. Weekday,07:55:00,02. Morning,00:13:15,0.220834,795,01. Low Usage (<30 min),Channel O
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-19T08:22:00.000Z,2016-02-19,Fri,Feb,2016,19,8,01. Weekday,08:22:00,02. Morning,00:00:12,0.003333,12,04. No Usage,Live Events
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-03-08T14:30:00.000Z,2016-03-08,Tue,Mar,2016,8,14,01. Weekday,14:30:00,03. Afternoon,01:00:30,1.008333,3630,03. High Usage (>60 min),Channel O
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-03-18T13:25:00.000Z,2016-03-18,Fri,Mar,2016,18,13,01. Weekday,13:25:00,03. Afternoon,00:10:10,0.169445,610,01. Low Usage (<30 min),Live Events
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-03-04T23:10:00.000Z,2016-03-04,Fri,Mar,2016,4,23,01. Weekday,23:10:00,04. Evening,00:03:58,0.066111,238,04. No Usage,Africa Magic
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-03-05T01:03:00.000Z,2016-03-05,Sat,Mar,2016,5,1,02. Weekend,01:03:00,01. Midnight,00:01:09,0.019167,69,04. No Usage,Channel O
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-18T07:53:00.000Z,2016-02-18,Thu,Feb,2016,18,7,01. Weekday,07:53:00,02. Morning,00:02:43,0.045277,163,04. No Usage,Boomerang
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-18T08:14:00.000Z,2016-02-18,Thu,Feb,2016,18,8,01. Weekday,08:14:00,02. Morning,00:11:36,0.193333,696,01. Low Usage (<30 min),Channel O
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-03-06T19:10:00.000Z,2016-03-06,Sun,Mar,2016,6,19,02. Weekend,19:10:00,04. Evening,00:02:25,0.040277,145,04. No Usage,Boomerang
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-02-27T08:37:00.000Z,2016-02-27,Sat,Feb,2016,27,8,02. Weekend,08:37:00,02. Morning,00:02:44,0.045555,164,04. No Usage,Africa Magic
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-03-12T13:09:00.000Z,2016-03-12,Sat,Mar,2016,12,13,02. Weekend,13:09:00,03. Afternoon,00:05:00,0.083333,300,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-03-12T19:01:00.000Z,2016-03-12,Sat,Mar,2016,12,19,02. Weekend,19:01:00,04. Evening,00:00:44,0.012222,44,04. No Usage,Live Events
+809076,male,coloured,youth Adults,Western Cape,1,1,2016-03-21T14:33:00.000Z,2016-03-21,Mon,Mar,2016,21,14,01. Weekday,14:33:00,03. Afternoon,00:05:18,0.088333,318,01. Low Usage (<30 min),Channel O
+918340,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-28T12:26:00.000Z,2016-03-28,Mon,Mar,2016,28,12,01. Weekday,12:26:00,03. Afternoon,00:00:36,0.010000,36,04. No Usage,Boomerang
+809079,male,black,youth Adults,Mpumalanga,1,1,2016-02-22T21:08:00.000Z,2016-02-22,Mon,Feb,2016,22,21,01. Weekday,21:08:00,04. Evening,00:00:08,0.002222,8,04. No Usage,Cartoon Network
+809079,male,black,youth Adults,Mpumalanga,1,1,2016-02-21T15:27:00.000Z,2016-02-21,Sun,Feb,2016,21,15,02. Weekend,15:27:00,03. Afternoon,00:00:16,0.004444,16,04. No Usage,Africa Magic
+809079,male,black,youth Adults,Mpumalanga,1,1,2016-02-21T19:15:00.000Z,2016-02-21,Sun,Feb,2016,21,19,02. Weekend,19:15:00,04. Evening,00:00:18,0.005000,18,04. No Usage,Boomerang
+809079,male,black,youth Adults,Mpumalanga,1,1,2016-02-21T19:22:00.000Z,2016-02-21,Sun,Feb,2016,21,19,02. Weekend,19:22:00,04. Evening,00:00:42,0.011667,42,04. No Usage,SuperSport Blitz
+820500,female,black,youth Adults,Kwazulu Natal,1,1,2016-02-26T11:51:00.000Z,2016-02-26,Fri,Feb,2016,26,11,01. Weekday,11:51:00,02. Morning,00:00:08,0.002222,8,04. No Usage,Live Events
+819358,male,white,Adults,Western Cape,1,1,2016-02-26T22:38:00.000Z,2016-02-26,Fri,Feb,2016,26,22,01. Weekday,22:38:00,04. Evening,00:00:45,0.012500,45,04. No Usage,Trace TV
+819358,male,white,Adults,Western Cape,1,1,2016-03-02T13:59:00.000Z,2016-03-02,Wed,Mar,2016,2,13,01. Weekday,13:59:00,03. Afternoon,00:05:12,0.086666,312,01. Low Usage (<30 min),ICC Cricket World Cup 2011
+819358,male,white,Adults,Western Cape,1,1,2016-03-19T18:24:00.000Z,2016-03-19,Sat,Mar,2016,19,18,02. Weekend,18:24:00,04. Evening,00:03:20,0.055556,200,04. No Usage,Live Events
+242356,male,white,youth Adults,Gauteng,1,1,2016-03-01T11:03:00.000Z,2016-03-01,Tue,Mar,2016,1,11,01. Weekday,11:03:00,02. Morning,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+422095,unknown,unknown,infant,Unclassified,1,1,2016-03-30T16:24:00.000Z,2016-03-30,Wed,Mar,2016,30,16,01. Weekday,16:24:00,03. Afternoon,00:00:24,0.006667,24,04. No Usage,ICC Cricket World Cup 2011
+859438,male,coloured,youth Adults,Western Cape,1,1,2016-03-11T04:21:00.000Z,2016-03-11,Fri,Mar,2016,11,4,01. Weekday,04:21:00,01. Midnight,00:00:39,0.010833,39,04. No Usage,Channel O
+830921,male,white,youth Adults,Eastern Cape,1,1,2016-03-03T21:24:00.000Z,2016-03-03,Thu,Mar,2016,3,21,01. Weekday,21:24:00,04. Evening,00:01:15,0.020834,75,04. No Usage,Trace TV
+866295,male,unknown,Adults,Gauteng,1,1,2016-03-15T13:01:00.000Z,2016-03-15,Tue,Mar,2016,15,13,01. Weekday,13:01:00,03. Afternoon,00:46:48,0.780000,2808,02. Medium Usage (<60 min),ICC Cricket World Cup 2011
+830923,male,coloured,youth Adults,Western Cape,1,1,2016-03-03T11:16:00.000Z,2016-03-03,Thu,Mar,2016,3,11,01. Weekday,11:16:00,02. Morning,00:29:12,0.486666,1752,01. Low Usage (<30 min),Trace TV
+830923,male,coloured,youth Adults,Western Cape,1,1,2016-03-03T17:09:00.000Z,2016-03-03,Thu,Mar,2016,3,17,01. Weekday,17:09:00,04. Evening,00:00:54,0.015000,54,04. No Usage,E! Entertainment
+830923,male,coloured,youth Adults,Western Cape,1,1,2016-03-04T14:30:00.000Z,2016-03-04,Fri,Mar,2016,4,14,01. Weekday,14:30:00,03. Afternoon,00:13:21,0.222500,801,01. Low Usage (<30 min),Trace TV
+173765,unknown,unknown,infant,Unclassified,1,1,2016-01-08T09:29:00.000Z,2016-01-08,Fri,Jan,2016,8,9,01. Weekday,09:29:00,02. Morning,00:01:03,0.017500,63,04. No Usage,Trace TV
+1324574,male,black,Adults,Gauteng,1,1,2016-03-05T03:39:00.000Z,2016-03-05,Sat,Mar,2016,5,3,02. Weekend,03:39:00,01. Midnight,00:00:00,0.000000,0,04. No Usage,Trace TV
+939753,male,coloured,Adults,Western Cape,1,1,2016-03-19T13:38:00.000Z,2016-03-19,Sat,Mar,2016,19,13,02. Weekend,13:38:00,03. Afternoon,00:00:08,0.002222,8,04. No Usage,SawSee
+86703,male,indian_asian,youth Adults,Gauteng,1,1,2016-03-20T00:08:00.000Z,2016-03-20,Sun,Mar,2016,20,0,02. Weekend,00:08:00,01. Midnight,00:00:00,0.000000,0,04. No Usage,Live Events
+809081,male,black,youth Adults,Gauteng,1,1,2016-02-20T16:36:00.000Z,2016-02-20,Sat,Feb,2016,20,16,02. Weekend,16:36:00,03. Afternoon,00:00:52,0.014444,52,04. No Usage,Live Events
+809081,male,black,youth Adults,Gauteng,1,1,2016-02-18T21:48:00.000Z,2016-02-18,Thu,Feb,2016,18,21,01. Weekday,21:48:00,04. Evening,00:01:56,0.032223,116,04. No Usage,Africa Magic
+809081,male,black,youth Adults,Gauteng,1,1,2016-02-21T22:17:00.000Z,2016-02-21,Sun,Feb,2016,21,22,02. Weekend,22:17:00,04. Evening,00:00:09,0.002500,9,04. No Usage,Africa Magic
+809081,male,black,youth Adults,Gauteng,1,1,2016-03-09T19:24:00.000Z,2016-03-09,Wed,Mar,2016,9,19,01. Weekday,19:24:00,04. Evening,00:00:06,0.001667,6,04. No Usage,Africa Magic
+866302,male,coloured,Adults,Western Cape,1,1,2016-03-13T21:10:00.000Z,2016-03-13,Sun,Mar,2016,13,21,02. Weekend,21:10:00,04. Evening,00:02:22,0.039444,142,04. No Usage,SuperSport Blitz
+866302,male,coloured,Adults,Western Cape,1,1,2016-03-19T14:08:00.000Z,2016-03-19,Sat,Mar,2016,19,14,02. Weekend,14:08:00,03. Afternoon,00:11:00,0.183333,660,01. Low Usage (<30 min),Trace TV
+866302,male,coloured,Adults,Western Cape,1,1,2016-03-30T11:58:00.000Z,2016-03-30,Wed,Mar,2016,30,11,01. Weekday,11:58:00,02. Morning,00:01:42,0.028334,102,04. No Usage,SuperSport Blitz
+788787,male,white,youth Adults,Northern Cape,1,1,2016-03-04T14:09:00.000Z,2016-03-04,Fri,Mar,2016,4,14,01. Weekday,14:09:00,03. Afternoon,00:00:37,0.010278,37,04. No Usage,Cartoon Network
+788787,male,white,youth Adults,Northern Cape,1,1,2016-03-07T22:46:00.000Z,2016-03-07,Mon,Mar,2016,7,22,01. Weekday,22:46:00,04. Evening,00:00:28,0.007778,28,04. No Usage,CNN
+788788,male,black,Adults,Kwazulu Natal,1,1,2016-02-03T19:41:00.000Z,2016-02-03,Wed,Feb,2016,3,19,01. Weekday,19:41:00,04. Evening,00:04:08,0.068889,248,04. No Usage,Africa Magic
+809083,male,black,Adults,Gauteng,1,1,2016-02-25T14:46:00.000Z,2016-02-25,Thu,Feb,2016,25,14,01. Weekday,14:46:00,03. Afternoon,00:18:40,0.311111,1120,01. Low Usage (<30 min),SuperSport Blitz
+809083,male,black,Adults,Gauteng,1,1,2016-02-23T01:29:00.000Z,2016-02-23,Tue,Feb,2016,23,1,01. Weekday,01:29:00,01. Midnight,00:01:44,0.028889,104,04. No Usage,SawSee
+820513,male,black,youth,Western Cape,1,1,2016-03-02T16:01:00.000Z,2016-03-02,Wed,Mar,2016,2,16,01. Weekday,16:01:00,03. Afternoon,00:04:38,0.077223,278,04. No Usage,Africa Magic
+820513,male,black,youth,Western Cape,1,1,2016-03-03T21:26:00.000Z,2016-03-03,Thu,Mar,2016,3,21,01. Weekday,21:26:00,04. Evening,00:08:15,0.137500,495,01. Low Usage (<30 min),Trace TV
+820513,male,black,youth,Western Cape,1,1,2016-02-27T21:05:00.000Z,2016-02-27,Sat,Feb,2016,27,21,02. Weekend,21:05:00,04. Evening,00:00:22,0.006111,22,04. No Usage,Break in transmission
+820513,male,black,youth,Western Cape,1,1,2016-03-16T22:23:00.000Z,2016-03-16,Wed,Mar,2016,16,22,01. Weekday,22:23:00,04. Evening,00:00:27,0.007500,27,04. No Usage,Channel O
+820513,male,black,youth,Western Cape,1,1,2016-03-16T22:25:00.000Z,2016-03-16,Wed,Mar,2016,16,22,01. Weekday,22:25:00,04. Evening,00:00:54,0.015000,54,04. No Usage,Channel O
+820513,male,black,youth,Western Cape,1,1,2016-03-15T19:47:00.000Z,2016-03-15,Tue,Mar,2016,15,19,01. Weekday,19:47:00,04. Evening,00:15:51,0.264167,951,01. Low Usage (<30 min),Trace TV
+820513,male,black,youth,Western Cape,1,1,2016-03-09T16:14:00.000Z,2016-03-09,Wed,Mar,2016,9,16,01. Weekday,16:14:00,03. Afternoon,00:14:36,0.243333,876,01. Low Usage (<30 min),Channel O
+820513,male,black,youth,Western Cape,1,1,2016-03-03T07:25:00.000Z,2016-03-03,Thu,Mar,2016,3,7,01. Weekday,07:25:00,02. Morning,00:17:00,0.283333,1020,01. Low Usage (<30 min),Trace TV
+820513,male,black,youth,Western Cape,1,1,2016-03-03T07:26:00.000Z,2016-03-03,Thu,Mar,2016,3,7,01. Weekday,07:26:00,02. Morning,00:23:22,0.389444,1402,01. Low Usage (<30 min),SuperSport Blitz
+820513,male,black,youth,Western Cape,1,1,2016-03-21T22:38:00.000Z,2016-03-21,Mon,Mar,2016,21,22,01. Weekday,22:38:00,04. Evening,00:01:18,0.021667,78,04. No Usage,Channel O
+771941,male,coloured,youth Adults,Western Cape,1,1,2016-01-10T18:07:00.000Z,2016-01-10,Sun,Jan,2016,10,18,02. Weekend,18:07:00,04. Evening,00:01:42,0.028334,102,04. No Usage,Channel O
+771941,male,coloured,youth Adults,Western Cape,1,1,2016-01-31T23:05:00.000Z,2016-01-31,Sun,Jan,2016,31,23,02. Weekend,23:05:00,04. Evening,00:08:03,0.134166,483,01. Low Usage (<30 min),Channel O
+771941,male,coloured,youth Adults,Western Cape,1,1,2016-01-11T05:44:00.000Z,2016-01-11,Mon,Jan,2016,11,5,01. Weekday,05:44:00,01. Midnight,00:23:33,0.392500,1413,01. Low Usage (<30 min),Trace TV
+771941,male,coloured,youth Adults,Western Cape,1,1,2016-01-30T21:56:00.000Z,2016-01-30,Sat,Jan,2016,30,21,02. Weekend,21:56:00,04. Evening,00:52:54,0.881667,3174,02. Medium Usage (<60 min),Channel O
+771941,male,coloured,youth Adults,Western Cape,1,1,2016-01-25T22:01:00.000Z,2016-01-25,Mon,Jan,2016,25,22,01. Weekday,22:01:00,04. Evening,00:08:21,0.139166,501,01. Low Usage (<30 min),Trace TV
+771941,male,coloured,youth Adults,Western Cape,1,1,2016-01-11T08:12:00.000Z,2016-01-11,Mon,Jan,2016,11,8,01. Weekday,08:12:00,02. Morning,00:03:25,0.056944,205,04. No Usage,Live Events
+809085,male,black,youth Adults,Gauteng,1,1,2016-02-21T09:30:00.000Z,2016-02-21,Sun,Feb,2016,21,9,02. Weekend,09:30:00,02. Morning,00:00:30,0.008333,30,04. No Usage,Channel O
+809085,male,black,youth Adults,Gauteng,1,1,2016-02-20T11:18:00.000Z,2016-02-20,Sat,Feb,2016,20,11,02. Weekend,11:18:00,02. Morning,00:00:00,0.000000,0,04. No Usage,Channel O
+809085,male,black,youth Adults,Gauteng,1,1,2016-03-13T16:15:00.000Z,2016-03-13,Sun,Mar,2016,13,16,02. Weekend,16:15:00,03. Afternoon,00:05:56,0.098889,356,01. Low Usage (<30 min),Live Events
+809085,male,black,youth Adults,Gauteng,1,1,2016-02-02T21:11:00.000Z,2016-02-02,Tue,Feb,2016,2,21,01. Weekday,21:11:00,04. Evening,00:00:30,0.008333,30,04. No Usage,SuperSport Blitz
+809085,male,black,youth Adults,Gauteng,1,1,2016-03-11T07:21:00.000Z,2016-03-11,Fri,Mar,2016,11,7,01. Weekday,07:21:00,02. Morning,00:00:24,0.006667,24,04. No Usage,Channel O
+809085,male,black,youth Adults,Gauteng,1,1,2016-01-21T00:16:00.000Z,2016-01-21,Thu,Jan,2016,21,0,01. Weekday,00:16:00,01. Midnight,00:07:51,0.130834,471,01. Low Usage (<30 min),Trace TV
+809085,male,black,youth Adults,Gauteng,1,1,2016-01-11T09:11:00.000Z,2016-01-11,Mon,Jan,2016,11,9,01. Weekday,09:11:00,02. Morning,00:00:30,0.008333,30,04. No Usage,Channel O
+809085,male,black,youth Adults,Gauteng,1,1,2016-01-30T21:11:00.000Z,2016-01-30,Sat,Jan,2016,30,21,02. Weekend,21:11:00,04. Evening,00:00:00,0.000000,0,04. No Usage,SuperSport Blitz
+809085,male,black,youth Adults,Gauteng,1,1,2016-02-27T09:49:00.000Z,2016-02-27,Sat,Feb,2016,27,9,02. Weekend,09:49:00,02. Morning,00:05:54,0.098333,354,01. Low Usage (<30 min),Boomerang
+809085,male,black,youth Adults,Gauteng,1,1,2016-03-15T17:42:00.000Z,2016-03-15,Tue,Mar,2016,15,17,01. Weekday,17:42:00,04. Evening,00:02:44,0.045555,164,04. No Usage,ICC Cricket World Cup 2011
+809085,male,black,youth Adults,Gauteng,1,1,2016-03-01T21:48:00.000Z,2016-03-01,Tue,Mar,2016,1,21,01. Weekday,21:48:00,04. Evening,00:01:01,0.016945,61,04. No Usage,CNN
+764468,male,black,youth Adults,Gauteng,1,1,2016-02-02T08:59:00.000Z,2016-02-02,Tue,Feb,2016,2,8,01. Weekday,08:59:00,02. Morning,00:02:09,0.035833,129,04. No Usage,Channel O
+2368619,male,black,youth Adults,North West,1,1,2016-01-15T17:44:00.000Z,2016-01-15,Fri,Jan,2016,15,17,01. Weekday,17:44:00,04. Evening,00:06:47,0.113056,407,01. Low Usage (<30 min),Africa Magic
+809087,male,white,Kids,Eastern Cape,1,1,2016-01-13T19:50:00.000Z,2016-01-13,Wed,Jan,2016,13,19,01. Weekday,19:50:00,04. Evening,00:01:57,0.032500,117,04. No Usage,Channel O
+809087,male,white,Kids,Eastern Cape,1,1,2016-01-16T16:38:00.000Z,2016-01-16,Sat,Jan,2016,16,16,02. Weekend,16:38:00,03. Afternoon,00:00:50,0.013889,50,04. No Usage,Live Events
+809087,male,white,Kids,Eastern Cape,1,1,2016-01-14T19:06:00.000Z,2016-01-14,Thu,Jan,2016,14,19,01. Weekday,19:06:00,04. Evening,00:06:44,0.112222,404,01. Low Usage (<30 min),SuperSport Blitz
+809087,male,white,Kids,Eastern Cape,1,1,2016-01-12T15:07:00.000Z,2016-01-12,Tue,Jan,2016,12,15,01. Weekday,15:07:00,03. Afternoon,00:01:50,0.030556,110,04. No Usage,SuperSport Blitz
+771945,male,black,youth Adults,Kwazulu Natal,1,1,2016-02-07T21:02:00.000Z,2016-02-07,Sun,Feb,2016,7,21,02. Weekend,21:02:00,04. Evening,00:14:33,0.242500,873,01. Low Usage (<30 min),Trace TV
+771945,male,black,youth Adults,Kwazulu Natal,1,1,2016-01-28T21:40:00.000Z,2016-01-28,Thu,Jan,2016,28,21,01. Weekday,21:40:00,04. Evening,00:00:36,0.010000,36,04. No Usage,SawSee
+771945,male,black,youth Adults,Kwazulu Natal,1,1,2016-01-27T11:27:00.000Z,2016-01-27,Wed,Jan,2016,27,11,01. Weekday,11:27:00,02. Morning,00:00:52,0.014444,52,04. No Usage,Africa Magic
+771945,male,black,youth Adults,Kwazulu Natal,1,1,2016-01-27T10:14:00.000Z,2016-01-27,Wed,Jan,2016,27,10,01. Weekday,10:14:00,02. Morning,00:00:16,0.004444,16,04. No Usage,M-Net
+771945,male,black,youth Adults,Kwazulu Natal,1,1,2016-03-28T15:46:00.000Z,2016-03-28,Mon,Mar,2016,28,15,01. Weekday,15:46:00,03. Afternoon,00:09:40,0.161111,580,01. Low Usage (<30 min),SuperSport Blitz
+820518,male,black,youth Adults,Gauteng,1,1,2016-01-07T19:11:00.000Z,2016-01-07,Thu,Jan,2016,7,19,01. Weekday,19:11:00,04. Evening,00:00:18,0.005000,18,04. No Usage,CNN
+788792,female,black,Adults,Gauteng,1,1,2016-01-29T07:10:00.000Z,2016-01-29,Fri,Jan,2016,29,7,01. Weekday,07:10:00,02. Morning,00:00:11,0.003056,11,04. No Usage,Africa Magic
+788792,female,black,Adults,Gauteng,1,1,2016-01-16T13:27:00.000Z,2016-01-16,Sat,Jan,2016,16,13,02. Weekend,13:27:00,03. Afternoon,00:02:33,0.042500,153,04. No Usage,Africa Magic
+788792,female,black,Adults,Gauteng,1,1,2016-03-31T21:10:00.000Z,2016-03-31,Thu,Mar,2016,31,21,01. Weekday,21:10:00,04. Evening,00:31:48,0.530000,1908,02. Medium Usage (<60 min),Cartoon Network
+788792,female,black,Adults,Gauteng,1,1,2016-02-28T14:22:00.000Z,2016-02-28,Sun,Feb,2016,28,14,02. Weekend,14:22:00,03. Afternoon,00:00:02,0.000556,2,04. No Usage,Africa Magic
+939765,male,black,Adults,Gauteng,1,1,2016-03-24T09:04:00.000Z,2016-03-24,Thu,Mar,2016,24,9,01. Weekday,09:04:00,02. Morning,00:00:51,0.014167,51,04. No Usage,Africa Magic
+939766,male,black,youth Adults,Gauteng,1,1,2016-03-22T00:48:00.000Z,2016-03-22,Tue,Mar,2016,22,0,01. Weekday,00:48:00,01. Midnight,00:39:15,0.654167,2355,02. Medium Usage (<60 min),Trace TV
+939766,male,black,youth Adults,Gauteng,1,1,2016-03-20T16:01:00.000Z,2016-03-20,Sun,Mar,2016,20,16,02. Weekend,16:01:00,03. Afternoon,00:52:42,0.878334,3162,02. Medium Usage (<60 min),Channel O
+789360,male,black,youth Adults,Mpumalanga,1,1,2016-02-13T12:28:00.000Z,2016-02-13,Sat,Feb,2016,13,12,02. Weekend,12:28:00,03. Afternoon,00:07:16,0.121111,436,01. Low Usage (<30 min),Boomerang
+866310,male,black,youth Adults,Gauteng,1,1,2016-03-13T18:44:00.000Z,2016-03-13,Sun,Mar,2016,13,18,02. Weekend,18:44:00,04. Evening,00:19:48,0.330000,1188,01. Low Usage (<30 min),Live Events
+866310,male,black,youth Adults,Gauteng,1,1,2016-03-18T21:32:00.000Z,2016-03-18,Fri,Mar,2016,18,21,01. Weekday,21:32:00,04. Evening,00:01:28,0.024445,88,04. No Usage,Live Events
+788794,male,black,youth Adults,Limpopo,1,1,2016-02-11T20:38:00.000Z,2016-02-11,Thu,Feb,2016,11,20,01. Weekday,20:38:00,04. Evening,00:06:19,0.105278,379,01. Low Usage (<30 min),Cartoon Network
+788794,male,black,youth Adults,Limpopo,1,1,2016-02-10T12:41:00.000Z,2016-02-10,Wed,Feb,2016,10,12,01. Weekday,12:41:00,03. Afternoon,00:09:54,0.165000,594,01. Low Usage (<30 min),Channel O
+788794,male,black,youth Adults,Limpopo,1,1,2016-02-06T22:53:00.000Z,2016-02-06,Sat,Feb,2016,6,22,02. Weekend,22:53:00,04. Evening,00:10:22,0.172778,622,01. Low Usage (<30 min),Live Events
+788794,male,black,youth Adults,Limpopo,1,1,2016-02-13T23:02:00.000Z,2016-02-13,Sat,Feb,2016,13,23,02. Weekend,23:02:00,04. Evening,00:00:40,0.011111,40,04. No Usage,Live Events
+997491,male,black,youth Adults,Western Cape,1,1,2016-03-06T22:03:00.000Z,2016-03-06,Sun,Mar,2016,6,22,02. Weekend,22:03:00,04. Evening,00:00:00,0.000000,0,04. No Usage,ICC Cricket World Cup 2011
+997491,male,black,youth Adults,Western Cape,1,1,2016-03-07T22:10:00.000Z,2016-03-07,Mon,Mar,2016,7,22,01. Weekday,22:10:00,04. Evening,00:00:00,0.000000,0,04. No Usage,Live Events
+809091,male,black,Elder,Gauteng,1,1,2016-02-11T22:56:00.000Z,2016-02-11,Thu,Feb,2016,11,22,01. Weekday,22:56:00,04. Evening,00:00:27,0.007500,27,04. No Usage,Trace TV
